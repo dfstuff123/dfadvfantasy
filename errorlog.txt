@@ -30468,3 +30468,51 @@ undefined local creature material set to default: HF661 DIVINE_2 HEART
 *** Error(s) finalizing the creature HF661 DIVINE_3
 undefined local creature material set to default: HF661 DIVINE_3 SKULL
 undefined local creature material set to default: HF661 DIVINE_3 HEART
+*** Error(s) found in the file "data/save/region5/raw/objects/creature_pcrtn_aasimar_advmd.txt"
+AASIMAR:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+AASIMAR:Unrecognized Creature Caste Body Token: NECK
+*** Error(s) found in the file "data/save/region5/raw/objects/creature_pcrtn_gnoll_advmd.txt"
+GNOLL_ADVMD:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+GNOLL_ADVMD:Unrecognized Creature Caste Body Token: NECK
+*** Error(s) found in the file "data/save/region5/raw/objects/creature_pcrtn_halfling_advmd.txt"
+HALFLING:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+HALFLING:Unrecognized Creature Caste Body Token: NECK
+*** Error(s) found in the file "data/save/region5/raw/objects/creature_pcrtn_half_elf_advmd.txt"
+HALF_ELF:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+HALF_ELF:Unrecognized Creature Caste Body Token: NECK
+*** Error(s) found in the file "data/save/region5/raw/objects/creature_savage_monsters.txt"
+WENDIGO_DUB:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+WENDIGO_DUB:Unrecognized Creature Caste Body Token: NECK
+MUCKMAN_DUB:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+MUCKMAN_DUB:Unrecognized Creature Caste Body Token: NECK
+GOLEM_DUB:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+HAG_DUB:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+HAG_DUB:Unrecognized Creature Caste Body Token: NECK
+BARGHEST_DUB:Unrecognized Creature Caste Body Token: NECK
+AZI_DAHAKA_DUB:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+AZI_DAHAKA_DUB:Unrecognized Creature Caste Body Token: NECK
+CHUPACABRA_DUB:Unrecognized Creature Caste Body Token: NECK
+NIGHTMARE_DUB:Unrecognized Creature Caste Body Token: NECK
+MANTICORE_DUB:Unrecognized Creature Caste Body Token: NECK
+UMBER_HULK_DUB:Unrecognized Creature Caste Body Token: NECK
+UMBER_HULK_DUB:Unrecognized Creature Caste Body Token: HUMANOID_JOINTS
+*** Error(s) found in the file "data/save/region5/raw/objects/entity_savage.txt"
+Unrecognized Unit Type Token: ARMORSMITH
+*** Error(s) finalizing the creature WENDIGO_DUB
+WENDIGO_DUB:FEMALE:skull, layer 1: Tissue SKULL was not found, using first tissue instead
+WENDIGO_DUB:MALE:skull, layer 1: Tissue SKULL was not found, using first tissue instead
+*** Error(s) finalizing the creature WURM_DUB
+undefined local creature material set to default: WURM_DUB SKULL
+*** Error(s) finalizing the creature BARGHEST_DUB
+undefined local creature material set to default: BARGHEST_DUB SKULL
+*** Error(s) finalizing the creature AZI_DAHAKA_DUB
+AZI_DAHAKA_DUB:MALE:skull, layer 1: Tissue SKULL was not found, using first tissue instead
+*** Error(s) finalizing the creature CHUPACABRA_DUB
+undefined local creature material set to default: CHUPACABRA_DUB SKULL
+*** Error(s) finalizing the creature NIGHTMARE_DUB
+NIGHTMARE_DUB:FEMALE:skull, layer 1: Tissue SKULL was not found, using first tissue instead
+NIGHTMARE_DUB:MALE:skull, layer 1: Tissue SKULL was not found, using first tissue instead
+*** Error(s) finalizing the creature MANTICORE_DUB
+undefined local creature material set to default: MANTICORE_DUB SKULL
+*** Error(s) finalizing the creature UMBER_HULK_DUB
+undefined local creature material set to default: UMBER_HULK_DUB TANNEDCHITIN
