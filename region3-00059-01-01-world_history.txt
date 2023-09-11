@@ -1,0 +1,703 @@
+Lathonnãr
+The Mythical Land
+
+Cave fish men
+Rodent men
+Olm men
+Cave swallow men
+Bat men
+Reptile men
+Antmen
+Deathcap
+Serpent men
+Amphibian men
+Amphibian men
+Cave swallow men
+Deathcap
+Reptile men
+Bat men
+Olm men
+Cave fish men
+Antmen
+Serpent men
+Reptile men
+Antmen
+Olm men
+Serpent men
+Rodent men
+Deathcap
+Amphibian men
+Cave fish men
+Cave fish men
+Amphibian men
+Olm men
+Antmen
+Reptile men
+Deathcap
+Serpent men
+Amphibian men
+Serpent men
+Rodent men
+Cave fish men
+Olm men
+Deathcap
+Reptile men
+Cave swallow men
+Antmen
+Reptile men
+Bat men
+Olm men
+Antmen
+Serpent men
+Deathcap
+Rodent men
+Amphibian men
+Cave swallow men
+Cave swallow men
+Bat men
+Deathcap
+Cave fish men
+Rodent men
+Antmen
+Deathcap
+Rodent men
+Amphibian men
+Cave fish men
+Bat men
+Cave swallow men
+Antmen
+Reptile men
+Serpent men
+Olm men
+Bat men
+Padastrakis, Kobolds
+The Lamented Terrors, Goblins
+ master List
+  [*] Lñk Embracefragrance the Bewildering (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+      Worships Pessal (100%)
+Jaynkis, Reptile men
+ Worship List
+  Trobolradis, force: nature, rivers
+ shaman List
+  [*] Tududugorber (b.??? d. 35, Reign Began: 1), *** Original Line, Married (d. 40)
+      8 Children -- Ages at death: 33 32 31 29 28 26 17 16
+      Worshipped Trobolradis (94%)
+  [*] Sujeengus (b.12 d. 47, Reign Began: 35), *** New Line, Divorced
+      2 Children -- Ages at death: 13 12
+      Worshipped Trobolradis (100%)
+  [*] Shujraymbin (b.2, Reign Began: 48), *** New Line, Never Married
+      6 Children -- Ages: 31 30 29 16 11 10
+      Worships Trobolradis (94%)
+Dlijrolmer, Cave fish men
+ Worship List
+  Trobolradis, force: nature, rivers
+ shaman List
+  [*] Dloblorbin (b.??? d. 35, Reign Began: 1), *** Original Line, Never Married
+      4 Children -- Ages at death: 24 23 22 18
+      Worshipped Trobolradis (92%)
+  [*] Plidus (b.??? d. 43, Reign Began: 35), *** New Line, Never Married
+      2 Children -- Ages at death: 41 40
+      Worshipped Trobolradis (90%)
+  [*] Probeengus (b.??? d. 54, Reign Began: 43), *** New Line, Divorced
+      11 Children -- Ages at death: 51 50 48 47 45 43 43 42 41 38 37
+      Worshipped Trobolradis (93%)
+  [*] Fukukudlaymbin (b.41, Reign Began: 54), Inherited, Married
+      1 Child -- Ages: 12
+      Worships Trobolradis (96%)
+The Silken Empire, Humans
+ Worship List
+  Sted the Flag of Judging, deity: rumors, fame
+  Uja Tombashes, deity: death
+  Ip the Intricate Page-Bewilderment, deity: revelry, festivals, dance, music, song, poetry, writing
+  Omsuth, deity: blight
+  Acik Dentedtooth, deity: revenge
+  Idla Containedworth the Blockaded Bravery, deity: justice, laws, discipline, fortresses
+  Rafeb the Kind, deity: hospitality, peace
+  Ethra the Island of Sun, deity: the weather, nature, water
+  The Aqua Avalanche, deity: jewels
+  Posa, deity: day
+ law-giver List
+  [*] Zin Nurtureheavens (b.??? d. 18, Reign Began: 2), *** Original Line, Divorced
+      3 Children (out-lived 1 of them) -- Ages at death: 16 (d. 4) 12
+      Worshipped Ip the Intricate Page-Bewilderment (81%)
+  [*] Are Peacefulchirps (b.2, Reign Began: 19), Inherited from father, Married
+      2 Children -- Ages: 34 18
+      Worships Ip the Intricate Page-Bewilderment (100%)
+Progoslakin, Antmen
+ Worship List
+  Tukranker, force: nature, rivers
+ shaman List
+  [*] Studufufayrin (b.??? d. 14, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Tukranker (100%)
+  [*] Sribibrursnis (b.??? d. 17, Reign Began: 15), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (98%)
+  [*] Stringus (b.??? d. 22, Reign Began: 18), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (97%)
+  [*] Krokogleelgus (b.9 d. 23, Reign Began: 23), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (100%)
+  [*] Slubugukraler (b.14 d. 25, Reign Began: 24), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (92%)
+  [*] Brigraynkin (b.16 d. 26, Reign Began: 26), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (94%)
+  [*] Sagadagluldus (b.19 d. 28, Reign Began: 27), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (94%)
+  [*] Pifidistaylbis (b.16 d. 29, Reign Began: 29), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (95%)
+  [*] Luchroker (b.21 d. 31, Reign Began: 30), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (91%)
+  [*] Gibibikubin (b.24 d. 32, Reign Began: 32), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (92%)
+  [*] Chlolokochloder (b.23 d. 33, Reign Began: 33), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (100%)
+  [*] Jrutaydis (b.24 d. 34, Reign Began: 34), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (100%)
+  [*] Jrumus (b.21 d. 35, Reign Began: 35), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (84%)
+  [*] Brobis (b.22 d. 36, Reign Began: 36), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (95%)
+  [*] Dufufutreelmis (b.25 d. 37, Reign Began: 37), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (100%)
+  [*] Stlidiglaynkus (b.27 d. 38, Reign Began: 38), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (90%)
+  [*] Dululreerbis (b.27 d. 39, Reign Began: 39), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (95%)
+  [*] Dukradis (b.32 d. 40, Reign Began: 40), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (92%)
+  [*] Jruslaldus (b.29 d. 41, Reign Began: 41), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (90%)
+  [*] Jikidiprilis (b.30 d. 42, Reign Began: 42), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (90%)
+  [*] Tlulustraykin (b.32 d. 43, Reign Began: 43), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (91%)
+  [*] Plurbus (b.31 d. 44, Reign Began: 44), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (98%)
+  [*] Plukukukleeldis (b.33 d. 45, Reign Began: 45), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (96%)
+  [*] Froflaylmin (b.37 d. 46, Reign Began: 46), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (90%)
+  [*] Prululucheembus (b.39 d. 51, Reign Began: 47), *** New Line, Never Married
+      No Children
+      Worshipped Tukranker (90%)
+  [*] Gloker (b.43, Reign Began: 52), *** New Line, Never Married
+      No Children
+      Worships Tukranker (93%)
+Strofobokreemis, Bat men
+ Worship List
+  Shubupaydus, force: mountains, nature
+ shaman List
+  [*] Blofojlaykin (b.??? d. 15, Reign Began: 1), *** Original Line, Married (d. 22)
+      6 Children (out-lived 2 of them) -- Ages at death: (d. 5) (d. 5) 9 8 3 1
+      Worshipped Shubupaydus (99%)
+  [*] Chugushilgus (b.??? d. 18, Reign Began: 15), *** New Line, Never Married
+      2 Children -- Ages at death: 11 10
+      Worshipped Shubupaydus (100%)
+  [*] Chibikrolus (b.13 d. 33, Reign Began: 18), *** New Line, Married (d. 37)
+      5 Children (out-lived 1 of them) -- Ages at death: 16 15 14 (d. 24) 9
+      Worshipped Shubupaydus (95%)
+  [*] Jibigitlilgis (b.25 d. 40, Reign Began: 34), *** New Line, Never Married
+      3 Children (out-lived 2 of them) -- Ages at death: (d. 35) (d. 35) 0
+      Worshipped Shubupaydus (93%)
+  [*] Paykus (b.24 d. 41, Reign Began: 41), *** New Line, Married (d. 36)
+      4 Children (out-lived 3 of them) -- Ages at death: (d. 36) (d. 36) (d. 33) 5
+      Worshipped Shubupaydus (93%)
+  [*] Shlagasreedis (b.22 d. 42, Reign Began: 42), *** New Line, Married (d. 38)
+      No Children
+      Worshipped Shubupaydus (92%)
+  [*] Thlangus (b.24 d. 43, Reign Began: 43), *** New Line, Never Married
+      No Children
+      Worshipped Shubupaydus (91%)
+  [*] Chlolus (b.27 d. 44, Reign Began: 44), *** New Line, Married (d. 55)
+      1 Child -- Ages at death: 0
+      Worshipped Trobolradis (68%)
+  [*] Kukus (b.34 d. 45, Reign Began: 45), *** New Line, Married (d. 55)
+      1 Child -- Ages at death: 0
+      Worshipped Shubupaydus (53%)
+  [*] Faprunkin (b.24 d. 46, Reign Began: 46), *** New Line, Never Married
+      4 Children (out-lived 4 of them) -- Ages at death: (d. 36) (d. 36) (d. 38) (d. 36)
+      Worshipped Shubupaydus (100%)
+  [*] Shoflongus (b.34 d. 47, Reign Began: 47), *** New Line, Married (d. 40)
+      No Children
+      Worshipped Shubupaydus (96%)
+  [*] Krigiblulgus (b.33 d. 55, Reign Began: 48), *** New Line, Married (d. 44)
+      2 Children (out-lived 1 of them) -- Ages at death: (d. 36) 11
+      Worshipped Imara (32%)
+  [*] Jlikilunkin (b.34 d. 59, Reign Began: 55), *** New Line, Married
+      No Children
+      Worshipped Shubupaydus (5%)
+  [*] Chlulugleenkis (b.36, Reign Began: 59), *** New Line, Divorced
+      No Children
+      Worships Shubupaydus (32%)
+The Fenced Song, Elves
+ Worship List
+  The Saffron, force: nature, rivers
+ druid List
+  [*] Osime Wiltedfurs (b.??? d. 3, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped The Saffron (13%)
+  [*] Lebeyu Squidseason (b.??? d. 42, Reign Began: 4), *** New Line, Never Married
+      No Children
+      Worshipped The Saffron (90%)
+  [*] Ithith° Dellwhisker (b.18, Reign Began: 43), *** New Line, Never Married
+      No Children
+      Worships The Saffron (96%)
+ princess List
+  [*] Epeve Geniuslute (b.??? d. 3, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped The Saffron (99%)
+  [*] Lesana Styletongs (b.??? d. 5, Reign Began: 4), *** New Line, Never Married
+      No Children
+      Worshipped The Saffron (59%)
+  [*] Tira Markheather (b.??? d. 29, Reign Began: 6), *** New Line, Married
+      7 Children -- Ages at death: 21 20 19 18 16 9 8
+      Worshipped The Saffron (90%)
+  [*] çmimi Apesbars (b.??? d. 7, Reign Began: 7), *** New Line, Never Married
+      No Children
+      Worshipped The Saffron (37%)
+  [*] Enure Bowedadored (b.??? d. 29, Reign Began: 8), *** New Line, Never Married
+      No Children
+      Worshipped The Saffron (92%)
+  [*] Minaro Crabpetal (b.???, Reign Began: 30), *** New Line, Married
+      9 Children -- Ages: 48 47 46 45 43 39 25 23 17
+      Worships The Saffron (98%)
+ queen List
+  [*] Themiyi Sistersdestined (b.??? d. 3, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped The Saffron (97%)
+  [*] Ima Drummedflaxen (b.??? d. 6, Reign Began: 4), *** New Line, Never Married
+      No Children
+      Worshipped The Saffron (97%)
+  [*] Tira Markheather (b.??? d. 29, Reign Began: 7), *** New Line, Married
+      7 Children -- Ages at death: 21 20 19 18 16 9 8
+      Worshipped The Saffron (90%)
+  [*] Aye Daytundras (b.12, Reign Began: 30), *** New Line, Married
+      6 Children -- Ages: 34 33 32 28 24 19
+      Worships The Saffron (91%)
+The Sensual Vessel, Deathcap
+ Worship List
+  Gudas, deity: festivals, song, music, dance
+  Sath the Grave of Dying, deity: death
+  Immast, deity: strength
+  Defiyi, deity: revelry, happiness
+  Are Neobegan, deity: creation, birth
+  The Glade of Owls, deity: plants, animals
+  Datan, deity: earth, suicide
+  Utesh Umbrahole, deity: caverns
+  Monom the Book of Reason, deity: wisdom
+  Sifina Scrapdragon, deity: thralldom
+  Anu, deity: nightmares
+ kingcap List
+  [*] Aril Pastimemountain (b.???, Reign Began: 1), *** Original Line, Married
+      8 Children -- Ages: 57 56 55 53 52 46 45 43
+      Worships Datan (100%)
+The Girders of Recreation, Dwarves
+ Worship List
+  Moldath, deity: earth, caverns
+  Unnos Saffronferns the Wing of Tongues, deity: death, agriculture
+  Gedor Spiderymorass, deity: mountains, volcanos, torture, misery
+  Sodel, deity: fortresses
+  Zas Graybeige the Gravel of Color, deity: jewels
+  LimÉr the Tax of Pearls, deity: wealth
+  Nunok the Wise Numbers, deity: writing, scholarship, wisdom
+  Thuveg Workedwinds the Thrifty Furnace, deity: labor, crafts, creation
+  Sìd, deity: darkness, the night
+  The Reticence of Embracing, deity: loyalty, oaths, marriage, birth, youth
+  The Witch of Veiling, deity: lies
+ king List
+  [*] Rovod Inkplay (b.??? d. 4, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Gedor Spiderymorass (31%)
+  [*] Ral Massiveinks (b.??? d. 28, Reign Began: 5), *** New Line, Never Married
+      No Children
+      Worshipped Zospu Dawnmurk (89%)
+  [*] Melbil Hallgift (b.17, Reign Began: 29), *** New Line, Married
+      8 Children -- Ages: 29 28 26 25 22 14 10 7
+      Worships The Witch of Veiling (95%)
+Grilgis, Serpent men
+ Worship List
+  Jilrarbus, force: nature, rivers
+ shaman List
+  [*] Slidikigalis (b.??? d. 4, Reign Began: 1), *** Original Line, Married (d. 4)
+      1 Child -- Ages at death: 0
+      Worshipped Jilrarbus (91%)
+  [*] Lralulgis (b.??? d. 5, Reign Began: 5), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Jladastlangus (b.??? d. 6, Reign Began: 6), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Shlogiris (b.??? d. 7, Reign Began: 7), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (98%)
+  [*] Plachlikis (b.??? d. 8, Reign Began: 8), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (91%)
+  [*] Shladagagraldin (b.??? d. 9, Reign Began: 9), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (96%)
+  [*] Prigibridis (b.??? d. 10, Reign Began: 10), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (90%)
+  [*] Jlubugraylgin (b.??? d. 11, Reign Began: 11), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (93%)
+  [*] Thukuthrilgus (b.??? d. 12, Reign Began: 12), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (90%)
+  [*] Kralafachreeldus (b.??? d. 13, Reign Began: 13), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (92%)
+  [*] Lreerus (b.??? d. 14, Reign Began: 14), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (94%)
+  [*] Drukugutimbis (b.??? d. 15, Reign Began: 15), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (99%)
+  [*] Shififalber (b.4 d. 16, Reign Began: 16), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Kluluguflilbis (b.??? d. 17, Reign Began: 17), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (92%)
+  [*] Jrigikigrildus (b.??? d. 18, Reign Began: 18), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (92%)
+  [*] Gobograylgin (b.??? d. 19, Reign Began: 19), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Klabin (b.??? d. 20, Reign Began: 20), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (92%)
+  [*] Chrofolothomis (b.??? d. 21, Reign Began: 21), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (98%)
+  [*] Chridikipraylgus (b.??? d. 22, Reign Began: 22), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (93%)
+  [*] Fududulrogus (b.??? d. 23, Reign Began: 23), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (79%)
+  [*] Shrufupralgus (b.??? d. 24, Reign Began: 24), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (99%)
+  [*] Klorsnis (b.2 d. 25, Reign Began: 25), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Tligidikraber (b.??? d. 26, Reign Began: 26), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (91%)
+  [*] Gafalasrirbis (b.??? d. 27, Reign Began: 27), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Strugukuker (b.??? d. 28, Reign Began: 28), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (95%)
+  [*] Sradadachrayrin (b.??? d. 29, Reign Began: 29), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (94%)
+  [*] Jirbus (b.5 d. 30, Reign Began: 30), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (90%)
+  [*] Lomer (b.??? d. 31, Reign Began: 31), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Trudreelis (b.5 d. 32, Reign Began: 32), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (98%)
+  [*] Fasrayldus (b.13 d. 33, Reign Began: 33), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Lathlimis (b.2 d. 35, Reign Began: 34), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (98%)
+  [*] Lodotrigis (b.2 d. 36, Reign Began: 36), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Sodoblalbus (b.11 d. 37, Reign Began: 37), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (98%)
+  [*] Jeegis (b.6 d. 38, Reign Began: 38), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Tlongis (b.5 d. 39, Reign Began: 39), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Shliligislayngus (b.12 d. 41, Reign Began: 40), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (92%)
+  [*] Strogokoshrokus (b.12 d. 42, Reign Began: 42), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (91%)
+  [*] Thlaykus (b.18 d. 43, Reign Began: 43), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (96%)
+  [*] Kridichrangin (b.23 d. 45, Reign Began: 44), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (97%)
+  [*] Sigilitrogin (b.20 d. 46, Reign Began: 46), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (90%)
+  [*] Thologostarber (b.18 d. 48, Reign Began: 47), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (91%)
+  [*] Jragalasayder (b.15 d. 49, Reign Began: 49), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+  [*] Jrogofothingis (b.25 d. 51, Reign Began: 50), *** New Line, Never Married
+      No Children
+      Worshipped Jilrarbus (100%)
+The Grove of Scenarios, Elves
+ Worship List
+  Olova the Ripe, force: nature, rivers
+ druid List
+  [*] Apasi Breedfang (b.??? d. 53, Reign Began: 1), *** Original Line, Never Married
+      12 Children (out-lived 2 of them) -- Ages at death: 51 50 (d. 13) (d. 46) 41 32 28 25 23 3 2 1
+      Worshipped Olova the Ripe (92%)
+  [*] òonali Cloakripe (b.???, Reign Began: 54), *** New Line, Married (d. 46)
+      19 Children -- Ages: 57 56 55 52 51 48 47 46 44 43 40 37 36 34 29 28 27 17 16
+      Worships Olova the Ripe (92%)
+ princess List
+  [*] Ecafe Dawnedwomen (b.???, Reign Began: 1), *** Original Line, Never Married
+      12 Children -- Ages: 57 56 54 53 47 43 38 34 31 29 12 5
+      Worships Olova the Ripe (97%)
+ queen List
+  [*] Rayali Urnvine (b.???, Reign Began: 1), *** Original Line, Married (d. 46)
+      12 Children -- Ages: 57 56 55 52 51 48 47 46 44 43 40 24
+      Worships Olova the Ripe (100%)
+The Parched Sin, Goblins
+ master List
+  [*] Zusmo Contestsalutes the Hellish (b.??? d. 24, Reign Began: -1), *** Original Line, Never Married
+      No Children
+  [*] Amxu Waterthieves the Grieving Palisade (b.??? d. 46, Reign Began: 25), *** New Line, Married (d. 33)
+      6 Children (out-lived 3 of them) -- Ages at death: (d. 45) (d. 43) 17 (d. 31) 2 0
+  [*] Snodub Jackalrenown (b.???, Reign Began: 47), *** New Line, Never Married
+      No Children
+Flofalmis, Kobolds
+The Cobalt Confederations, Humans
+ Worship List
+  Gel Ivorymountains, deity: minerals, metals, fire, the sun, jewels, wealth, trade
+  Juwog, deity: disease, deformity
+  Usa the Moth-Spider of Cats, deity: treachery
+  Sath, deity: death
+  Or, deity: creation, pregnancy, birth, youth, children, family
+  Dof, deity: war, valor, lightning
+  Kofi, deity: dance, festivals, revelry, music, song, poetry
+  Ulde the Gulf of Waters, deity: salt
+  Mup, deity: muck
+  Ulet the Dreamy, deity: rumors
+ law-giver List
+  [*] Kasat Bendstuck (b.??? d. 55, Reign Began: 4), *** Original Line, Never Married
+      No Children
+      Worshipped Kofi (96%)
+  [*] Pidud Lushdangers (b.34, Reign Began: 55), *** New Line, Never Married
+      No Children
+      Worships Juwog (91%)
+The Crystal of Vessels, Deathcap
+ Worship List
+  Keshan Flamediamonds, deity: earth, volcanos
+  The Truthful, deity: revelry, song
+  Tath, deity: death, war, valor
+  Obi the Cobalt Avalanche, deity: caverns, mountains
+  Obruk the Foggy, deity: nature, the weather, the sky, the moon, the night
+  Belbez Grainpants, deity: festivals
+  Ustuth, deity: creation, crafts, labor
+  Smox Poempaged, deity: wisdom
+  Ostath, deity: strength
+ kingcap List
+  [*] Kel Cobalttrade (b.??? d. 15, Reign Began: 1), *** Original Line, Married
+      8 Children -- Ages at death: 13 12 10 8 7 6 2 0
+      Worshipped Ustuth (67%)
+  [*] Fama Immortalitywound (b.13, Reign Began: 16), Inherited from father, Married
+      4 Children -- Ages: 40 39 30 28
+      Worships Ustuth (88%)
+The Empires of Outrage, Humans
+ Worship List
+  Kulur the Blossom of Veils, deity: dusk, twilight, the dawn
+  Pessal, deity: the sun
+  Zurko Noblecrushed, deity: death, war
+  Alle the Brave, deity: the rain, plants, mercy
+  Oled, deity: consolation
+  Sestah, deity: creation, birth, youth, children, pregnancy
+  Thudu Flickersculptures, deity: lightning, murder
+  Sahthet the Last Sins, deity: treachery
+ law-giver List
+  [*] Moto Bathefortune (b.??? d. 54, Reign Began: 8), *** Original Line, Married (d. 49)
+      6 Children -- Ages at death: 51 50 48 36 35 22
+      Worshipped Zurko Noblecrushed (95%)
+  [*] Alnos Systemglossed (b.6, Reign Began: 54), Inherited from father, Divorced
+      2 Children -- Ages: 39 37
+      Worships Kulur the Blossom of Veils (100%)
+Jufufugodus, Kobolds
+The Plague of Testing, Goblins
+ master List
+  [*] Talde the God of Crazes (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Earth of Arenas, Elves
+ Worship List
+  Imara, force: nature, rivers
+ druid List
+  [*] Romimi Appearedsnarl (b.??? d. 36, Reign Began: 1), *** Original Line, Married (d. 41)
+      10 Children -- Ages at death: 33 32 31 30 29 28 27 26 17 7
+      Worshipped Imara (92%)
+  [*] Futace Jawsnarl (b.??? d. 37, Reign Began: 37), *** New Line, Divorced
+      7 Children (out-lived 1 of them) -- Ages at death: 33 (d. 35) 31 30 27 25 1
+      Worshipped Imara (94%)
+  [*] Nethitha Relieffuchsia (b.25 d. 41, Reign Began: 38), *** New Line, Never Married
+      No Children
+      Worshipped Imara (100%)
+  [*] °lime Ridersparkled (b.11, Reign Began: 42), *** New Line, Married (d. 41)
+      6 Children -- Ages: 34 30 25 24 22 18
+      Worships Imara (93%)
+ princess List
+  [*] Epeve Sunslulled (b.??? d. 36, Reign Began: 1), *** Original Line, Married (d. 36)
+      8 Children -- Ages at death: 34 33 31 27 25 20 17 0
+      Worshipped Imara (95%)
+  [*] Mokathi Sablewall (b.3 d. 40, Reign Began: 37), Inherited from mother, Divorced
+      6 Children (out-lived 2 of them) -- Ages at death: 24 23 (d. 36) 20 19 (d. 24)
+      Worshipped Imara (91%)
+  [*] Avafi Leaptundra (b.2 d. 41, Reign Began: 41), *** New Line, Never Married
+      No Children
+      Worshipped Imara (90%)
+  [*] Zepave Roseape (b.21 d. 42, Reign Began: 42), *** New Line, Never Married
+      1 Child -- Ages at death: 0
+      Worshipped Imara (100%)
+  [*] Enina Shellbeaches (b.25 d. 43, Reign Began: 43), *** New Line, Divorced
+      No Children
+      Worshipped Imara (97%)
+  [*] Fidale Roomlathered (b.12, Reign Began: 44), *** New Line, Divorced
+      No Children
+      Worships Imara (97%)
+ queen List
+  [*] Mimale Clashesdive (b.??? d. 36, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Imara (100%)
+  [*] Adela Boarfound (b.25 d. 41, Reign Began: 37), *** New Line, Never Married
+      3 Children -- Ages at death: 3 2 1
+      Worshipped Ustuth (100%)
+  [*] Ar°le Rulergorge (b.15, Reign Began: 42), *** New Line, Divorced
+      2 Children -- Ages: 17 16
+      Worships Imara (94%)
+The Turquoise Page, Deathcap
+ Worship List
+  Stung, deity: wisdom, hospitality
+  Nîkor, deity: death
+  Thol, deity: caverns
+  Odur the White Shins, deity: nature, the sun, luck
+  Enore, deity: revelry
+  Dubmith the Dumpling of Springs, deity: festivals, music, dance
+  Naza, deity: strength
+  Zospu Dawnmurk, deity: creation, the night
+  Ber, deity: earth, mountains
+ kingcap List
+  [*] Ono Sealyawns (b.???, Reign Began: 1), *** Original Line, Divorced
+      6 Children -- Ages: 57 56 54 52 51 50
+      Worships Stung (100%)
+The Ripe Realm, Humans
+ Worship List
+  Uthra, deity: the sun, the sky
+  Ata, deity: rulership
+  The Dead Tomb, deity: suicide, death
+  Cilko, deity: the weather
+  Zoku Lanceaxes, deity: chaos, war
+  Galka, deity: caverns, earth, mountains
+ law-giver List
+  [*] Ceslaz Deserttwists (b.??? d. 5, Reign Began: 2), *** Original Line, Never Married
+      No Children
+      Worshipped Cilko (89%)
+  [*] Struslot Urnzeniths (b.??? d. 6, Reign Began: 6), *** New Line, Never Married
+      No Children
+      Worshipped Uthra (9%)
+  [*] Hok Straymarked (b.??? d. 14, Reign Began: 11), *** New Line, Never Married
+      3 Children -- Ages at death: 2 1 0
+      Worshipped The Dead Tomb (72%)
+  [*] Oko Bristlecandy (b.??? d. 17, Reign Began: 15), *** New Line, Never Married
+      No Children
+      Worshipped Uthra (46%)
+  [*] Ushcen Stirredtricked (b.??? d. 19, Reign Began: 18), *** New Line, Never Married
+      No Children
+      Worshipped Ata (75%)
+  [*] Ras Stabbeddines (b.??? d. 22, Reign Began: 20), *** New Line, Never Married
+      No Children
+      Worshipped Ata (88%)
+  [*] Ebpel Beltedgoal (b.??? d. 23, Reign Began: 23), *** New Line, Never Married
+      No Children
+      Worshipped Cilko (5%)
+  [*] Hathur Villageswam (b.??? d. 25, Reign Began: 24), *** New Line, Never Married
+      No Children
+      Worshipped Galka (81%)
+  [*] Sahthet Abyssdreams (b.??? d. 28, Reign Began: 26), *** New Line, Never Married
+      1 Child -- Ages at death: 0
+      Worshipped Uthra (65%)
+  [*] Udal Lightkneaded (b.??? d. 29, Reign Began: 29), *** New Line, Never Married
+      No Children
+      Worshipped Cilko (68%)
+  [*] Jasmuk Pointysense (b.10, Reign Began: 31), *** New Line, Married
+      8 Children -- Ages: 26 25 22 21 18 12 6 2
+      Worships Zoku Lanceaxes (98%)
+The Scourge of Phlegm, Goblins
+ master List
+  [*] I§o Grottourns (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Big Music, Elves
+ Worship List
+  Thele, force: nature, rivers
+ druid List
+  [*] Cequova Satinyruled (b.??? d. 2, Reign Began: 1), *** Original Line, Never Married
+      1 Child -- Ages at death: 0
+      Worshipped Thele (46%)
+  [*] Amane Sablehopeful (b.??? d. 3, Reign Began: 3), *** New Line, Never Married
+      No Children
+      Worshipped Thele (54%)
+  [*] Ave Seedwatches (b.???, Reign Began: 4), *** New Line, Divorced
+      15 Children -- Ages: 57 56 55 53 47 40 36 35 33 32 31 27 26 9 8
+      Worships Thele (94%)
+ princess List
+  [*] Fçma Echooranges (b.??? d. 3, Reign Began: 1), *** Original Line, Married (d. 2)
+      1 Child -- Ages at death: 1
+      Worshipped Thele (22%)
+  [*] Mawada Silkkiss (b.??? d. 3, Reign Began: 3), *** New Line, Never Married
+      No Children
+      Worshipped Thele (57%)
+  [*] Epeve Amusedglittered (b.???, Reign Began: 4), *** New Line, Married (d. 32)
+      5 Children -- Ages: 32 31 30 29 27
+      Worships Thele (90%)
+  [*] L°ceyi Skymark (b.11, Reign Began: 25), *** New Line, Never Married
+      8 Children -- Ages: 32 31 25 24 23 21 19 8
+      Worships Thele (100%)
+ queen List
+  [*] Thelire Sablelights (b.??? d. 2, Reign Began: 1), *** Original Line, Never Married
+      1 Child -- Ages at death: 0
+      Worshipped Thele (93%)
+  [*] Fçma Echooranges (b.??? d. 3, Reign Began: 3), *** New Line, Married (d. 2)
+      1 Child -- Ages at death: 1
+      Worshipped Thele (22%)
+  [*] °lime Wavedromances (b.??? d. 24, Reign Began: 4), *** New Line, Married
+      11 Children (out-lived 2 of them) -- Ages at death: 19 18 (d. 9) (d. 9) 13 11 8 6 4 3 1
+      Worshipped Thele (93%)
+  [*] Epeve Amusedglittered (b.???, Reign Began: 25), *** New Line, Married (d. 32)
+      5 Children -- Ages: 32 31 30 29 27
+      Worships Thele (90%)

@@ -1,0 +1,1280 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3253334
+ Seed: m6ikWUqauWmySqEgEOuA
+ History Seed: c2SQ2UKygKEoswgQGiAu
+ Name Seed: o8aGmu4Wu68eY6WQ2iQa
+ Creature Seed: MeMiGSUQ0k828UAaAsQA
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: oSCyom2w4mwuMcmEI4wc
+ History Seed: kce66koIWAIueWG2uIA6
+ Name Seed: 24WMQUCucioQ6UCoqse4
+ Creature Seed: Ec4CCO4ssO0aw6OIWeQI
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: KROZSHrL4qPWyscd2ZiA
+ History Seed: hM1bcuwOb7cvs51Pub9M
+ Name Seed: 3MtzqprMSnGgyl5QxZfn
+ Creature Seed: rDS5IeSSsyYztExVaE8U
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3343334
+ Seed: 57OS5MMis2jLZbPHlG7U
+ History Seed: La4laqz4aRNapEPynDhg
+ Name Seed: B365lyrFvuzc8H5FN57K
+ Creature Seed: OLYGUuOQIs8PK56E4ZDE
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3343334
+ Seed: fRya6MeafeivOtrco4Nx
+ History Seed: L9L88gfa3I3v4Y65jHZA
+ Name Seed: kMhA3Rb0fIKGXsk0T5Rv
+ Creature Seed: Bf5LH77SBi0g42D08pS5
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the central swamps.
+The stray dog scratches the hippo in the lower body, tearing the skin and bruising the fat!
+The stray dog attacks the hippo but She jumps away!
+The stray dog scratches the hippo in the upper body, tearing the skin and bruising the fat!
+The hippo kicks the stray dog in the right rear paw with her right front foot and the injured part collapses!
+An artery has been opened by the attack!
+The stray dog has become enraged!
+The stray dog misses the hippo!
+The hippo kicks the stray dog in the lower body with her right front foot, bruising the muscle and bruising the guts!
+The hippo charges at the stray dog!
+The hippo collides with the stray dog!
+The stray dog is knocked over and tumbles backward!
+The stray dog stands up.
+The stray dog misses the hippo!
+The hippo kicks the stray dog in the left front leg with her right front foot, bruising the muscle!
+The stray dog attacks the hippo but She jumps away!
+The hippo kicks the stray dog in the right front paw with her left front foot and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force pulls the ankle, right front paw and the part splits in gore!
+A ligament has been torn and a tendon has been torn!
+The stray dog falls over.
+The stray dog is no longer stunned.
+Stray Dog (Tame) is no longer enraged.
+The stray dog attacks the hippo but She jumps away!
+The hippo attacks the stray dog but She jumps away!
+The stray dog scratches the hippo in the right rear leg, tearing the skin and bruising the muscle!
+The hippo kicks the stray dog in the head with her left front foot and the injured part explodes into gore!
+An artery has been opened by the attack!
+The Stray Dog (Tame) has been missing for a week.
+You have struck lignite!
+x2
+x3
+You have struck native platinum!
+There is nothing to catch in the southern lake.
+You have struck magnetite!
+Arkur Sathrellapip has become a Carpenter.
+You have struck clear tourmaline!
+You have struck lignite!
+You have struck sardonyx!
+You have struck indigo tourmaline!
+It is now summer.
+`Goldwrinkles' Seslezuso, expedition leader cancels Make rock battle axe: Needs sharpenable hard rock.
+There is nothing to catch in the southeastern swamps.
+Adith Wumupibo has become a Fishery Worker.
+`Goldwrinkles' Seslezuso, expedition leader cancels Make rock great axe: Needs sharpenable hard rock.
+`Goldwrinkles' Seslezuso, expedition leader cancels Make rock spear: Needs sharpenable hard rock.
+The outpost liaison Sana Gebdumduqueh from Deslimong has arrived.
+A caravan from Deslimong has arrived.
+A head treasurer from Deslimong has arrived.
+Their wagons have bypassed your inaccessible site.
+`Prince' Licoitlud, Lawkeeper cancels Construct Building: Item blocking site.
+The humans suspended the construction of Smelter.
+Merchants have arrived and are unloading their goods.
+`Prince' Licoitlud has become a broker.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3253334
+ Seed: SK2Q4cimS6ekoem084OC
+ History Seed: aO4mWKa8Guc2kO86ugEC
+ Name Seed: 2cwUmU66YIYgEQ2IWeye
+ Creature Seed: sEKi0S2WCuKqqY2oog0q
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: TfQgygCu1Oo1wpXEeotl
+ History Seed: ZpN4CY38B4zNSQGdXHDw
+ Name Seed: WIrKdxTalOUIt2gINlH7
+ Creature Seed: r9XrXtn6Hgec6wfUwPkP
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+A snow storm has come.
+The weather has cleared.
+Lekla Resmiuse has become a Carpenter.
+A snow storm has come.
+It has started raining.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: yeKUmEYAI8GSugs8Y4Sm
+ History Seed: 8Ka4YMCS082eaeKey8g4
+ Name Seed: AqqKAky80kqgSymuUEQW
+ Creature Seed: 0yAw0yUkMMUa6GwMyomK
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: SmWGKweKmemSoUC6wWWk
+ History Seed: Q6AWKSEsoKeuoaISu8CU
+ Name Seed: aeEwSkkyeE82Ge40OGsE
+ Creature Seed: 6kAIqW4a6oOUaEeewcIQ
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the central swamps.
+Pado Seslecish, Jeweler cancels Construct Building: Item blocking site.
+The humans suspended the construction of Wall.
+The pits of Evilclimate has been founded a short walk to the northwest and looks to your thriving economy for its future prosperity.
+It has started raining.
+Ngekil Tababoki has become a Carpenter.
+You have struck kaolinite!
+You have struck microcline!
+You have struck hematite!
+You have struck microcline!
+x2
+The weather has cleared.
+You have struck hematite!
+You have struck kaolinite!
+You have struck hematite!
+You have discovered an expansive cavern deep underground.
+You have discovered a magma pool.
+You have struck schorl!
+The forest retreat of Brushwhiskered has been founded a short walk to the southeast and looks to your thriving economy for its future prosperity.
+You have struck kaolinite!
+It has started raining.
+The weather has cleared.
+I¤u ¥ikzuso, Animal Handler cancels Construct Building: Item blocking site.
+The humans suspended the construction of Ramp.
+You have struck carnelian!
+You have struck amethyst!
+It is now summer.
+Led Litastzafal, Dwarf Speardwarf is visiting.
+Thief!  Protect the hoard from skulking filth!
+The pits of Dearthbad has been founded a short walk to the southwest and looks to your thriving economy for its future prosperity.
+The hillocks of Ransackhammers has been founded a half day's travel to the south and looks to your thriving economy for its future prosperity.
+It has started raining.
+The outpost liaison Jeha Tunulfel from Cilomomon has arrived.
+A caravan from Cilomomon has arrived.
+A head treasurer from Cilomomon has arrived.
+Merchants have arrived and are unloading their goods.
+Zulur Edinuthret, Fisherwoman cancels Fish: Interrupted by a great horned owl.
+Therset Tadnacu, Woodcutter cancels Prepare a Raw Fish: Needs unrotten raw fish.
+There is nothing to catch in the central swamps.
+You have struck hematite!
+You have struck petrified wood!
+Therset Tadnacu, Woodcutter cancels Prepare a Raw Fish: Needs unrotten raw fish.
+x2
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3244334
+ Seed: o6iASskGoeEsak8imMsk
+ History Seed: 0u2IeYU2gE0mgOyKG86A
+ Name Seed: OgOysyOQUkuYSq2Om2cq
+ Creature Seed: 0sS2mYEOmAyqAKkEuogw
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3244334
+ Seed: uSi6GO0800yaYkQ4oKyU
+ History Seed: KMeOUcsCsaOUk0AaYCWq
+ Name Seed: I84Um4Qok2Cu8uC8WmqG
+ Creature Seed: oagUAE6IqKMgqOo6EqwG
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Rere Surilejed, Woodcutter cancels Fell Tree: Interrupted by a common snapping turtle.
+The common snapping turtle misses the Woodcutter!
+The Woodcutter misses the common snapping turtle!
+The Woodcutter attacks the common snapping turtle but She jumps away!
+The Woodcutter misses the common snapping turtle!
+The Woodcutter punches the common snapping turtle in the left front leg with her right hand, bruising the muscle!
+The common snapping turtle bites the Woodcutter in the lower body, bruising the fat through the x(opossum leather robe)x!
+The Woodcutter attacks the common snapping turtle but She jumps away!
+Anir Ecshaismir has become a Miner.
+The sea lamprey attacks the pike but He jumps away!
+The weather has cleared.
+It has started raining.
+The weather has cleared.
+An animal has grown to become a Stray Ewe.
+It is now summer.
+It has started raining.
+Bestra Wemase has become a Fisherwoman.
+Anir Ecshaismir has become a Carpenter.
+The pits of Vicegulfs has been founded a short walk to the southwest and looks to your thriving economy for its future prosperity.
+The outpost liaison Rislu Pibangarat from Pesor Almef has arrived.
+A caravan from Pesor Almef has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.
+The weather has cleared.
+Merchants have arrived and are unloading their goods.
+Aru Mokunfel, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+The merchants from Pesor Almef will be leaving soon.
+It has started raining.
+Some migrants have arrived.
+The merchants from Pesor Almef have embarked on their journey.
+The weather has cleared.
+It has started raining.
+The weather has cleared.
+You have struck magnetite!
+You have struck limonite!
+You have struck schorl!
+You have struck magnetite!
+x2
+x3
+You have struck lignite!
+You have struck cassiterite!
+You have struck native gold!
+It has started raining.
+You have struck lignite!
+You have struck brown jasper!
+You have struck magnetite!
+You have struck limonite!
+The weather has cleared.
+You have struck wood opal!
+Autumn has come.
+Vispol Dapenaguv, Brewer cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+x2
+x3
+x4
+x5
+You have struck prase!
+Bestra Wemase, Farmer cancels Eat: Item inaccessible.
+It has started raining.
+Vispol Dapenaguv, Brewer cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+x2
+Carp has given birth to carp fry.
+An animal has grown to become a Stray Yak Bull.
+Vispol Dapenaguv, Brewer cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+x2
+The weather has cleared.
+Carp has given birth to a carp fry.
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: rZoyPYUSYUnr7RF5ru1C
+ History Seed: vcyTWkPK0tX634HwdRV4
+ Name Seed: tp4d1KrzfGTUQzjT7p5g
+ Creature Seed: WXamicwayMoB2DowchVC
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 2243334
+ Seed: yqsygCWgSeyA0iwYSkWa
+ History Seed: wa4UyQyAgCeqS4MsIkiE
+ Name Seed: k4MYW0ewoMAcSwum6wMI
+ Creature Seed: KmY6kqecAeQ6w0uyQEqu
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: 8dUrAXnV0gzogUmNGHGG
+ History Seed: fOFfSoCOL9SBkHRdU3rq
+ Name Seed: DCnzc5hqsNmGwHf013xD
+ Creature Seed: lJutcGQKGGy9JAdZcWQy
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: yUcskMuGgmeoekaAsSwm
+ History Seed: MCAQEIs2gCiwkiEmgugm
+ Name Seed: 4ewoqESUoQ6WuiyAK8mI
+ Creature Seed: GqowSswKcWawgK6OssuA
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243334
+ Seed: vRQD9vXycdwWVggdEN6T
+ History Seed: PXjh2iOfPyb262h4s2FZ
+ Name Seed: V0pI0riJxMcYhdgVCiA4
+ Creature Seed: BPaFOl9cEUgcaf50l10J
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+The hamlet of Harestabs has been founded a short walk to the west and looks to your thriving economy for its future prosperity.
+You have struck gypsum!
+x2
+You have struck prase!
+You have struck hematite!
+x2
+You have struck gypsum!
+You have struck prase!
+You have struck banded agate!
+The hamlet of Neutralknife has been founded a half day's travel to the northwest and looks to your thriving economy for its future prosperity.
+`Goldtongue' Slenshipude has become a broker.
+You have struck hematite!
+Summer has arrived on the calendar.
+Oled Mothecgasom, Fish Cleaner cancels Eat: Item inaccessible.
+The hamlet of Balancemeetings has been founded a half day's travel to the northwest and looks to your thriving economy for its future prosperity.
+No outpost liaison?  How curious...
+A caravan from Othronbehal has arrived.
+A high treasurer from Othronbehal has arrived.
+Merchants have arrived and are unloading their goods.
+The pikewoman stabs the gray langur in the left front foot with her ({copper pike}), tearing apart the muscle!
+Nganiz Ronoecsha, Pikewoman: I cannot just stand by.  This might require an answer.
+The gray langur misses the pikewoman!
+The pikewoman stabs the gray langur in the right rear leg with her ({copper pike}), tearing the muscle and bruising the bone!
+A tendon has been torn!
+The force twists the hip, right rear leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The gray langur falls over.
+The pikewoman stabs the gray langur in the neck with her ({copper pike}) and the severed part sails off in an arc!
+Nganiz Ronoecsha, Pikewoman: This is my fight too.  This might require an answer.
+Nganiz Ronoecsha, Pikewoman: I have a part in this.  There is no need to feel vengeful.
+Nganiz Ronoecsha, Pikewoman: This is my fight too.  There is no need to feel vengeful.
+Nganiz Ronoecsha, Pikewoman: I cannot just stand by.  There is no need to feel vengeful.
+Nganiz Ronoecsha, Pikewoman: I have a part in this.  There is no need to feel vengeful.
+Ipan Do¤assug, Fisherman cancels Fish: Interrupted by a gray langur.
+The fisherman kicks the gray langur in the upper body with his left foot, bruising the muscle and shattering the left false ribs!
+The fisherman grabs the gray langur by the right front leg with his right lower arm!
+The gray langur misses the fisherman!
+The gray langur is unable to break the grip of The fisherman's right lower arm on The gray langur's right front leg!
+Ipan Do¤assug, Fisherman: In the midst of conflict...  I laugh in the face of death!
+The fisherman punches the gray langur in the lower body with his left hand, bruising the muscle and bruising the spleen!
+The fisherman locks the gray langur's shoulder, right front leg with The fisherman's right lower arm!
+The gray langur misses the fisherman!
+The fisherman bends the gray langur's right front leg with The fisherman's right lower arm and the shoulder, right front leg collapses!
+A ligament in the shoulder, right front leg has been torn and a tendon has been torn!
+The fisherman releases the grip of The fisherman's right lower arm from The gray langur's right front leg.
+The fisherman grabs the gray langur by the left rear foot with his right lower arm!
+The fisherman locks the gray langur's ankle, left rear foot with The fisherman's right lower arm!
+The fisherman bends the gray langur's left rear foot with The fisherman's right lower arm and the ankle, left rear foot collapses!
+A ligament in the ankle, left rear foot has been torn and a tendon has been torn!
+The gray langur scratches the fisherman in the neck, bruising the fat through the (sheep wool coat)!
+The force bends the upper spine!
+The fisherman releases the joint lock of The fisherman's right lower arm on the gray langur's left rear foot.
+The fisherman releases the grip of The fisherman's right lower arm on the gray langur's left rear foot.
+The fisherman punches the gray langur in the upper body with his left hand, bruising the muscle and bruising the right lung!
+The gray langur is having trouble breathing!
+The fisherman punches the gray langur in the left rear foot with his left hand and the injured part collapses!
+An artery has been opened by the attack!
+The force pulls the ankle, left rear foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The fisherman grabs the gray langur by the fourth right finger with his left hand!
+The fisherman releases the grip of The fisherman's left hand on the gray langur's fourth right finger.
+The gray langur misses the fisherman!
+The fisherman grabs the gray langur by the third right finger with his right upper arm!
+The fisherman releases the grip of The fisherman's right upper arm on the gray langur's third right finger.
+The fisherman grabs the gray langur by the third left toe with his right hand!
+The fisherman releases the grip of The fisherman's right hand on the gray langur's third left toe.
+The gray langur misses the fisherman!
+The fisherman grabs the gray langur by the right front leg with his left upper arm!
+The fisherman punches the gray langur in the lower body with his left hand, bruising the muscle and bruising the pancreas!
+The gray langur bites the fisherman in the right hand, tearing the fat through the x(hammerhead shark leather right glove)x!
+The fisherman releases the grip of The fisherman's left upper arm on the gray langur's right front leg.
+The fisherman grabs the gray langur by the throat with his left hand!
+The fisherman places a chokehold on the gray langur's throat with The fisherman's left hand!
+The fisherman strangles the gray langur's throat, tearing apart the hair!
+The gray langur passes out.
+Ipan Do¤assug, Fisherman: Gruesome wounds!  Begone fear!
+The fisherman strangles the gray langur's throat, tearing apart the hair!
+Ipan Do¤assug, Fisherman: I have improved my fighting.  That was satisfying.
+`Mace' Picthamidil has become a militia commander.
+The spearwoman attacks the gray langur but She jumps away!
+Pik Uquurstrul has become a Herbalist.
+The Soldier hacks the gray langur in the left rear foot with her (copper hatchet), tearing apart the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+The Soldier attacks the gray langur but He jumps away!
+The Soldier hacks the gray langur in the lower body with her (copper hatchet), tearing apart the muscle and tearing apart the stomach!
+The (copper hatchet) has lodged firmly in the wound!
+The gray langur collapses and falls to the ground from over-exertion.
+The Soldier pulls on the embedded (copper hatchet).
+The Soldier gains possession of the (copper hatchet).
+The Soldier punches the gray langur in the left eye tooth with her left hand and the severed part sails off in an arc!
+Oled Mothecgasom, Fish Cleaner cancels Drink: Interrupted by a gray langur.
+The Soldier hacks the gray langur in the left front leg with her (copper hatchet), fracturing the bone!
+An artery has been opened by the attack, a motor nerve has been severed and a tendon has been torn!
+The force pulls the shoulder, left front leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The gray langur gives in to pain.
+The Soldier hacks the gray langur in the head with her (copper hatchet), tearing apart the muscle and bruising the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A ligament in the upper spine has been bruised and a tendon has been bruised!
+The Soldier hacks the gray langur in the head with her (copper hatchet), tearing apart the muscle, bruising the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the fat and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A ligament in the upper spine has been torn and a tendon has been torn!
+The Soldier hacks the gray langur in the head with her (copper hatchet) and the severed part sails off in an arc!
+`Mace' Picthamidil has become a militia commander.
+The fish cleaner misses the gray langur!
+The fish cleaner attacks the gray langur but He jumps away!
+`Mace' Picthamidil, Soldier: I cannot just stand by.  This might require an answer.
+The fish cleaner punches the gray langur in the right front leg with her left hand, bruising the fat!
+The fish cleaner attacks the gray langur but He jumps away!
+The fish cleaner bites the gray langur in the second left finger, shattering the nail!
+The force bends the left front foot, tearing apart the fat and bruising the bone and tearing apart the shoulder, left front leg's muscle!
+A ligament has been bruised and a tendon has been bruised!
+The fish cleaner grabs the gray langur by the right front foot with her left lower arm!
+The gray langur bites the fish cleaner in the lower body, bruising the fat through the (spiny dogfish leather coat)!
+The fish cleaner releases the grip of The fish cleaner's left lower arm from The gray langur's right front foot.
+The Soldier bites the gray langur in the head, tearing the muscle!
+The Soldier latches on firmly!
+The fish cleaner punches the gray langur in the neck with her right hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force bends the upper spine, tearing apart the nervous tissue and tearing apart the nervous tissue!
+A ligament has been torn and a tendon has been torn!
+The gray langur falls over.
+The gray langur is unable to break the grip of The Soldier's upper front teeth on The gray langur's head!
+The gray langur bites the Soldier in the right hand, tearing the muscle through the x(common skate leather right glove)x!
+The fish cleaner grabs the gray langur by the teeth with her left lower arm!
+The Soldier hacks the gray langur in the right rear leg with her (copper hatchet), tearing apart the muscle!
+A sensory nerve has been severed!
+The gray langur is unable to break the grip of The fish cleaner's left lower arm on The gray langur's teeth!
+The fish cleaner releases the grip of The fish cleaner's left lower arm on the gray langur's teeth.
+The gray langur bites the fish cleaner in the left lower arm, tearing the skin and bruising the fat through the x(spiny dogfish leather coat)x!
+The fish cleaner grabs the gray langur by the first left toe with her right lower arm!
+The Soldier releases the grip of The Soldier's upper front teeth from The gray langur's head.
+The gray langur misses the Soldier!
+The fish cleaner releases the grip of The fish cleaner's right lower arm on the gray langur's first left toe.
+`Mace' Picthamidil, Soldier: Those injuries...  Begone fear!
+The fish cleaner grabs the gray langur by the neck with her right upper arm!
+The fish cleaner scratches the gray langur in the second left toe, shattering the nail!
+The force twists the left rear foot, tearing apart the skin and bruising the fat and tearing apart the ankle, left rear foot's muscle and bruising the bone!
+A ligament in the ankle, left rear foot has been bruised and a tendon has been bruised!
+The Soldier hacks the gray langur in the lower body with her (copper hatchet), tearing apart the muscle and tearing apart the spleen!
+An artery has been opened by the attack!
+The gray langur bites the fish cleaner in the right hand, tearing the skin through the x(sheep wool right glove)x!
+The fish cleaner releases the grip of The fish cleaner's right upper arm on the gray langur's neck.
+Oled Mothecgasom, Fish Cleaner: So easily broken...  This doesn't scare me.
+The Soldier hacks the gray langur in the right front foot with her (copper hatchet), tearing apart the fat!
+The fish cleaner grabs the gray langur by the third right toe with her left lower arm!
+The fish cleaner releases the grip of The fish cleaner's left lower arm on the gray langur's third right toe.
+The gray langur misses the fish cleaner!
+The fish cleaner grabs the gray langur by the teeth with her right upper arm!
+The fish cleaner releases the grip of The fish cleaner's right upper arm on the gray langur's teeth.
+The Soldier hacks the gray langur in the left rear leg with her (copper hatchet), tearing apart the muscle!
+A motor nerve has been severed!
+The fish cleaner scratches the gray langur in the left rear foot and the severed part sails off in an arc!
+The Soldier hacks the gray langur in the right front foot with her (copper hatchet), tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The fish cleaner grabs the gray langur by the fourth right toe with her right lower arm!
+The gray langur bites the fish cleaner in the right foot, bruising the muscle through the x(giant grouper scale shoe)x!
+The fish cleaner punches the gray langur in the left rear leg with her left hand, bruising the fat!
+The Soldier strikes the gray langur in the left rear leg with the shaft of her (copper hatchet), but the attack glances away!
+The force bends the hip, left rear leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The gray langur misses the fish cleaner!
+The fish cleaner punches the gray langur in the right rear leg with her left hand, bruising the muscle!
+The Soldier punches the gray langur in the left front foot with her right hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force pulls the ankle, left front foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The gray langur gives in to pain.
+The gray langur misses the fish cleaner!
+The fish cleaner releases the grip of The fish cleaner's right lower arm on the gray langur's fourth right toe.
+The Soldier hacks the gray langur in the head with her (copper hatchet), tearing apart the muscle and fracturing the skull!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A ligament in the upper spine has been torn and a tendon has been torn!
+The fish cleaner punches the gray langur in the left rear leg with her right hand, bruising the muscle!
+The merchant punches the gray langur in the head with his left hand, bruising the muscle, bruising the skull!
+The force bends the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A ligament in the upper spine has been bruised and a tendon has been bruised!
+The fish cleaner grabs the gray langur by the right rear foot with her right hand!
+The fish cleaner locks the gray langur's ankle, right rear foot with The fish cleaner's right hand!
+The Soldier hacks the gray langur in the head with her (copper hatchet), tearing apart the muscle, bruising the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A ligament in the upper spine has been torn and a tendon has been torn!
+The merchant grabs the gray langur by the right rear foot with his right hand!
+The gray langur misses the fish cleaner!
+The fish cleaner bends the gray langur's right rear foot with The fish cleaner's right hand and the ankle, right rear foot collapses!
+A ligament in the ankle, right rear foot has been torn and a tendon has been torn!
+The merchant locks the gray langur's ankle, right rear foot with The merchant's right hand!
+The fish cleaner releases the joint lock of The fish cleaner's right hand on the gray langur's right rear foot.
+The merchant bends the gray langur's right rear foot with The merchant's right hand and the ankle, right rear foot collapses!
+A ligament in the ankle, right rear foot has been torn and a tendon has been torn!
+The fish cleaner releases the grip of The fish cleaner's right hand on the gray langur's right rear foot.
+The merchant releases the joint lock of The merchant's right hand on the gray langur's right rear foot.
+The Soldier hacks the gray langur in the head with her (copper hatchet) and the injured part is cloven asunder!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The fish cleaner grabs the gray langur by the throat with her right hand!
+The fish cleaner places a chokehold on the gray langur's throat with The fish cleaner's right hand!
+The gray langur misses the fish cleaner!
+The fish cleaner strangles the gray langur's throat, tearing apart the hair!
+The gray langur passes out.
+Oled Mothecgasom, Fish Cleaner: I have improved my fighting.  That was satisfying.
+The fish cleaner strangles the gray langur's throat, tearing apart the hair!
+Oled Mothecgasom, Fish Cleaner: I have improved my wrestling.  That was not satisfying.
+Oled Mothecgasom, Fish Cleaner cancels Drink: Interrupted by a gray langur.
+Betca Besogom, expedition leader cancels Drink: Interrupted by a gray langur.
+The fish cleaner punches the gray langur in the lower body with her left hand, bruising the fat!
+The fish cleaner attacks the gray langur but She jumps away!
+The fish cleaner grabs the gray langur by the right rear leg with her right lower arm!
+The fish cleaner kicks the gray langur in the right front leg with her left foot, bruising the muscle!
+The force bends the shoulder, right front leg, tearing apart the muscle and tearing apart the muscle!
+The gray langur is unable to break the grip of The fish cleaner's right lower arm on The gray langur's right rear leg!
+The gray langur bites the fish cleaner in the left hand, tearing the skin through the x(sheep wool left glove)x!
+The gray langur misses the fish cleaner!
+The fish cleaner scratches the gray langur in the fifth right finger, shattering the nail!
+The force twists the right front foot, tearing apart the skin and bruising the fat and tearing apart the shoulder, right front leg's muscle!
+The fish cleaner releases the grip of The fish cleaner's right lower arm from The gray langur's right rear leg.
+The fish cleaner grabs the gray langur by the fifth right finger with her right lower arm!
+The fish cleaner releases the grip of The fish cleaner's right lower arm on the gray langur's fifth right finger.
+The fish cleaner grabs the gray langur by the right rear foot with her right hand!
+The gray langur bites the fish cleaner in the left upper arm, tearing the skin and bruising the muscle through the X(spiny dogfish leather coat)X!
+The fish cleaner locks the gray langur's ankle, right rear foot with The fish cleaner's right hand!
+The fish cleaner bends the gray langur's right rear foot with The fish cleaner's right hand and the ankle, right rear foot collapses!
+A ligament in the ankle, right rear foot has been torn and a tendon has been torn!
+The fish cleaner releases the joint lock of The fish cleaner's right hand on the gray langur's right rear foot.
+The gray langur bites the fish cleaner in the left lower leg, tearing the skin and bruising the muscle through the XX(ramie dress)XX!
+The fish cleaner releases the grip of The fish cleaner's right hand on the gray langur's right rear foot.
+The fish cleaner grabs the gray langur by the throat with her right hand!
+The fish cleaner places a chokehold on the gray langur's throat with The fish cleaner's right hand!
+The gray langur misses the fish cleaner!
+The fish cleaner strangles the gray langur's throat, tearing apart the hair!
+The gray langur passes out.
+The fish cleaner strangles the gray langur's throat, tearing apart the hair!
+Some migrants have arrived.
+The pangolin rolls into a ball.
+The flying ({copper bolt}) strikes the pangolin in the upper body, tearing the muscle!
+Utag Sushsathperad, Miller: The battle rages...  I laugh in the face of death!
+The flying ({copper bolt}) strikes the pangolin in the upper body, tearing the muscle!
+The flying ({copper bolt}) strikes the pangolin in the upper body, tearing apart the muscle!
+An artery has been opened by the attack!
+The flying ({copper bolt}) strikes the pangolin in the upper body, tearing apart the muscle!
+An artery has been opened by the attack!
+The flying ({copper bolt}) strikes the pangolin in the upper body, tearing apart the muscle!
+An artery has been opened by the attack!
+The merchants from Othronbehal will be leaving soon.
+The merchants from Othronbehal have embarked on their journey.
+You have struck aventurine!
+Utag Sushsathperad, Doc cancels Construct Building: Item blocking site.
+The humans suspended the construction of Wall.
+Betca Besogom, Artist cancels Construct Building: Item blocking site.
+The humans suspended the construction of Wall.
+You have struck petrified wood!
+The armadillo sow rolls into a ball.
+The flying ({copper bolt}) strikes the armadillo sow in the shell, fracturing it!
+The flying ({copper bolt}) strikes the armadillo sow in the shell and the severed part sails off in an arc!
+The armadillo sow stands up.
+The armadillo sow jumps away from The flying ({copper bolt})!
+The flying ({copper bolt}) strikes the armadillo sow in the lower body, tearing the muscle and tearing apart the right kidney!
+The ({copper bolt}) has lodged firmly in the wound!
+Utag Sushsathperad, Doc: I have improved my archery.  That was satisfying.
+Utag Sushsathperad, Doc: I have improved my crossbow.  That was satisfying.
+The flying ({copper bolt}) strikes the armadillo sow in the tail and the severed part sails off in an arc!
+Autumn has arrived on the calendar.
+The bonobo jumps away from The flying ({copper bolt})!
+The flying ({copper bolt}) strikes the bonobo in the right front leg, fracturing the bone!
+A tendon has been torn!
+The force bends the shoulder, right front leg, bruising the muscle and bruising the muscle!
+The flying ({copper bolt}) strikes the bonobo in the lower body, tearing the muscle and tearing the stomach!
+The flying ({copper bolt}) strikes the bonobo in the neck, tearing the muscle and tearing the upper spine's nervous tissue!
+A ligament in the upper spine has been torn and a tendon has been torn!
+The force pulls the upper spine!
+The bonobo falls over.
+Utag Sushsathperad, Doc cancels Hunt: No ammunition.
+The flying ({copper bolt}) strikes the bonobo in the right front leg, chipping the bone!
+A tendon has been torn!
+The force pulls the shoulder, right front leg!
+Utag Sushsathperad, Doc: I must withdraw!
+Utag Sushsathperad, Doc: I drank water without a well.  That's very annoying.
+Resmi Rinramkal has grown to become a Buck Rabbit.
+Stray Horse (Tame) has given birth to a horse foal.
+You have struck aventurine!
+Betca Besogom has become a expedition leader.
+You have struck banded agate!
+`Rocksplit' R kfilmizbo, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Some migrants have arrived.
+You have struck aventurine!
+Are Sanapirni, Farmhand cancels Remove Stairs/Ramps: Inappropriate dig square.
+Are Sanapirni, Farmhand cancels Drink: Dangerous terrain.
+`Rocksplit' R kfilmizbo, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+x2
+Rossu Atemzuso has become a Pikeman.
+Dosheb Dilol¤od has become a Recruit.
+Si¤ur Esliksesle has become a Spearman.
+Luthi Inithomod has become a Spearwoman.
+`Mace' Picthamidil has become a militia commander.
+The Soldier punches the impala in the right eye with her left hand and the injured part collapses into a lump of gore!
+The force pulls the head, tearing apart the fat!
+The Soldier punches the impala in the left front leg with his left hand, bruising the fat!
+There is nothing to catch in the western swamps.
+The Soldier attacks the impala but She scrambles away!
+The impala stands up.
+The Soldier stands up.
+Rossu Atemzuso has become a Weaponsmith.
+Dosheb Dilol¤od has become a Milker.
+Si¤ur Esliksesle has become a Trapper.
+Luthi Inithomod has become a Glassmaker.
+`Mace' Picthamidil has become a militia commander.
+Winter has arrived on the calendar.
+You have struck gypsum!
+You have struck hematite!
+x2
+You have struck gypsum!
+You have struck rose quartz!
+You have struck brown zircon!
+You have struck mica!
+There is nothing to catch in the western swamps.
+You have struck mica!
+x2
+You have struck kunzite!
+You have struck mica!
+Pik Uquurstrul has become a Woodcutter.
+You have struck native gold!
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+Winter has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+Winter has arrived on the calendar.
+The weather has cleared.
+** Unretiring Outpost **
+The humans were unable to complete the chert + Lever.
+The humans were unable to complete the Rough andesite + Bridge.
+There is nothing to catch in the western swamps.
+Usmok Mimapkamca, High Smith cancels Construct Building: Item blocking site.
+The humans suspended the construction of Up Stair.
+You have struck galena!
+You have struck tiger iron!
+An animal has grown to become a Stray Donkey.
+Cosla Struslotbese, Sheep Herder cancels Milk Animal: Need empty bucket.
+You have struck cinnabar!
+x2
+You have struck mica!
+You have struck tetrahedrite!
+You have struck pink tourmaline!
+You have struck pyrite!
+You have struck clear garnet!
+Hathur Posespr , Townsmith cancels Smelt native gold Ore: Needs gold nuggets.
+x2
+Hathur Posespr , Townsmith cancels Construct gold Statue: Needs 3 gold bars.
+x2
+x3
+Atal Threbedem, Bowyer cancels Construct Building: Item blocking site.
+The humans suspended the construction of Bed.
+Spring has arrived on the calendar.
+You have struck orthoclase!
+You have struck blue garnet!
+You have struck orthoclase!
+x2
+You have struck galena!
+You have struck red tourmaline!
+You have struck galena!
+x2
+You have struck tetrahedrite!
+x2
+You have struck pyrite!
+You have struck cobaltite!
+You have struck orthoclase!
+You have struck microcline!
+x2
+Hathur Posespr , Townsmith cancels Forge iron helm: Needs refined coal.
+Hathur Posespr , Townsmith cancels Forge iron two-handed sword: Needs refined coal.
+Hathur Posespr , Townsmith cancels Forge iron mace: Needs refined coal.
+Hathur Posespr , Townsmith cancels Forge iron bolts: Needs refined coal.
+x2
+x3
+x4
+Wom Worugisep, Farmhand cancels Smelt tetrahedrite Ore: Needs refined coal.
+x2
+x3
+You have struck native gold!
+Wom Worugisep, Farmhand cancels Smelt hematite Ore: Needs refined coal.
+x2
+x3
+x4
+A deathcap caravan from Shagthoosp has arrived.
+It has started raining.
+The weather has cleared.
+Merchants have arrived and are unloading their goods.
+You have struck goshenite!
+You have struck rock crystal!
+Rossu Atemzuso has become a hearthperson.
+Dosheb Dilol¤od has become a Wrestler.
+`Mace' Picthamidil has become a militia commander.
+Ipan Do¤assug, Fisherman cancels Fish: Interrupted by a rhinoceros.
+Atal Threbedem has become a broker.
+Pado Pidudxidel, Siege Engineer cancels Drink: Job item lost or destroyed.
+The Soldier attacks the rhinoceros but She jumps away!
+The Veteran attacks the rhinoceros but She jumps away!
+The Soldier stabs the rhinoceros in the left front foot with her +iron spear+, tearing the fat!
+Rossu Atemzuso has become a hearthperson.
+Dosheb Dilol¤od has become a Milker.
+`Mace' Picthamidil has become a militia commander.
+Dosheb Dilol¤od, Soldier: I must withdraw!
+You have struck prase!
+The merchants from Shagthoosp will be leaving soon.
+Atal Threbedem, broker cancels Construct Building: Interrupted by a gray langur.
+The humans suspended the construction of Floor.
+The gray langur grabs the broker by the left foot with his right front foot!
+The gray langur scratches the broker in the lower body, bruising the fat through the (ramie robe)!
+The broker punches the gray langur in the left front foot with his left hand, bruising the fat!
+The broker punches the gray langur in the left rear foot with his left hand and the injured part collapses!
+An artery has been opened by the attack!
+The force bends the ankle, left rear foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The gray langur misses the broker!
+Atal Threbedem, broker: In the midst of conflict...  I am not scared!
+The gray langur scratches the broker in the lower body, bruising the fat through the (ramie robe)!
+The broker breaks the grip of the gray langur's right front foot on The broker's left foot.
+The broker attacks the gray langur but He jumps away!
+The gray langur attacks the broker but He jumps away!
+The broker attacks the gray langur but He jumps away!
+The gray langur attacks the broker but He jumps away!
+The broker attacks the gray langur but He jumps away!
+The broker kicks the gray langur in the right eye tooth with his left foot and the severed part sails off in an arc!
+The gray langur attacks the broker but He jumps away!
+The gray langur misses the broker!
+The broker attacks the gray langur but He jumps away!
+The gray langur attacks the broker but He jumps away!
+Cosla Struslotbese, Sheep Herder cancels Construct Building: Interrupted by a gray langur.
+The humans suspended the construction of Wall.
+The gray langur attacks the Sheep Herder but He jumps away!
+The Sheep Herder punches the gray langur in the tail with his left hand and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The gray langur scratches the Sheep Herder in the left lower leg, bruising the fat through the x(donkey leather robe)x!
+The Sheep Herder grabs the gray langur by the fourth right finger with his right upper arm!
+The Sheep Herder takes the gray langur down by the fourth right finger with The Sheep Herder's right upper arm!
+The gray langur stands up.
+The gray langur scratches the broker in the left upper arm, bruising the muscle through the x(ramie robe)x!
+The force bends the shoulder, left upper arm!
+Cosla Struslotbese, Sheep Herder cancels Pickup Equipment: Interrupted by a gray langur.
+The Sheep Herder throws the gray langur by the fourth right finger with The Sheep Herder's right upper arm!
+The broker kicks the gray langur in the right front foot with his left foot, bruising the fat!
+The gray langur attacks the broker but He jumps away!
+The gray langur's right rear foot skids along the ground and the part splits in gore!
+An artery has been opened by the attack!
+The gray langur's right front leg skids along the ground, bruising the muscle!
+The gray langur's right rear leg skids along the ground, bruising the muscle!
+The broker misses the gray langur!
+The gray langur scratches the broker in the right lower arm, bruising the fat through the X(ramie robe)X!
+The gray langur slams into an obstacle!
+The gray langur stands up.
+Cosla Struslotbese, Sheep Herder cancels Pickup Equipment: Interrupted by a gray langur.
+The Sheep Herder punches the gray langur in the right front leg with his right hand, bruising the fat!
+The gray langur misses the Sheep Herder!
+The Sheep Herder attacks the gray langur but He jumps away!
+The broker misses the gray langur!
+The gray langur scratches the broker in the lower body, bruising the muscle and bruising the guts through the XX(ramie robe)XX!
+The Sheep Herder grabs the gray langur by the right rear foot with his left hand!
+The gray langur scratches the Sheep Herder in the upper body, bruising the fat through the (ramie dress)!
+The Sheep Herder takes the gray langur down by the right rear foot with The Sheep Herder's left hand!
+The gray langur stands up.
+Cosla Struslotbese, Sheep Herder cancels Pickup Equipment: Interrupted by a gray langur.
+The broker attacks the gray langur but He jumps away!
+The Sheep Herder takes the gray langur down by the right rear foot with The Sheep Herder's left hand!
+The gray langur scratches the Sheep Herder in the left lower arm, bruising the fat through the (ramie dress)!
+The force twists the elbow, left lower arm!
+The gray langur stands up.
+The gray langur attacks the broker but He jumps away!
+Cosla Struslotbese, Sheep Herder cancels Pickup Equipment: Interrupted by a gray langur.
+The Sheep Herder throws the gray langur by the right rear foot with The Sheep Herder's left hand!
+The broker attacks the gray langur but He jumps away!
+The Sheep Herder punches the gray langur in the lower body with his left hand, bruising the muscle and bruising the pancreas!
+The gray langur attacks the broker but He jumps away!
+The gray langur's lower lip skids along the ground, bruising the fat!
+The Sheep Herder punches the gray langur in the head with his right hand and the injured part collapses!
+An artery has been opened by the attack!
+The gray langur slams into an obstacle!
+The broker attacks the gray langur but He jumps away!
+The broker punches the gray langur in the left rear foot with his right hand, but the attack glances away!
+The gray langur scratches the broker in the left foot, bruising the fat through the x(alpaca wool shoe)x!
+The broker grabs the gray langur by the first left finger with his left hand!
+The broker punches the gray langur in the right rear leg with his left hand, but the attack glances away!
+The gray langur is unable to break the grip of The broker's left hand on The gray langur's first left finger!
+The broker releases the grip of The broker's left hand from The gray langur's first left finger.
+The gray langur stands up.
+Si¤ur Esliksesle, Soldier cancels Drink: Job item lost or destroyed.
+Atal Threbedem, broker cancels Pickup Equipment: Interrupted by a gray langur.
+The broker punches the gray langur in the upper body with his left hand, bruising the muscle and bruising the heart!
+The gray langur misses the broker!
+The gray langur attacks the broker but He jumps away!
+The broker grabs the gray langur by the right ear with his right lower arm!
+The gray langur is unable to break the grip of The broker's right lower arm on The gray langur's right ear!
+The broker punches the gray langur in the left rear foot with his left hand, jamming the bone through the ankle, left rear foot's muscle and shattering the ankle, left rear foot's bone!
+The force bends the ankle, left rear foot,  shattering the bone and  shattering the bone!
+A ligament has been bruised and a tendon has been bruised!
+The gray langur misses the broker!
+The broker releases the grip of The broker's right lower arm from The gray langur's right ear.
+The gray langur scratches the broker in the left foot, bruising the muscle through the x(alpaca wool shoe)x!
+Atal Threbedem, broker: I was attacked.  Most shocking!
+Rossu Atemzuso has become a hearthperson.
+Dosheb Dilol¤od has become a Wrestler.
+Si¤ur Esliksesle has become a Spearman.
+Luthi Inithomod has become a militia captain.
+`Mace' Picthamidil has become a militia commander.
+Atal Threbedem, broker: I was near to a Bridge.  It's interesting.
+The gray langur stands up.
+The Soldier stabs the gray langur in the left front foot with her +iron spear+, tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The gray langur falls over.
+The Soldier stabs the gray langur in the right rear leg with her +iron spear+, tearing the muscle!
+An artery has been opened by the attack!
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing the muscle and tearing apart the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The +iron spear+ has lodged firmly in the wound!
+The Soldier pulls on the embedded +iron spear+.
+The Soldier gains possession of the +iron spear+.
+The Soldier kicks the gray langur in the upper body with her right foot, bruising the muscle and shattering the left false ribs!
+The Soldier stabs the gray langur in the upper body with her +iron spear+, tearing the muscle and tearing apart the liver!
+The +iron spear+ has lodged firmly in the wound!
+The Soldier pulls on the embedded +iron spear+.
+The Soldier gains possession of the +iron spear+.
+The Soldier stabs the gray langur in the left front leg with her +iron spear+, tearing the muscle!
+The force bends the shoulder, left front leg, bruising the muscle and bruising the muscle!
+The Soldier scratches the gray langur in the fourth left finger, shattering the nail!
+The force pulls the left front foot, tearing apart the fat and bruising the bone and tearing apart the shoulder, left front leg's muscle!
+A ligament has been bruised and a tendon has been bruised!
+The Soldier stabs the gray langur in the right rear leg with her +iron spear+, fracturing the bone!
+An artery has been opened by the attack, a sensory nerve has been severed and a tendon has been torn!
+The force bends the hip, right rear leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing apart the fat!
+Si¤ur Esliksesle has become a Trapper.
+Luthi Inithomod has become a militia captain.
+The gray langur attacks the Soldier but She jumps away!
+The Veteran attacks the gray langur but She jumps away!
+The Veteran slashes the gray langur in the left rear foot with his *iron scimitar*, tearing apart the skin!
+Dosheb Dilol¤od, Soldier: I have a part in this.  This might require an answer.
+Mistrum Areuthal, manager cancels Construct Building: Interrupted by a gray langur.
+The humans suspended the construction of Floor.
+The Soldier punches the gray langur in the neck with her left hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force twists the upper spine, tearing apart the nervous tissue and tearing apart the nervous tissue!
+A ligament has been bruised and a tendon has been bruised!
+The gray langur falls over.
+Rossu Atemzuso, Veteran: I cannot just stand by.  This might require an answer.
+Dosheb Dilol¤od, Soldier: This is my fight too.  This might require an answer.
+The Soldier stabs the gray langur in the nose with her +iron spear+ and the severed part sails off in an arc!
+Rossu Atemzuso, Veteran: I cannot just stand by.  This might require an answer.
+The Soldier kicks the gray langur in the first right finger with her left foot, shattering the nail!
+The force pulls the right front foot, tearing apart the muscle and bruising the bone and tearing apart the shoulder, right front leg's muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+A ligament in the shoulder, right front leg has been torn and a tendon has been torn!
+Dosheb Dilol¤od, Soldier: I cannot just stand by.  This might require an answer.
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing the muscle and spilling her guts!
+The Soldier stabs the gray langur in the left front foot with her +iron spear+, tearing apart the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+The force twists the ankle, left front foot, tearing apart the muscle and tearing apart the muscle!
+Dosheb Dilol¤od, Soldier: This is my fight too.  This might require an answer.
+Rossu Atemzuso, Veteran: This is my fight too.  This might require an answer.
+The Soldier stabs the gray langur in the left front foot with her +iron spear+, tearing apart the muscle!
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing apart the muscle!
+The Soldier stabs the gray langur in the left front leg with her +iron spear+, fracturing the bone!
+A sensory nerve has been severed and a tendon has been torn!
+The force bends the shoulder, left front leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing apart the muscle!
+An artery has been opened by the attack!
+The Soldier stabs the gray langur in the left front foot with her +iron spear+, tearing apart the muscle!
+A sensory nerve has been severed!
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing apart the muscle!
+The gray langur attacks the Veteran but He jumps away!
+The Soldier bites the gray langur in the tail, tearing the muscle!
+The Soldier latches on firmly!
+The Soldier shakes the gray langur around by the tail and the severed part sails off in an arc!
+The tail is ripped away and remains in The Soldier's grip!
+The gray langur misses the Soldier!
+The Soldier bashes the gray langur in the right rear foot with the shaft of her +iron spear+ and the injured part is crushed!
+An artery has been opened by the attack!
+The force twists the ankle, right rear foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The gray langur misses the Veteran!
+The Veteran slashes the gray langur in the head with his *iron scimitar* and the severed part sails off in an arc!
+The gray langur attacks the Soldier but She jumps away!
+Atal Threbedem, broker cancels Construct Building: Interrupted by a gray langur.
+The humans suspended the construction of Wall.
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing the muscle and tearing apart the spleen!
+An artery has been opened by the attack!
+The +iron spear+ has lodged firmly in the wound!
+The gray langur misses the Soldier!
+The Soldier pulls on the embedded +iron spear+.
+The Soldier gains possession of the +iron spear+.
+Betca Besogom, Artist cancels Construct Building: Interrupted by a gray langur.
+The humans suspended the construction of Floor.
+The Soldier stabs the gray langur in the right rear leg with her +iron spear+, tearing the fat!
+The Soldier charges at the gray langur!
+The Soldier collides with the gray langur!
+The gray langur is knocked over and tumbles backward!
+The Soldier stabs the gray langur in the lower body with her +iron spear+, tearing the muscle and tearing apart the right kidney!
+The Soldier stabs the gray langur in the lower body with her +iron spear+ and it is mostly cut away from the rest of the torso!
+An artery has been opened by the attack!
+A tendon in the lower spine has been torn!
+Rossu Atemzuso has become a hearthperson.
+Dosheb Dilol¤od has become a Milker.
+`Mace' Picthamidil has become a militia commander.
+The broker punches the gray langur in the lower body with his right hand, bruising the muscle and bruising the right kidney!
+The broker grabs the gray langur by the head with his left lower arm!
+The broker misses the gray langur!
+The broker releases the grip of The broker's left lower arm from The gray langur's head.
+The gray langur attacks the broker but He jumps away!
+The broker punches the gray langur in the lower body with his right hand, bruising the muscle and bruising the left kidney!
+The broker attacks the gray langur but He jumps away!
+The broker grabs the gray langur by the fourth right finger with his left lower arm!
+The broker takes the gray langur down by the fourth right finger with The broker's left lower arm!
+The gray langur misses the broker!
+The broker releases the grip of The broker's left lower arm from The gray langur's fourth right finger.
+The broker grabs the gray langur by the fifth left toe with his right hand!
+The broker releases the grip of The broker's right hand on the gray langur's fifth left toe.
+The gray langur attacks the broker but He jumps away!
+Atal Threbedem, broker: I have improved my fighting.  That was satisfying.
+The broker grabs the gray langur by the second right toe with his right lower arm!
+The gray langur bites the broker in the right hand, tearing the fat through the x(ramie right glove)x!
+The broker releases the grip of The broker's right lower arm on the gray langur's second right toe.
+The broker grabs the gray langur by the first right toe with his right hand!
+The gray langur bites the broker in the left hand, tearing the fat and bruising the muscle through the x(ramie left glove)x!
+The broker releases the grip of The broker's right hand on the gray langur's first right toe.
+The broker grabs the gray langur by the right rear foot with his left hand!
+The broker locks the gray langur's ankle, right rear foot with The broker's left hand!
+The broker bends the gray langur's right rear foot with The broker's left hand and the ankle, right rear foot collapses!
+A ligament in the ankle, right rear foot has been torn and a tendon has been torn!
+The gray langur misses the broker!
+The broker releases the joint lock of The broker's left hand on the gray langur's right rear foot.
+The broker releases the grip of The broker's left hand on the gray langur's right rear foot.
+The gray langur misses the broker!
+The broker grabs the gray langur by the first left finger with his right lower arm!
+The broker punches the gray langur in the left rear leg with his left hand, bruising the muscle!
+Atal Threbedem, broker: So easily broken...  I must not succumb to fear!
+The gray langur bites the broker in the left upper leg, bruising the muscle through the x(linen coat)x!
+The broker punches the gray langur in the right cheek with his left hand, bruising the skin!
+The force twists the head, tearing apart the fat!
+The broker releases the grip of The broker's right lower arm on the gray langur's first left finger.
+The gray langur attacks the broker but He jumps away!
+The broker grabs the gray langur by the second left toe with his left hand!
+The gray langur bites the broker in the right lower arm, tearing the skin and bruising the fat through the X(linen coat)X!
+The broker releases the grip of The broker's left hand on the gray langur's second left toe.
+The broker grabs the gray langur by the nose with his left lower arm!
+The Soldier attacks the gray langur but She jumps away!
+The broker punches the gray langur in the left front leg with his left hand, bruising the muscle!
+The force pulls the shoulder, left front leg, tearing apart the muscle and tearing apart the muscle!
+Atal Threbedem, broker: I have improved my wrestling.  That was satisfying.
+The broker releases the grip of The broker's left lower arm on the gray langur's nose.
+The gray langur attacks the broker but He jumps away!
+The Soldier attacks the gray langur but She jumps away!
+The broker grabs the gray langur by the first right toe with his left lower arm!
+The gray langur misses the broker!
+The broker releases the grip of The broker's left lower arm on the gray langur's first right toe.
+The broker grabs the gray langur by the second left toe with his left lower arm!
+The broker releases the grip of The broker's left lower arm on the gray langur's second left toe.
+The broker grabs the gray langur by the nose with his right upper arm!
+The Soldier attacks the gray langur but She jumps away!
+The gray langur is unable to break the grip of The broker's right upper arm on The gray langur's nose!
+The Artist grabs the gray langur by the left rear foot with her right lower arm!
+The broker punches the gray langur in the right rear leg with his right hand, bruising the muscle!
+The force bends the hip, right rear leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The gray langur misses the broker!
+The Artist punches the gray langur in the left front foot with her right hand and the injured part collapses!
+An artery has been opened by the attack!
+The force pulls the ankle, left front foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The Soldier misses the gray langur!
+The broker releases the grip of The broker's right upper arm on the gray langur's nose.
+The gray langur misses the Artist!
+The broker grabs the gray langur by the left rear leg with his left hand!
+The Artist locks the gray langur's ankle, left rear foot with The Artist's right lower arm!
+The Soldier attacks the gray langur but She jumps away!
+The broker locks the gray langur's hip, left rear leg with The broker's left hand!
+The Artist bends the gray langur's left rear foot with The Artist's right lower arm and the ankle, left rear foot collapses!
+A ligament in the ankle, left rear foot has been torn and a tendon has been torn!
+The broker bends the gray langur's left rear leg with The broker's left hand and the hip, left rear leg collapses!
+A ligament in the hip, left rear leg has been torn and a tendon has been torn!
+The Artist releases the joint lock of The Artist's right lower arm on the gray langur's left rear foot.
+The gray langur passes out from exhaustion.
+The broker releases the joint lock of The broker's left hand on the gray langur's left rear leg.
+The Artist releases the grip of The Artist's right lower arm on the gray langur's left rear foot.
+The Soldier misses the gray langur!
+The broker releases the grip of The broker's left hand on the gray langur's left rear leg.
+The broker grabs the gray langur by the head with his left upper arm!
+The Artist punches the gray langur in the head with her right hand, bruising the muscle, bruising the skull!
+The force bends the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A ligament in the upper spine has been bruised and a tendon has been bruised!
+The broker releases the grip of The broker's left upper arm on the gray langur's head.
+The Soldier attacks the gray langur but She jumps away!
+The broker punches the gray langur in the head with his left hand, bruising the muscle and bruising the skull!
+The force bends the neck, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A ligament in the upper spine has been torn and a tendon has been torn!
+The Artist grabs the gray langur by the left ear with her left lower arm!
+The Artist releases the grip of The Artist's left lower arm on the gray langur's left ear.
+The Artist grabs the gray langur by the left rear foot with her right upper arm!
+The broker grabs the gray langur by the right rear foot with his right upper arm!
+The Soldier scratches the gray langur in the left rear foot, tearing apart the fat!
+The Artist releases the grip of The Artist's right upper arm on the gray langur's left rear foot.
+The broker releases the grip of The broker's right upper arm on the gray langur's right rear foot.
+The Artist grabs the gray langur by the second right finger with her right hand!
+The broker grabs the gray langur by the fourth left finger with his left lower arm!
+The Artist punches the gray langur in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A ligament in the upper spine has been bruised and a tendon has been bruised!
+The broker releases the grip of The broker's left lower arm on the gray langur's fourth left finger.
+The Soldier attacks the gray langur but She jumps away!
+The broker grabs the gray langur by the third left finger with his left hand!
+The Artist punches the gray langur in the head with her right hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The Soldier attacks the gray langur but She jumps away!
+The Soldier stabs the gray langur in the upper body with her +iron spear+, tearing the muscle and tearing apart the left lung!
+An artery has been opened by the attack!
+The gray langur is having trouble breathing!
+The +iron spear+ has lodged firmly in the wound!
+The gray langur collapses and falls to the ground from over-exertion.
+The Soldier pulls on the embedded +iron spear+.
+The Soldier gains possession of the +iron spear+.
+The Veteran stands up.
+The Soldier stabs the gray langur in the left rear foot with her +iron spear+, tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The Soldier stabs the gray langur in the left rear leg with her +iron spear+, tearing the muscle!
+The Soldier attacks the gray langur but She scrambles away!
+The Soldier stabs the gray langur in the right front foot with her +iron spear+, tearing apart the fat!
+The Soldier stabs the gray langur in the right front foot with her +iron spear+, tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+Dosheb Dilol¤od, Soldier: I have improved my spear.  That was satisfying.
+The Soldier stabs the gray langur in the teeth with her +iron spear+ and the severed part sails off in an arc!
+The Soldier stabs the gray langur in the head with her +iron spear+ and the severed part sails off in an arc!
+Si¤ur Esliksesle, Soldier cancels Drink: Interrupted by a gray langur.
+You have struck microcline!
+The Artist stands up.
+The Soldier strikes the gray langur in the upper body with the pommel of his +iron scimitar+, bruising the muscle and bruising the right lung!
+The gray langur is having trouble breathing!
+The Soldier slashes the gray langur in the upper body with his +iron scimitar+ and the injured part is cloven asunder!
+An artery has been opened by the attack!
+A tendon in the middle spine has been torn!
+You have struck brown zircon!
+Si¤ur Esliksesle has become a Spearman.
+Luthi Inithomod has become a militia captain.
+Si¤ur Esliksesle, Soldier cancels Drink: Interrupted by a gray langur.
+Bestra Ismiginnah, Thresher cancels Store Item in Stockpile: Interrupted by a gray langur.
+I¤o Fanuasthi, Surgeon cancels Store Item in Stockpile: Interrupted by a gray langur.
+The Soldier punches the gray langur in the upper body with her left hand, bruising the muscle and bruising the liver!
+The Soldier attacks the gray langur but He jumps away!
+The Soldier punches the gray langur in the throat with her left hand, bruising the skin!
+The force bends the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A ligament in the upper spine has been bruised and a tendon has been bruised!
+The Soldier punches the gray langur in the left rear foot with her left hand, bruising the muscle!
+The Soldier attacks the gray langur but He jumps away!
+The Soldier punches the gray langur in the lower body with her right hand, bruising the muscle and bruising the stomach!
+The Soldier punches the gray langur in the right rear leg with her left hand, bruising the muscle!
+The Soldier stands up.
+You have struck microcline!
+The merchants from Shagthoosp have embarked on their journey.
+The Soldier bites the gray langur in the right front leg, tearing the muscle!
+The Soldier attacks the gray langur but He jumps away!
+The Soldier punches the gray langur in the left rear leg with her left hand, bruising the muscle!
+The Soldier attacks the gray langur but He jumps away!
+The Soldier punches the gray langur in the left front foot with her right hand, bruising the fat!
+The Soldier punches the gray langur in the right front foot with her left hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force bends the ankle, right front foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The Soldier bites the gray langur in the left rear foot, tearing the muscle and bruising the bone!
+An artery has been opened by the attack!
+The force pulls the ankle, left rear foot, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The gray langur falls over.
+The Soldier grabs the gray langur by the right rear leg with her right lower arm!
+The Soldier punches the gray langur in the upper body with her right hand, bruising the muscle and bruising the heart!
+The gray langur is unable to break the grip of The Soldier's right lower arm on The gray langur's right rear leg!
+The gray langur misses the Soldier!
+The Soldier locks the gray langur's hip, right rear leg with The Soldier's right lower arm!
+The Soldier bends the gray langur's right rear leg with The Soldier's right lower arm and the hip, right rear leg collapses!
+A ligament in the hip, right rear leg has been torn and a tendon has been torn!
+The Soldier releases the joint lock of The Soldier's right lower arm on the gray langur's right rear leg.
+The Soldier releases the grip of The Soldier's right lower arm on the gray langur's right rear leg.
+The gray langur misses the Soldier!
+The Soldier grabs the gray langur by the right ear with her left hand!
+The Soldier releases the grip of The Soldier's left hand on the gray langur's right ear.
+The Soldier punches the gray langur in the left rear leg with her right hand, bruising the fat!
+The Soldier punches the gray langur in the lower body with her left hand, bruising the muscle and bruising the spleen!
+The Soldier grabs the gray langur by the third right finger with her left lower arm!
+The gray langur bites the Soldier in the upper body, but the attack is deflected by the Soldier's iron breastplate!
+The Soldier releases the grip of The Soldier's left lower arm on the gray langur's third right finger.
+The Soldier grabs the gray langur by the first left toe with her left hand!
+The Soldier releases the grip of The Soldier's left hand on the gray langur's first left toe.
+The Soldier punches the gray langur in the right rear foot with her left hand, bruising the muscle!
+The Soldier grabs the gray langur by the second right toe with her right lower arm!
+The Soldier releases the grip of The Soldier's right lower arm on the gray langur's second right toe.
+The gray langur attacks the Soldier but She jumps away!
+The Soldier punches the gray langur in the left front foot with her right hand, bruising the muscle!
+The Soldier grabs the gray langur by the nose with her right upper arm!
+The Soldier releases the grip of The Soldier's right upper arm on the gray langur's nose.
+The gray langur misses the Soldier!
+The Soldier grabs the gray langur by the right rear leg with her right upper arm!
+The Soldier releases the grip of The Soldier's right upper arm on the gray langur's right rear leg.
+The Soldier kicks the gray langur in the left rear foot with her right foot and the injured part collapses!
+An artery has been opened by the attack!
+The force bends the ankle, left rear foot,  shattering the bone and  shattering the bone!
+A ligament has been torn and a tendon has been torn!
+The Soldier grabs the gray langur by the tail with her right lower arm!
+The Soldier releases the grip of The Soldier's right lower arm on the gray langur's tail.
+The gray langur misses the Soldier!
+The Soldier grabs the gray langur by the neck with her right upper arm!
+Luthi Inithomod has become a militia captain.
+The Soldier locks the gray langur's upper spine with The Soldier's right upper arm!
+The Soldier bends the gray langur's neck with The Soldier's right upper arm and the upper spine collapses!
+A ligament in the upper spine has been torn and a tendon has been torn!
+The Soldier releases the joint lock of The Soldier's right upper arm on the gray langur's neck.
+The gray langur misses the Soldier!
+The Soldier releases the grip of The Soldier's right upper arm on the gray langur's neck.
+The Soldier punches the gray langur in the left rear leg with her right hand, fracturing the bone!
+The force twists the hip, left rear leg, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+`Buckler' Inithomod, Soldier: I have improved my wrestling.  That was satisfying.
+The Soldier grabs the gray langur by the teeth with her right hand!
+The Soldier releases the grip of The Soldier's right hand on the gray langur's teeth.
+The Soldier punches the gray langur in the upper body with her left hand, bruising the muscle and shattering the left false ribs!
+The gray langur misses the Soldier!
+The Soldier punches the gray langur in the lower body with her right hand, bruising the muscle and bruising the guts!
+The Soldier grabs the gray langur by the nose with her right hand!
+The gray langur misses the Soldier!
+The Soldier releases the grip of The Soldier's right hand on the gray langur's nose.
+The Soldier grabs the gray langur by the third left toe with her left hand!
+The gray langur misses the Soldier!
+The Soldier releases the grip of The Soldier's left hand on the gray langur's third left toe.
+The Soldier punches the gray langur in the upper body with her right hand, bruising the muscle and bruising the right lung!
+The gray langur is having more trouble breathing!
+The Soldier grabs the gray langur by the left eye tooth with her right lower arm!
+The Soldier releases the grip of The Soldier's right lower arm on the gray langur's left eye tooth.
+The gray langur misses the Soldier!
+The Soldier grabs the gray langur by the head with her left hand!
+The Soldier gouges the gray langur's lower lip with The Soldier's left hand and the skull splits in gore!
+A tendon in the skull has been torn!
+The Soldier gouges the gray langur's upper lip with The Soldier's left hand and the part splits in gore!
+A tendon in the skull has been torn!
+The gray langur passes out from exhaustion.
+The Soldier punches the gray langur in the head with her right hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+Si¤ur Esliksesle has become a Trapper.
+Luthi Inithomod has become a militia captain.
+You have struck morion!
+You have struck native gold!
+x2
+You have struck microcline!
+Wom Worugisep, Farmhand cancels Smelt tetrahedrite Ore: Needs tetrahedrite.
+x2
+You have struck citrine!
+Hathur Posespr , Townsmith cancels Drink: Job item lost or destroyed.
+Bestra Ismiginnah, Thresher cancels Drink: Job item lost or destroyed.
+You have struck tanzanite!
+`Doc' Sushsathperad, Doc cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+I¤o Fanuasthi, Surgeon cancels Drink: Job item lost or destroyed.
+`Doc' Sushsathperad, Doc cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+x2
+x3
+x4
+x5
+Stray Horse (Tame) has given birth to a horse foal.
+Rossu Atemzuso has become a hearthperson.
+Dosheb Dilol¤od has become a Spearwoman.
+`Mace' Picthamidil has become a militia commander.
+`Goldtongue' Slenshipude, executioner cancels Cut pink tourmaline: Needs rough pink tourmalines.
+The black mamba has become enraged!
+Black Mamba is no longer enraged.
+The Veteran slashes the black mamba in the tail with his *iron scimitar*, tearing apart the scale!
+The *iron scimitar* has lodged firmly in the wound!
+The Veteran pulls on the embedded *iron scimitar*.
+The Veteran gains possession of the *iron scimitar*.
+The Veteran stabs the black mamba in the tail with his *iron scimitar*, tearing apart the muscle!
+An artery has been opened by the attack!
+The *iron scimitar* has lodged firmly in the wound!
+The Veteran stabs the black mamba in the tail with his *iron scimitar*, tearing apart the fat!
+The *iron scimitar* has lodged firmly in the wound!
+The Veteran strikes the black mamba in the body with his iron shield, bruising the muscle and bruising the guts!
+The Veteran attacks the black mamba but He jumps away!
+The Veteran slashes the black mamba in the head with his *iron scimitar* and the severed part sails off in an arc!
+The black mamba has been knocked unconscious!
+Rossu Atemzuso, Veteran: I have improved my sword.  That was not satisfying.
+Kastrol Kasmkosuque, Stonecrafter cancels Store Item in Stockpile: Interrupted by a giraffe.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243332
+ Seed: rTMGT2SimYvZpxxP7UFi
+ History Seed: 5MSbYaBi6TvqHM1AFxVo
+ Name Seed: tBcxdM19LgVskndH3Nr4
+ Creature Seed: C3soa88oWQmh8jGK2HRi
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3243332
+ Seed: 0IswksAISsKYgMo8K6GS
+ History Seed: koOeEKIm86i4w6mImKoY
+ Name Seed: oAieQKMkceGk8CoiWkG2
+ Creature Seed: uo8iMYU0u2ya4m48UkCM
+Nothing has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3253334
+ Seed: rLI4LuOWaMrJdppP7QFe
+ History Seed: pESbYS3WuHve9E123lNk
+ Name Seed: dzMhVIt55cJcUXVDzJb4
+ Creature Seed: 8zgoaw4kOEWV0f4Cu5Fe
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3253334
+ Seed: RncGy6IW5maPgZzSUsf9
+ History Seed: BrvCIoFyBKn9QOY5bbrW
+ Name Seed: iulI9vNsP2qolWMkjvDH
+ Creature Seed: 15HRnFfOlagC4GPomXY7
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***

@@ -1,0 +1,57 @@
+creature_fanciful
+
+[OBJECT:CREATURE]
+
+[CREATURE:CHIMERA]
+	[DESCRIPTION:A horrible creature of imagery and artistic motif, depicted as a disjointed mashup of leonine, caprine, and serpentine features.  They are considered an omen of storms, and associated with chaos.]
+	[NAME:chimera:chimeras:chimeric]
+	[CASTE_NAME:chimera:chimeras:chimeric]
+	[CREATURE_TILE:'C'][COLOR:2:0:1]
+	[FANCIFUL]
+	[DOES_NOT_EXIST]
+	[PREFSTRING:terrifying features]
+	[SPHERE:STORMS] References to what I could find about both the Greek symbolism and later medieval usage.
+	[SPHERE:CHAOS]
+	[ALL_ACTIVE]
+
+[CREATURE:GRIFFON]
+	[DESCRIPTION:A creature of imagery and artistic motif, depicted as a blend of lion and eagle.  They are associated with courage and healing.]
+	[NAME:griffon:griffons:griffon]
+	[CASTE_NAME:griffon:griffons:griffon]
+	[CREATURE_TILE:'G'][COLOR:7:0:1]
+	[FANCIFUL]
+	[DOES_NOT_EXIST]
+	[SPHERE:COURAGE] Slight hint of the medieval symbolism as I can't find good info on pre-medieval renditions.
+	[SPHERE:HEALING]
+	[PREFSTRING:strength]
+	[ALL_ACTIVE]
+	[CASTE:FEMALE]
+		[FEMALE]
+	[CASTE:MALE]
+		[MALE]
+
+[CREATURE:SPHINX]
+	[DESCRIPTION:A creature of divine imagery and artistic motif, depicted as a lion with a humanlike face, head adorned in royal regalia.  They are associated with royalty, duty, and the sun.]
+	[NAME:sphinx:sphinxes:sphinx]
+	[CASTE_NAME:sphinx:sphinxes:sphinx]
+	[CREATURE_TILE:'S'][COLOR:7:0:1]
+	[FANCIFUL]
+	[DOES_NOT_EXIST]
+	[SPHERE:RULERSHIP] Based off the Egyptian symbolism rather than Greek. Would add association with tombs and temples if such spheres existed.
+	[SPHERE:DUTY]
+	[SPHERE:SUN]
+	[PREFSTRING:watchful gaze]
+	[ALL_ACTIVE]
+
+[CREATURE:WYVERN]
+	[DESCRIPTION:A fearsome creature of imagery and artistic motif, evocative of a dragon or winged serpent, more natural in structure with only two legs.  It is associated with strength, valor, and vengeance.]
+	[NAME:wyvern:wyverns:wyvern]
+	[CASTE_NAME:wyvern:wyverns:wyvern]
+	[CREATURE_TILE:'W'][COLOR:2:0:0]
+	[FANCIFUL]
+	[DOES_NOT_EXIST]
+	[PREFSTRING:fearsome presence]
+	[SPHERE:STRENGTH] Some of what I could find about associated heraldic symbolism.
+	[SPHERE:VALOR]
+	[SPHERE:REVENGE]
+	[ALL_ACTIVE]

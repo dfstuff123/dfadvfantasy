@@ -1,0 +1,4074 @@
+Civilized World Population
+
+	4781 Deathcap
+	7675 Humans
+	4112 Elves
+	17162 Goblins
+	2445 Bat men
+	51 Cave swallow men
+	11 Reptile men
+	88 Rodent men
+
+	Total: 36325
+
+Sites
+
+1: Ngokesnust Bodod Aspo, "Lacyhollow the Spasm of Loot", cave
+	1 dragon
+	2 large rats
+	294 bats
+	385 cave swallows
+2: Bostraesnust ToglÑgo, "Lunghollow the Malignant Board", cave
+	1 hydra
+	5 naked mole dogs
+	410 cave swallows
+	417 cave spiders
+3: Nefekurrãth, "Fanciedscars", cave
+	1 giant
+	2 giant rats
+	459 cave spiders
+	499 cave swallows
+4: Elethegaretho, "Chewedcave", cave
+	1 ettin
+	5 helmet snakes
+	359 bats
+	441 cave spiders
+	500 cave swallows
+5: Binoliobi, "The Limp Shadows", cave
+	1 manticore
+	5 troglodytes
+	457 bats
+6: Lulo°ro, "Oakparched", forest retreat
+	Owner: The Hell of Controls, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	administrator: Stozu Ghoulvessel, goblin
+	122 deathcap
+	47 humans
+	1 goblin
+	30 elves
+	2 mules
+	10 grizzly bears
+	2 human visitors
+	5 deathcap visitors
+	1 elf visitor
+	4 deathcap outcasts
+7: Glofosreebis, "Glofosreebis", hamlet
+	Owner: The Maligned Smokes, goblins
+	5 goblins
+	25 peregrine falcons
+	50 elk birds
+	25 cave crocodiles
+	10 giant bats
+	10 large rats
+	25 rattlesnakes
+8: Shofododumbin, "Shofododumbin", hamlet
+	Owner: Glarsnin, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	126 bat men
+	50 elk birds
+	26 helmet snakes
+	26 cave crocodiles
+	10 giant bats
+	10 giant rats
+	10 giant moles
+	26 giant cave spiders
+9: Dribitraygis, "Dribitraygis", hamlet
+	Owner: The Reclusive Society, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	administrator: •ethu Silkenair, rodent man
+	1 rodent man
+10: Strigitradus, "Strigitradus", hamlet
+	Owner: Krafablilgis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	52 bat men
+	50 elk birds
+	27 helmet snakes
+	27 giant cave toads
+	10 giant bats
+11: Slankin, "Slankin", hamlet
+	Owner: The Prim Band, humans
+	Parent Civ: The Realm of Riddling, humans
+	21 humans
+	50 elk birds
+	23 giant cave toads
+	10 naked mole dogs
+	10 giant moles
+	23 giant cave spiders
+	23 dogs
+	50 horses
+	50 two-humped camels
+	10 grizzly bears
+	12 human outcasts
+12: Éngazstrog, "Buzzarddevil", dark fortress
+	Owner: The Curses of Exalting, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lord: Nisam Masterswim, human
+	111 humans
+	2235 goblins
+	1 warthog monster
+	525 beak dogs
+	15 goblin visitors
+	46 goblin outcasts
+	27 human prisoners
+13: Jamasucaf, "Meetcarried", town
+	Owner: The Group of Eyes, humans
+	Parent Civ: The Fabulous Confederation, humans
+	152 humans
+	33 elves
+	10 reptile men
+	50 cats
+	50 sheep
+	10 pigs
+	10 geese
+	6 human visitors
+	20 elf visitors
+	19 human outcasts
+	8 elf outcasts
+14: Tungñxuststu, "Waxtreaty", fortress
+	Owner: The Permanent Whip, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	117 deathcap
+	1 peregrine falcon man
+	9 humans
+	14 bat men
+	16 elves
+	1 thrips man
+	37 peregrine falcons
+	10 ravens
+	10 turkeys
+	33 rabbits
+	4 deathcap visitors
+	7 elf visitors
+	2 goblin visitors
+	4 human visitors
+	1 rodent man visitor
+	27 deathcap outcasts
+15: Nusnostdak, "Reinedpaddled", fortress
+	Owner: The Door of Sorcery, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	83 deathcap
+	9 elves
+	3 humans
+	62 goblins
+	27 red-winged blackbird men
+	60 gorlaks
+	29 dingo men
+	48 eagles
+	15 grizzly bears
+	15 black bears
+	23 capybaras
+	1 deathcap visitor
+	17 deathcap outcasts
+	1 elf outcast
+	3 goblin outcasts
+	5 gorlak outcasts
+16: Thinacero, "Brideclutches", hamlet
+	Owner: The Rare Society, humans
+	Parent Civ: The Furious Confederacy, humans
+	101 humans
+	23 dogs
+	4 mules
+	7 cavies
+	10 ducks
+	14 water buffalos
+	25 rabbits
+	20 human outcasts
+	1 human prisoner
+17: Bilavadane, "Paintdune", forest retreat
+	Owner: The Dell of Glittering, elves
+	Parent Civ: The Thin Grotto, elves
+	8 humans
+	85 elves
+	24 peregrine falcons
+	10 horses
+18: Gengosta, "Stinkywitch", dark fortress
+	Owner: The Short Nightmares, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lord: Osta Devilapes, goblin
+	27 elves
+	82 deathcap
+	1300 goblins
+	1 marmot fiend
+	324 beak dogs
+	21 elf prisoners
+19: Rusnalipul, "Colorshrine", town
+	Owner: The Helmed Group, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	76 goblins
+	120 humans
+	1 rodent man
+	49 dogs
+	10 geese
+	10 grizzly bears
+	50 two-humped camels
+	6 goblin visitors
+	9 human visitors
+	4 deathcap outcasts
+	1 elf outcast
+	2 human outcasts
+	1 goblin outcast
+	2 goblin slaves
+	1 goblin prisoner
+	1 human prisoner
+20: Renarathä, "Truepoems", forest retreat
+	Owner: The Allied Earth, elves
+	Parent Civ: The Massive Grove, elves
+	18 humans
+	117 elves
+	60 deathcap
+	2 rabbits
+	10 grizzly bears
+	9 elf visitors
+	5 human visitors
+	11 deathcap visitors
+	2 deathcap outcasts
+	3 elf outcasts
+	2 elf prisoners
+	8 human prisoners
+21: Zolaklod, "Sinfulsoaked", dark fortress
+	Owner: The Dungeon of Shocks, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: Arstruk Monstroustender, goblin
+	29 deathcap
+	27 rodent men
+	65 humans
+	1389 goblins
+	17 elves
+	327 beak dogs
+	7 goblin visitors
+	25 goblin outcasts
+	5 deathcap outcasts
+	5 elf outcasts
+	2 rodent man outcasts
+	2 human outcasts
+	2 elf prisoners
+	8 human prisoners
+22: Monsmusat, "Planemanor", fortress
+	Owner: The Papers of Ivy, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	193 deathcap
+	3 humans
+	7 elves
+	27 plump helmet men
+	30 gorlaks
+	20 dingo men
+	17 grizzly bears
+	17 black bears
+	1 deathcap visitor
+	1 human outcast
+	20 deathcap outcasts
+	3 goblin outcasts
+	4 plump helmet man outcasts
+23: Osushhi§er, "Clashesbaked", hamlet
+	Owner: Grifralder, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	70 bat men
+	25 peregrine falcons
+	25 helmet snakes
+	25 giant olms
+	25 giant cave spiders
+	50 elk birds
+	10 giant bats
+	10 giant moles
+	25 cave crocodiles
+	10 giant rats
+24: òemirifafa, "Birthglade", forest retreat
+	Owner: The Cunning Stones, elves
+	Parent Civ: The Dreamy Poem, elves
+	134 elves
+	10 horses
+	10 black bears
+25: Ngokangomus, "Curseshore", dark fortress
+	Owner: The Witch of Nettles, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Gozru Teethtorments, goblin
+	72 humans
+	22 rodent men
+	2770 goblins
+	1 bat man
+	52 elves
+	1 deathcap
+	1 loris demon
+	672 beak dogs
+	6 goblin visitors
+	2 goblin outcasts
+	11 human prisoners
+	1 elf prisoner
+	1 rodent man prisoner
+26: Atekenna, "Buttonstalks", hamlet
+	Owner: The Fellowship of Scarring, humans
+	Parent Civ: The Union of Poems, humans
+	107 humans
+	26 dogs
+	2 cats
+	50 horses
+	2 cavies
+	9 ducks
+	10 geese
+	9 guineafowls
+	2 human prisoners
+27: Omuxuspgas, "Slugmalice", dark fortress
+	Owner: The Furious Plagues, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Dang Blackworn, goblin
+	74 humans
+	2715 goblins
+	1 hedgehog fiend
+	672 beak dogs
+	7 goblin visitors
+	24 goblin outcasts
+	25 human prisoners
+28: Ewiwirofa, "Fairbeaches", forest retreat
+	Owner: The Squeezing Fangs, elves
+	Parent Civ: The Scaly Euphoria, elves
+	115 elves
+	64 humans
+	11 aardvark men
+	49 peregrine falcons
+	10 horses
+	10 grizzly bears
+	14 elf visitors
+	10 human visitors
+	7 human outcasts
+29: Okokatslet, "Padstockades", hamlet
+	Owner: The Lovely Council, humans
+	Parent Civ: The Nation of Ivy, humans
+	91 humans
+	23 peregrine falcons
+	50 horses
+	10 blue peafowls
+	29 human outcasts
+30: Mem¢thiosime, "Nourisheagles", vault
+	Owner: The Wet Fisher, 
+	25 Chaos Warriors
+	50 Chaotic Puppets
+	1 Judgment of Mirding
+31: Osmozdeng, "Yellsglove", vault
+	Owner: The Erased Glitter, 
+	25 Warring Champions
+	50 Attendants of Oxulzotho
+	1 Ruination of Oxulzotho
+32: Stutusdusmun, "Apexcradled", vault
+	Owner: The Twine of Garnishing, 
+	25 Warring Champions
+	50 Attendants of Oxulzotho
+	1 Ruination of Oxulzotho
+33: Kawerogon, "Wardfame", vault
+	Owner: The Persuasive Toast, 
+	25 Warring Champions
+	50 Attendants of Oxulzotho
+	1 Ruination of Oxulzotho
+34: Cemirgel, "Shieldkey", vault
+	Owner: The Still Lips, 
+	25 Chaos Warriors
+	50 Chaotic Puppets
+	1 Judgment of Mirding
+35: Ostangonos, "Witchwails", dark pits
+	Owner: The Bejeweled Evil, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Osta Monstrousbanners, goblin
+	76 goblins
+36: Cacamecaväre, "Peltknight", forest retreat
+	Owner: The Divine Cobra, elves
+	Parent Civ: The Scaly Euphoria, elves
+	95 elves
+	1 human
+	10 one-humped camels
+	10 ravens
+	10 black bears
+37: Durpulcegad, "Gloveflaxen", hillocks
+	Owner: The Lancer of Tongs, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	112 deathcap
+	2 deathcap visitors
+	24 deathcap outcasts
+38: Julosmbengel, "Crabromanced", hamlet
+	Owner: The Fellowship of Juggling, humans
+	Parent Civ: The Fabulous Confederation, humans
+	39 humans
+	1 thrips man
+	14 elves
+	50 horses
+	26 dogs
+	10 guineafowls
+39: Shrusleekis, "Shrusleekis", hamlet
+	Owner: The Organized Coalition, humans
+	Parent Civ: The Fabulous Confederation, humans
+	administrator: Utag Footspikes, human
+	2 humans
+	1 beetle man
+	2 giant cave spiders
+	2 giant cave toads
+	2 giant olms
+	2 giant rats
+	2 helmet snakes
+	2 bushmasters
+	2 giant moles
+40: Rabingiki, "Omentreats", hamlet
+	Owner: The Council of Gleams, humans
+	Parent Civ: The Union of Poems, humans
+	29 humans
+	9 turkeys
+	8 cows
+	20 cavies
+	22 reindeer
+41: Dolilalmef, "Waneautumns", hamlet
+	Owner: The Fellowship of Requirements, humans
+	Parent Civ: The Furious Confederacy, humans
+	108 humans
+	16 cats
+	10 geese
+	50 horses
+	12 kestrels
+	4 turkeys
+	6 blue peafowls
+	15 human outcasts
+42: Casotsimin, "Strikeentrance", hamlet
+	Owner: The Group of Limes, humans
+	Parent Civ: The Nation of Ivy, humans
+	99 humans
+	1 rhinoceros man
+	8 sheep
+	11 alpacas
+	10 chickens
+	12 llamas
+	24 dogs
+	7 rabbits
+	12 goats
+	10 ducks
+	1 human visitor
+	10 human outcasts
+43: Niworathali, "Orbsbrands", hillocks
+	Owner: The Blanketed Carnal Poems, humans
+	9 humans
+44: Zolakroslast, "Sinfrenzy", dark pits
+	Owner: The Fly of Respect, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: BÜx Matchsteals, goblin
+	35 goblins
+45: Almoono, "Enjoyedtower", hamlet
+	Owner: The Society of Grapes, humans
+	Parent Civ: The Realm of Riddling, humans
+	102 humans
+	50 two-humped camels
+	50 horses
+	24 peregrine falcons
+	10 grizzly bears
+	17 human outcasts
+46: Lesanatemame, "Satingaze", forest retreat
+	Owner: The Beans of Roughness, elves
+	Parent Civ: The Thin Grotto, elves
+	107 elves
+	2 yaks
+	2 water buffalos
+47: Slamber, "Slamber", hamlet
+	Owner: The Momentous Wave, elves
+	Parent Civ: The Massive Grove, elves
+	administrator: Smunstu Dungeonmoons, goblin
+	3 goblins
+48: ôbtaspolngî, "Rivermonster", dark pits
+	Owner: The Feral Dungeon, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Damsto Wordswitches, goblin
+	31 goblins
+	3 deathcap
+49: Kutsmobutok, "Menacerings", dark pits
+	Owner: The Monster of Afflictions, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: Kutsmob Brutecruelty, goblin
+	31 goblins
+50: Drothrungus, "Drothrungus", hamlet
+	Owner: Dlukuklonkus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	22 bat men
+	25 cave crocodiles
+	25 peregrine falcons
+	25 giant cave spiders
+	10 giant rats
+51: Fathalaarane, "Gearlaces", forest retreat
+	Owner: The Intricacy of Feet, elves
+	Parent Civ: The Massive Grove, elves
+	58 elves
+	10 horses
+52: Thuslaxbatow, "Clenchtrade", hillocks
+	Owner: The Bulbous City, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	14 goblins
+	4 elves
+	16 deathcap
+	3 humans
+	2 deathcap visitors
+	10 deathcap outcasts
+	7 goblin outcasts
+	7 human outcasts
+	7 elf outcasts
+53: Shlothreekis, "Shlothreekis", hamlet
+	Owner: The Earthen Devils, goblins
+	2 humans
+	3 goblins
+	2 helmet snakes
+	2 giant olms
+	2 naked mole dogs
+54: Xodubosa, "Blizzarddungeons", dark pits
+	Owner: The Immoral Midnight, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lady: Snodub Thieftightness, goblin
+	48 goblins
+55: Lundagido, "Olivephrase", hamlet
+	Owner: The Society of Claws, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	4 elves
+	11 goblins
+	6 humans
+	1 rodent man
+	2 goblin slaves
+56: Chrulin, "Chrulin", hamlet
+	Owner: The Oceanic Fellowship, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	57 humans
+	26 cave crocodiles
+	10 giant rats
+	26 giant olms
+	10 giant bats
+	2 cats
+	50 horses
+	2 ravens
+	26 dogs
+	10 grizzly bears
+	7 goblin slaves
+	1 elf slave
+57: Ithavari, "Sheenglide", forest retreat
+	Owner: The Tornado of Shade, elves
+	Parent Civ: The Butterfly of Balls, elves
+	31 elves
+	10 horses
+	9 turkeys
+58: Mivocçula, "Taperedgrowled", forest retreat
+	Owner: The Pointy Horns, elves
+	Parent Civ: The Dreamy Poem, elves
+	98 elves
+	2 yaks
+59: Xospstrodno, "Flimsyscorpion", dark pits
+	Owner: The Barbarity of Crucifixion, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: Stosbñb Hellproblem, goblin
+	31 goblins
+60: Ngotozstosbñb, "Trusshated", dark pits
+	Owner: The Reputed Spiders, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Nguslu Plainshates, goblin
+	64 goblins
+	1 polar bear man
+	1 elf prisoner
+61: Athodspecut, "Brasscrafts", hillocks
+	Owner: The Stormy Picks, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	48 deathcap
+62: Uthretpundik, "Whippedjokes", hamlet
+	Owner: The Group of Spears, humans
+	Parent Civ: The Union of Poems, humans
+	9 bat men
+	14 elves
+	13 deathcap
+	118 humans
+	1 wolverine man
+	10 grizzly bears
+	24 dogs
+	50 horses
+	9 ravens
+	10 black bears
+63: Thifamilefari, "Hameviper", hillocks
+	Owner: The Incidental Work, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	70 deathcap
+	2 bat men
+	4 humans
+	4 deathcap visitors
+	29 deathcap outcasts
+64: Snodubdostom, "Plaguelions", dark pits
+	Owner: The Reputed Lie, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lord: Dostngosp Hexhogs, goblin
+	104 goblins
+	6 humans
+65: Kridiplayrber, "Kridiplayrber", hamlet
+	Owner: The Wise Councils, humans
+	Parent Civ: The Realm of Riddling, humans
+	administrator: Boki Tubcooked, human
+	16 humans
+	10 cave swallow men
+	2 peregrine falcons
+	50 elk birds
+	2 giant moles
+	2 giant rats
+	4 giant olms
+	4 naked mole dogs
+	2 giant cave spiders
+66: Erufatha, "Closedroad", hillocks
+	Owner: The Lashes of Comedy, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	76 deathcap
+	5 humans
+	10 ravens
+	1 deathcap visitor
+	39 deathcap outcasts
+67: Mimhehan, "Handleemerald", hamlet
+	Owner: The Fatal Band, humans
+	Parent Civ: The Nation of Ivy, humans
+	41 humans
+	5 elves
+	12 cats
+	50 horses
+	50 elephants
+	10 guineafowls
+	1 human visitor
+	1 deathcap outcast
+	11 human outcasts
+68: Snangdang, "Thiefhorrors", dark pits
+	Owner: The Lie of Plaits, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lord: Mato Witchhowl, goblin
+	49 goblins
+	3 humans
+69: Lrigishildus, "Lrigishildus", hamlet
+	Owner: The Packs of Spring, elves
+	Parent Civ: The Massive Grove, elves
+	administrator: Mawada Woodenleopard, elf
+	15 goblins
+	5 elves
+70: Stulufublabis, "Stulufublabis", town
+	Owner: Jludukubudus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	174 bat men
+	1 human
+	25 lion tamarin men
+	10 elves
+	10 cave swallow men
+	49 helmet snakes
+	50 elk birds
+	10 naked mole dogs
+	49 cave crocodiles
+	49 giant cave spiders
+	49 giant cave toads
+	10 giant moles
+71: Zutìspkutsmob, "Tunnelmenaced", dark pits
+	Owner: The Scourge of Rams, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lady: Nako Wadedspiders, goblin
+	83 goblins
+72: Penopuanomi, "Velvetcounsels", forest retreat
+	Owner: The Jungle of Bearing, elves
+	Parent Civ: The Massive Grove, elves
+	27 elves
+	10 grizzly bears
+	10 horses
+73: Ostaangot, "Witchtax", dark pits
+	Owner: The Smeared Poison, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Strodno Malignedsparks, goblin
+	52 goblins
+74: Porebabe, "Mauvepaddles", hillocks
+	Owner: The Puce Lance, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	110 deathcap
+	10 black bears
+	1 deathcap visitor
+	11 deathcap outcasts
+75: Ruspzuzsnusp, "Drillfortress", hillocks
+	Owner: The Charcoal Razor, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	123 deathcap
+	10 black bears
+	30 deathcap outcasts
+76: Ethanalora, "Goodfields", forest retreat
+	Owner: The Cat of Organizations, elves
+	Parent Civ: The Thin Grotto, elves
+	6 humans
+	100 elves
+	26 peregrine falcons
+	10 horses
+77: Amxungebo, "Seduceworks", dark pits
+	Owner: The Sins of Defending, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: StÉsost Putriddoom, goblin
+	57 goblins
+	1 deathcap
+	27 beak dogs
+78: Nedumifava, "Craftblazed", hillocks
+	Owner: The Crazed Mine, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	100 deathcap
+	10 grizzly bears
+	1 deathcap visitor
+	20 deathcap outcasts
+79: Asritura, "Blazesbrains", hamlet
+	Owner: The League of Meandering, humans
+	Parent Civ: The Realm of Riddling, humans
+	114 humans
+	9 reindeer
+	10 grizzly bears
+	10 llamas
+	27 dogs
+	9 rabbits
+	11 cavies
+	11 mules
+	10 chickens
+	18 human outcasts
+80: Il°ithith°, "Amberfern", forest retreat
+	Owner: The Heathers of Chanting, elves
+	Parent Civ: The Dreamy Poem, elves
+	113 elves
+	10 horses
+	10 black bears
+81: Stozugam, "Poisonfrozen", dark pits
+	Owner: The Helmed Lies, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: ñsbu Hateburied, goblin
+	52 goblins
+	24 beak dogs
+82: Stekugamxu, "Leapseduced", dark pits
+	Owner: The Cavernous Cruelty, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Dang Poisonslid, goblin
+	1 jaguar man
+	53 goblins
+	23 beak dogs
+83: Jolstruslot, "Postframed", hamlet
+	Owner: The Rhythmic Councils, humans
+	Parent Civ: The Union of Poems, humans
+	93 humans
+	5 pigs
+	10 cows
+	10 cavies
+	9 mules
+	22 dogs
+	11 donkeys
+	10 water buffalos
+	10 grizzly bears
+	1 human prisoner
+84: Rusnaamec, "Colornotches", hamlet
+	Owner: The Hopeful Society, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	15 humans
+	50 one-humped camels
+	48 dogs
+	50 two-humped camels
+	5 blue peafowls
+	100 horses
+85: Adasmafol, "Passedchamber", hillocks
+	Owner: The Reclusive Coal, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	123 deathcap
+	10 grizzly bears
+	3 deathcap visitors
+	27 deathcap outcasts
+86: Uksososnuk, "Stealnames", dark pits
+	Owner: The Ruthlessness of Clouting, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Ngokang Hellnourished, goblin
+	38 goblins
+	22 beak dogs
+87: Duburar, "Fearmaligned", dark pits
+	Owner: The Lurid Witch, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lord: Osta Combinedvice, goblin
+	31 goblins
+	25 beak dogs
+88: Sethequ°leli, "Packlathered", forest retreat
+	Owner: The Adorable Growls, elves
+	Parent Civ: The Massive Grove, elves
+	71 elves
+	10 grizzly bears
+	10 horses
+89: Sralakathreeris, "Sralakathreeris", hamlet
+	Owner: Krilbus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	141 bat men
+	32 elves
+	12 deathcap
+	8 humans
+	27 giant cave toads
+	27 giant cave spiders
+	50 elk birds
+	10 giant moles
+	10 naked mole dogs
+	27 peregrine falcons
+	10 giant rats
+	27 giant olms
+	27 helmet snakes
+	10 giant bats
+90: Eruxomu, "Paperwondered", hillocks
+	Owner: The Incidental Rags, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	129 deathcap
+	1 elf
+	10 grizzly bears
+	2 deathcap visitors
+	25 deathcap outcasts
+91: Licoenna, "Wanderedtalked", hamlet
+	Owner: The Group of Heaven, humans
+	Parent Civ: The Fabulous Confederation, humans
+	71 humans
+	1 elf
+	25 dogs
+	10 ducks
+	50 horses
+92: Rîsnusnguslu, "Yawnterror", dark pits
+	Owner: The Speechless Plague, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Snang Monsterlamb, goblin
+	23 goblins
+	27 beak dogs
+93: Ngomstrag, "Doomknowing", dark pits
+	Owner: The Ochre Seduction, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: Snodub Cursefly, goblin
+	3 humans
+	70 goblins
+	26 beak dogs
+94: Ushcenostri, "Dishwealths", hamlet
+	Owner: The Council of Wonder, humans
+	Parent Civ: The Fabulous Confederation, humans
+	88 humans
+	23 dogs
+	50 horses
+	5 chickens
+	6 blue peafowls
+	5 turkeys
+	2 alpacas
+	7 geese
+	2 llamas
+95: Idempenoc, "Airpulleys", town
+	Owner: The Mortified Group, humans
+	Parent Civ: The Nation of Ivy, humans
+	188 humans
+	84 elves
+	34 deathcap
+	2 bat men
+	1 goblin
+	1 two-humped camel man
+	1 thrips man
+	51 dogs
+	10 turkeys
+	10 pigs
+	50 horses
+	10 guineafowls
+	10 blue peafowls
+	5 human visitors
+	55 human outcasts
+	2 goblin outcasts
+	2 human prisoners
+96: Lanikopoh, "Sistersstake", hillocks
+	Owner: The Hammer of Hills, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	97 deathcap
+	23 peregrine falcons
+	50 rabbits
+	10 ravens
+	1 deathcap visitor
+	29 deathcap outcasts
+97: Grilmis, "Grilmis", hamlet
+	Owner: The Fellowship of Squids, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	administrator: Queh Judgeoak, rodent man
+	1 rodent man
+98: Erosethe, "Peacefulpack", forest retreat
+	Owner: The Ivy of Spears, elves
+	Parent Civ: The Scaly Euphoria, elves
+	8 elves
+	1 tiger man
+	1 human
+	10 two-humped camels
+	10 one-humped camels
+	4 peregrine falcons
+	2 donkeys
+	2 turkeys
+	10 horses
+	10 grizzly bears
+	2 mules
+	2 water buffalos
+99: Rerenämile, "Wheelsflute", forest retreat
+	Owner: The Tressed Moth, elves
+	Parent Civ: The Dreamy Poem, elves
+	101 elves
+	10 black bears
+	10 horses
+100: Efilisethe, "Flypack", forest retreat
+	Owner: The Ignorant Terrors, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	administrator: Zolak Lashmenace, elf
+	12 deathcap
+	8 elves
+	3 humans
+	1 goblin
+	8 grizzly bears
+	2 horses
+101: Arstruksnuddu, "Demonpoints", dark pits
+	Owner: The Occult Thief, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: StÉsost Toneplague, goblin
+	4 deathcap
+	2 rodent men
+	4 humans
+	2 elves
+	64 goblins
+	26 beak dogs
+102: Tadatigus, "Tadatigus", hamlet
+	Owner: Kobosreerus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	121 bat men
+	25 giant cave spiders
+	25 peregrine falcons
+	10 giant rats
+	25 giant olms
+	50 elk birds
+	10 giant moles
+	25 giant cave toads
+	10 naked mole dogs
+103: Osplek§esik, "Shockcrewed", hamlet
+	Owner: The Tiled Council of Lancing, humans
+	Parent Civ: The Furious Confederacy, humans
+	101 humans
+	50 horses
+	9 blue peafowls
+	2 alpacas
+	26 dogs
+	9 ducks
+	9 chickens
+	1 human visitor
+	19 human outcasts
+104: Amngon, "Smithgrowths", hillocks
+	Owner: The Wire of Brides, deathcap
+	Parent Civ: The Treaty of Lovers, deathcap
+	1 elf
+	118 deathcap
+	10 grizzly bears
+	10 black bears
+	2 deathcap visitors
+	27 deathcap outcasts
+105: Nesenocam, "Innteeth", tomb
+	16 goblin slaves
+106: Tlobopalber, "Tlobopalber", hamlet
+	Owner: The Group of Wishing, humans
+	Parent Civ: The Realm of Riddling, humans
+	administrator: Pibang Inchjoked, human
+	5 humans
+	9 cave swallow men
+	2 cave crocodiles
+	50 elk birds
+	2 giant moles
+	2 giant olms
+	2 naked mole dogs
+	2 giant cave spiders
+	2 giant rats
+	2 giant bats
+107: Eriòadeca, "Hailedcrowd", forest retreat
+	Owner: The Dominant Glosses, elves
+	Parent Civ: The Dreamy Poem, elves
+	1 human
+	101 elves
+	2 donkeys
+	10 black bears
+	10 horses
+108: Alinowina, "Dawnbulwark", forest retreat
+	Owner: The Silken Sister, elves
+	Parent Civ: The Thin Grotto, elves
+	3 humans
+	92 elves
+	25 peregrine falcons
+	10 horses
+109: Tekudketh, "Pickdeer", hamlet
+	Owner: The Council of Dinners, humans
+	Parent Civ: The Realm of Riddling, humans
+	21 humans
+	24 donkeys
+	25 dogs
+	26 cows
+	7 turkeys
+	7 human outcasts
+110: Stroxgozru, "Circlehell", dark pits
+	Owner: The Torment of Harmonizing, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Ngokang Vilesplashed, goblin
+	49 goblins
+	26 beak dogs
+111: Fif°iòaso, "Glazedjoyous", hillocks
+	Owner: The Last Boulders, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	69 deathcap
+	10 ravens
+	18 peregrine falcons
+	50 rabbits
+	1 deathcap visitor
+	29 deathcap outcasts
+112: Dalakastronkis, "Dalakastronkis", hamlet
+	Owner: The Coalition of Whiskers, humans
+	Parent Civ: The Realm of Riddling, humans
+	administrator: Spibsa Harekindle, cave swallow man
+	11 cave swallow men
+	1 human
+	2 giant olms
+	2 naked mole dogs
+	2 helmet snakes
+	2 giant cave spiders
+	50 elk birds
+	2 giant bats
+	2 cave crocodiles
+	2 giant moles
+	1 cave swallow man prisoner
+113: èkruazstrog, "Sorrowdevil", dark pits
+	Owner: The Midnight of Workers, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lady: Snodub Sweatblack, goblin
+	7 humans
+	4 elves
+	103 goblins
+	2 deathcap
+	22 beak dogs
+114: Lathçepeve, "Tradesparkles", forest retreat
+	Owner: The Veneration of Oak, elves
+	Parent Civ: The Dreamy Poem, elves
+	103 elves
+	10 horses
+	10 black bears
+	2 capybaras
+	2 mules
+115: Zomsmaksmo, "Fiendland", dark pits
+	Owner: The Terrible Sin, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Stozu Stirredfiends, goblin
+	35 goblins
+	6 deathcap
+	26 beak dogs
+116: Raquiasla, "Festivehealer", hamlet
+	Owner: The Frilly Coalition, humans
+	Parent Civ: The Furious Confederacy, humans
+	98 humans
+	2 cats
+	26 dogs
+	9 ducks
+	50 horses
+	8 turkeys
+	9 pigs
+	1 human visitor
+	22 human outcasts
+117: Tñbebosta, "Glacierwitch", dark pits
+	Owner: The Devil of Hames, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Nako Hexoceans, goblin
+	44 goblins
+	27 beak dogs
+118: Sududukrombis, "Sududukrombis", hamlet
+	Owner: The Lobster of Bears, elves
+	Parent Civ: The Massive Grove, elves
+	administrator: Sal¢ Cloakwave, elf
+	13 goblins
+	2 elves
+119: Thlolokochleelmis, "Thlolokochleelmis", hamlet
+	Owner: The Slick Group, humans
+	Parent Civ: The Realm of Riddling, humans
+	administrator: Oxut Moistenedmastered, human
+	4 humans
+	10 cave swallow men
+	2 giant cave spiders
+	2 peregrine falcons
+	50 elk birds
+	2 giant rats
+	2 giant moles
+	2 giant cave toads
+	2 helmet snakes
+	2 naked mole dogs
+	2 giant olms
+	1 human visitor
+120: Pev¢pati, "Bulbpools", forest retreat
+	Owner: The Respectful Ghouls, goblins
+	5 goblins
+	2 grizzly bears
+	2 donkeys
+	2 yaks
+	2 ravens
+	2 horses
+	2 water buffalos
+	2 turkeys
+121: Luthtuc, "Matchedwhisks", hamlet
+	Owner: The Council of Bites, humans
+	Parent Civ: The Realm of Riddling, humans
+	21 humans
+	26 dogs
+	10 grizzly bears
+	23 mules
+	27 reindeer
+	14 human outcasts
+122: Itheraimiwa, "Mastergales", forest retreat
+	Owner: The Tressed Pelts, elves
+	Parent Civ: The Massive Grove, elves
+	8 humans
+	5 deathcap
+	1 rodent man
+	7 elves
+	10 horses
+	10 grizzly bears
+	3 human visitors
+	2 goblin visitors
+	1 elf visitor
+	1 human outcast
+	3 elf outcasts
+123: OstaÑgu, "Witchgrieved", dark pits
+	Owner: The Spider of Vestibules, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: BÜx Thinghoul, goblin
+	52 goblins
+	23 beak dogs
+124: Genedstosbñb, "Depthhated", dark pits
+	Owner: The Eviscerated Wraith, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Zolak Leastdread, goblin
+	13 humans
+	51 goblins
+	26 beak dogs
+125: Udistoltar, "Pleatgilds", hillocks
+	Owner: The Paper of Wondering, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	3 humans
+	2 elves
+	125 deathcap
+	1 goblin
+	26 peregrine falcons
+	50 rabbits
+	10 turkeys
+	10 ravens
+	4 deathcap visitors
+	1 goblin outcast
+	3 elf outcasts
+	3 human outcasts
+	30 deathcap outcasts
+126: Chululrodis, "Chululrodis", hamlet
+	Owner: Shumbis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	30 bat men
+	27 cave crocodiles
+	50 elk birds
+	10 naked mole dogs
+	27 helmet snakes
+127: Rigïthg£r, "Craftsbowel", hillocks
+	Owner: The Road of Clearings, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	114 deathcap
+	26 eagles
+	50 capybaras
+	10 black bears
+	8 deathcap outcasts
+128: Adupib, "Boardchirped", hamlet
+	Owner: The Balanced Council, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	96 humans
+	10 goblins
+	10 elves
+	1 bat man
+	3 rodent men
+	24 dogs
+	50 two-humped camels
+	6 chickens
+	10 geese
+	10 grizzly bears
+	50 one-humped camels
+	4 goblin slaves
+129: Thoneelu, "Incenseripe", forest retreat
+	Owner: The Foggy Tundras, elves
+	Parent Civ: The Scaly Euphoria, elves
+	10 humans
+	47 elves
+	15 peregrine falcons
+	10 horses
+	10 grizzly bears
+130: Snangngñlo, "Thiefinked", dark pits
+	Owner: The Roasted Nightmares, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Ngoso Monstrouscharm, goblin
+	88 goblins
+	24 beak dogs
+131: Stoltadithru, "Roastedcastle", hillocks
+	Owner: The Sienna Dyes, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	103 deathcap
+	23 eagles
+	50 capybaras
+	10 grizzly bears
+	12 deathcap outcasts
+132: Refiayilo, "Guildchant", hillocks
+	Owner: The Holy Torch, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	121 deathcap
+	6 elves
+	7 goblins
+	1 human
+	24 eagles
+	50 capybaras
+	10 black bears
+	6 deathcap outcasts
+133: Mafidena, "Scalylenses", forest retreat
+	Owner: The Field of Bristling, elves
+	Parent Civ: The Scaly Euphoria, elves
+	79 elves
+	1 human
+	21 peregrine falcons
+	10 two-humped camels
+	10 grizzly bears
+	10 horses
+	10 one-humped camels
+134: Sasifiidala, "Bustglen", forest retreat
+	Owner: The Ivy of Velvet, elves
+	Parent Civ: The Dreamy Poem, elves
+	1 goblin
+	3 elves
+	10 horses
+	3 black bears
+135: Thastlalmis, "Thastlalmis", hamlet
+	Owner: Klaylder, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	98 bat men
+	25 giant cave toads
+	25 helmet snakes
+	50 elk birds
+	10 giant rats
+	10 giant moles
+	25 cave crocodiles
+	10 giant bats
+	25 giant cave spiders
+	10 naked mole dogs
+	25 peregrine falcons
+136: Spodstaspug, "Flanksalves", hillocks
+	Owner: The Channel of Spines, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	41 deathcap
+	12 peregrine falcons
+	50 rabbits
+	10 turkeys
+	19 deathcap outcasts
+137: Alsnamoz, "Stophatred", dark pits
+	Owner: The Plague of Webs, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Em Dutycruelty, goblin
+	9 deathcap
+	56 goblins
+	13 humans
+	23 beak dogs
+	1 deathcap visitor
+	4 elf visitors
+	1 human visitor
+	1 goblin visitor
+138: Icemçamizo, "Leopardcomet", forest retreat
+	Owner: The Squid of Shocks, elves
+	Parent Civ: The Massive Grove, elves
+	53 deathcap
+	86 elves
+	16 goblins
+	9 humans
+	10 grizzly bears
+	10 horses
+	2 water buffalos
+	7 elf visitors
+	12 deathcap visitors
+	3 human visitors
+	9 goblin visitors
+	8 deathcap outcasts
+	5 goblin outcasts
+	1 elf outcast
+139: Esmstosbñb, "Shuthated", dark pits
+	Owner: The Blind Deceiver, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: Snodub Umbrademons, goblin
+	57 goblins
+	3 humans
+	24 beak dogs
+140: Aredosush, "Fogclashed", town
+	Owner: The League of Sliding, humans
+	Parent Civ: The Nation of Ivy, humans
+	70 humans
+	12 bat men
+	25 elves
+	10 deathcap
+	47 dogs
+	8 blue peafowls
+	50 horses
+	10 geese
+	26 bat man visitors
+	21 elf visitors
+	8 human visitors
+	8 deathcap visitors
+	29 human outcasts
+	5 elf outcasts
+	1 deathcap outcast
+141: Ngerxungospum, "Wickedhammers", dark fortress
+	Owner: The Oily Curses, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lord: Tode Sinfulhandles, goblin
+	1496 goblins
+	350 beak dogs
+142: Gilosush, "Unionclashes", hamlet
+	Owner: The Primitive League, humans
+	Parent Civ: The Furious Confederacy, humans
+	104 humans
+	27 dogs
+	50 horses
+	9 guineafowls
+	2 llamas
+	9 pigs
+	10 ducks
+	7 human outcasts
+143: Thadespr†, "Agehushes", hamlet
+	Owner: The Heavenly Fellowship, humans
+	Parent Civ: The Union of Poems, humans
+	106 humans
+	50 horses
+	10 black bears
+	27 dogs
+	10 grizzly bears
+	1 human outcast
+144: Ngerxungebno, "Wickedtempest", dark pits
+	Owner: The Ace Monsters, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: Nako Evilsearched, goblin
+	40 goblins
+	3 rodent men
+	25 beak dogs
+145: Trudugupreembus, "Trudugupreembus", hamlet
+	Owner: Losreengis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	94 bat men
+	23 cave crocodiles
+	50 elk birds
+	10 naked mole dogs
+	23 giant cave spiders
+	23 helmet snakes
+	10 giant rats
+	10 giant bats
+	10 giant moles
+146: Nilaetini, "Evenbeak", forest retreat
+	Owner: The Dawn of Scorching, elves
+	Parent Civ: The Scaly Euphoria, elves
+	95 elves
+	3 humans
+	26 peregrine falcons
+	10 horses
+	8 grizzly bears
+	2 black bears
+	10 ravens
+147: Mithamaririli, "Mintwisps", forest retreat
+	Owner: The Creature of Beans, elves
+	Parent Civ: The Thin Grotto, elves
+	86 elves
+	1 masked lovebird man
+	23 peregrine falcons
+	10 horses
+148: Ejedrodoh, "Clobberowners", hamlet
+	Owner: The League of Laws, humans
+	Parent Civ: The Realm of Riddling, humans
+	113 humans
+	26 dogs
+	5 cavies
+	2 chinchillas
+	6 reindeer
+	8 alpacas
+	7 two-humped camels
+	6 goats
+	7 guineafowls
+	5 water buffalos
+	6 chickens
+	8 rabbits
+	5 one-humped camels
+	5 ravens
+	10 blue peafowls
+	1 human visitor
+	31 human outcasts
+149: Lozarstruk, "Scarreddemons", dark pits
+	Owner: The Midnight of Omen, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Asno Fingernightmare, goblin
+	40 goblins
+	1 human
+	22 beak dogs
+150: Rofamethila, "Beachcharmed", forest retreat
+	Owner: The Fondled Rivers, elves
+	Parent Civ: The Massive Grove, elves
+	94 elves
+	10 horses
+	10 grizzly bears
+	2 yaks
+151: Olaromimi, "Howlfords", forest retreat
+152: Labapari, "Raspmeadow", forest retreat
+	Owner: The Horns of Gripping, elves
+	Parent Civ: The Scaly Euphoria, elves
+	8 bat men
+	7 humans
+	9 deathcap
+	51 elves
+	20 peregrine falcons
+	10 horses
+	10 grizzly bears
+153: Ngusluangot, "Terrortaxes", dark pits
+	Owner: The Wayward Poison, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: Snodub Luredmonster, goblin
+	104 goblins
+	23 beak dogs
+154: Caleromimi, "Strappingfords", forest retreat
+	Owner: The Pass of Wilts, elves
+	Parent Civ: The Thin Grotto, elves
+	115 elves
+	24 peregrine falcons
+	10 horses
+155: Lolamaciri, "Blossomfinder", forest retreat
+	Owner: The Sorcerous Beards, elves
+	Parent Civ: The Dreamy Poem, elves
+	108 elves
+	1 deathcap
+	2 water buffalos
+	10 black bears
+	10 horses
+156: Nithimbikd†, "Tomessecret", tomb
+157: Zoldostngosp, "Pantedcruelty", dark pits
+	Owner: The Outrageous Poisons, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Stosbñb Evilphantoms, goblin
+	30 goblins
+	25 beak dogs
+	1 human prisoner
+158: Thlodoleengis, "Thlodoleengis", hamlet
+	Owner: Tlufukujlongus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	54 bat men
+	24 giant cave toads
+	50 elk birds
+	10 naked mole dogs
+	24 helmet snakes
+	10 giant rats
+	24 giant cave spiders
+	10 giant moles
+159: Bepazilta, "Bathedamazed", tomb
+	Owner: The Prime Mazes, humans
+	5 humans
+160: Nitheimici, "Whiskeredbites", forest retreat
+	Owner: The Gilded Shark, elves
+	Parent Civ: The Massive Grove, elves
+	92 elves
+	10 horses
+	10 grizzly bears
+	4 black bears
+	2 mules
+161: Ficemisethe, "Merchantpacks", forest retreat
+	Owner: The Bearded Wisps, elves
+	Parent Civ: The Dreamy Poem, elves
+	7 goblins
+	18 elves
+	3 deathcap
+	3 humans
+	10 horses
+	9 black bears
+162: Melido, "Charmstrays", hamlet
+	Owner: The Busy Fellowship, humans
+	Parent Civ: The Realm of Riddling, humans
+	57 humans
+	24 dogs
+	50 horses
+	10 grizzly bears
+	1 human visitor
+	7 human outcasts
+163: Nongosmebas, "Hummedmirth", hamlet
+	Owner: The Group of Sinew, humans
+	Parent Civ: The Fabulous Confederation, humans
+	106 humans
+	50 horses
+	9 guineafowls
+	24 dogs
+	10 pigs
+	9 ducks
+164: Cuthomishas, "Northchance", hamlet
+	Owner: The Tin Society, humans
+	Parent Civ: The Furious Confederacy, humans
+	94 humans
+	2 kestrels
+	24 dogs
+	2 goats
+	2 yaks
+	2 rabbits
+	2 mules
+	2 reindeer
+	6 pigs
+	2 water buffalos
+	6 ducks
+	2 cows
+	50 horses
+	7 chickens
+	2 eagles
+	2 sheep
+	6 turkeys
+	2 donkeys
+	12 human outcasts
+165: Moslîsong, "Bloatedscourges", dark fortress
+	Owner: The Unseen Quake-Monster, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lady: Dostngosp Ghoulseduced, goblin
+	3 elves
+	9 humans
+	427 goblins
+	101 beak dogs
+	2 human visitors
+	3 deathcap visitors
+	6 goblin visitors
+	1 elf visitor
+	1 goblin outcast
+166: Ogzuosnun, "Daubghoul", dark pits
+	Owner: The Fly of Tangles, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lady: Nako Morselevil, goblin
+	60 goblins
+	25 beak dogs
+167: Thlader, "Thlader", hamlet
+	Owner: Thugugayrsner, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	124 bat men
+	25 giant cave spiders
+	25 giant cave toads
+	50 elk birds
+	10 giant moles
+	25 peregrine falcons
+	10 giant rats
+	10 naked mole dogs
+	25 helmet snakes
+	25 cave crocodiles
+168: Gospoic, "Crowdflank", hamlet
+	Owner: The Coalition of Ales, humans
+	Parent Civ: The Union of Poems, humans
+	72 humans
+	50 horses
+	24 dogs
+	8 guineafowls
+	10 ducks
+169: Pilipacila, "Glimmeredheaven", forest retreat
+	Owner: The Luxury of Freckles, elves
+	Parent Civ: The Massive Grove, elves
+	59 elves
+	10 horses
+	10 grizzly bears
+170: Olngîmudo, "Monsterbones", dark pits
+	Owner: The Ruthlessness of Portent, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Avuz Mineknowledge, deathcap
+	43 goblins
+	12 deathcap
+	24 beak dogs
+171: Gavaliddim, "Chapelbuckled", hamlet
+	Owner: The Dear Fellowship, humans
+	Parent Civ: The Union of Poems, humans
+	85 humans
+	26 dogs
+	50 horses
+	10 grizzly bears
+172: Studuflaylmis, "Studuflaylmis", hamlet
+	Owner: Jlaladadlaylber, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	119 bat men
+	24 helmet snakes
+	50 elk birds
+	10 giant bats
+	10 giant moles
+	24 giant cave spiders
+	24 cave crocodiles
+	10 giant rats
+	24 giant cave toads
+	10 naked mole dogs
+173: Lipiala, "Packedmatched", hamlet
+	Owner: The Saffron League, humans
+	Parent Civ: The Union of Poems, humans
+	120 humans
+	1 dingo man
+	26 dogs
+	50 horses
+	7 chickens
+	2 yaks
+	8 ducks
+	8 turkeys
+	9 ravens
+174: Kñbukkeshan, "Lancedflame", hillocks
+	Owner: The Wheels of Drilling, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	60 deathcap
+	10 ravens
+	16 peregrine falcons
+	50 rabbits
+	1 deathcap visitor
+	25 deathcap outcasts
+175: Dangngug, "Horrorhalls", dark pits
+	Owner: The Lesser Dungeon, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lord: StÉsost Wraithhaunted, goblin
+	100 goblins
+	23 beak dogs
+176: Sedmeanir, "Murkpages", hamlet
+	Owner: The Society of Rhythms, humans
+	Parent Civ: The Realm of Riddling, humans
+	70 humans
+	24 dogs
+	50 one-humped camels
+	50 two-humped camels
+	10 grizzly bears
+	11 human outcasts
+	1 human prisoner
+177: Thlologogruder, "Thlologogruder", hamlet
+	Owner: Stlofobodluber, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	46 bat men
+	1 human
+	26 giant cave spiders
+	50 elk birds
+	26 helmet snakes
+	10 giant bats
+	26 giant cave toads
+	26 giant olms
+	10 giant rats
+	26 cave crocodiles
+178: Ersiirnat, "Helmstin", hillocks
+	Owner: The Washed Silver, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	71 deathcap
+	19 peregrine falcons
+	50 rabbits
+	10 ravens
+	2 deathcap visitors
+	39 deathcap outcasts
+179: Gozrusnuslok, "Hellthrall", dark pits
+	Owner: The Maligned Curses, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Nako Hellbridges, goblin
+	49 goblins
+	22 beak dogs
+180: Obìuslang, "Trumpetice", hillocks
+	Owner: The Polished Gear, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	121 deathcap
+	1 goblin
+	24 eagles
+	50 capybaras
+	10 black bears
+	7 deathcap outcasts
+181: Rethuave, "Rewardwood", forest retreat
+	Owner: The Immorality of Shaking, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	administrator: Itvid Focusstake, deathcap
+	5 deathcap
+	36 elves
+	2 horses
+	10 grizzly bears
+	1 elf prisoner
+	1 deathcap prisoner
+182: Roguxzom, "Fastenfiend", dark pits
+	Owner: The Tick of Lanterns, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Ngokang Ruthlessesteemed, goblin
+	72 goblins
+	27 beak dogs
+183: Fewethaeco, "Vineenters", forest retreat
+	Owner: The Water of Chances, elves
+	Parent Civ: The Thin Grotto, elves
+	97 elves
+	1 human
+	26 peregrine falcons
+	10 horses
+184: Smunstumutog, "Liedances", dark pits
+	Owner: The Wickedness of Ditches, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: Zolak Enjoyedhated, goblin
+	49 goblins
+	23 beak dogs
+185: Ganuhthaguk, "Waxleagues", hamlet
+	Owner: The Honorable Councils, humans
+	Parent Civ: The Realm of Riddling, humans
+	72 humans
+	23 dogs
+	50 one-humped camels
+	2 rabbits
+	50 two-humped camels
+	50 horses
+	10 grizzly bears
+	2 water buffalos
+	12 human outcasts
+186: Sodorsnodub, "Deepplague", dark pits
+	Owner: The Evils of Waning, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lady: Nguslu Wickedunions, human
+	2 humans
+	65 goblins
+	25 beak dogs
+187: Kutsmobxano, "Menaceended", dark pits
+	Owner: The Tactical Witch, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lord: Ngokang Sinfulfull, goblin
+	65 goblins
+	25 beak dogs
+188: Thilamaforile, "Dishinked", hillocks
+	Owner: The Mansion of Systems, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	73 deathcap
+	19 eagles
+	50 capybaras
+	10 grizzly bears
+	1 deathcap visitor
+	12 deathcap outcasts
+189: Icarneni, "Tuskentered", hamlet
+	Owner: The Councils of Socketing, humans
+	Parent Civ: The Nation of Ivy, humans
+	52 humans
+	1 deathcap
+	25 dogs
+	50 horses
+	9 chickens
+	6 guineafowls
+	2 human visitors
+	9 human outcasts
+	1 human prisoner
+190: Trababloker, "Trababloker", hamlet
+	Owner: Grolokokolgis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	80 bat men
+	22 giant cave toads
+	22 helmet snakes
+	22 giant cave spiders
+	50 elk birds
+	10 giant rats
+	10 naked mole dogs
+	22 cave crocodiles
+	10 giant moles
+191: Tolnguslu, "Lambsterror", dark pits
+	Owner: The Angry Scourge, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Zom Endedtorment, goblin
+	35 goblins
+	25 beak dogs
+192: Setshifensast, "Youngscar", tomb
+193: Avuztekkud, "Minedpick", hillocks
+	Owner: The Crystalline Cave, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	112 deathcap
+	24 eagles
+	50 capybaras
+	10 grizzly bears
+	10 black bears
+	3 deathcap visitors
+	28 deathcap outcasts
+194: Onrakacnu, "Worldcovens", hamlet
+	Owner: The Fellowship of Finders, humans
+	Parent Civ: The Fabulous Confederation, humans
+	45 humans
+	26 dogs
+	50 horses
+	6 geese
+	7 blue peafowls
+	2 human prisoners
+195: Dof†to, "Dentedyarns", hamlet
+	Owner: The Muscular Councils, humans
+	Parent Civ: The Fabulous Confederation, humans
+	95 humans
+	50 horses
+	10 guineafowls
+	23 dogs
+	8 ducks
+	7 pigs
+	2 mules
+	2 human prisoners
+196: Kamcar†kfil, "Dreamclasped", hillocks
+	Owner: The Revered Urns, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	111 deathcap
+	22 eagles
+	50 capybaras
+	10 grizzly bears
+	10 black bears
+	1 deathcap visitor
+	12 deathcap outcasts
+197: •esikonec, "Crewedlocks", hamlet
+	Owner: The Gloved Coalition, humans
+	Parent Civ: The Union of Poems, humans
+	32 humans
+	23 dogs
+	50 horses
+	4 guineafowls
+	6 ravens
+198: Bosaozlu, "Dungeonraces", dark pits
+	Owner: The Dungeon of Harshness, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lady: Smunstu Vilehaunts, goblin
+	81 goblins
+	2 rodent men
+	26 beak dogs
+199: Chrodin, "Chrodin", hamlet
+	Owner: Slamis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	62 bat men
+	26 peregrine falcons
+	26 giant cave toads
+	50 elk birds
+	10 giant rats
+	26 giant cave spiders
+	10 giant moles
+	26 cave crocodiles
+200: Ngustrâkamxu, "Watchfulseduced", dark pits
+	Owner: The Infamous Sins, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Kutsmob Tribescorpions, goblin
+	86 goblins
+	25 beak dogs
+201: Sishasamo, "Kinhandled", hamlet
+	Owner: The Socketed Fellowship, humans
+	Parent Civ: The Realm of Riddling, humans
+	69 humans
+	23 dogs
+	2 turkeys
+	50 one-humped camels
+	50 two-humped camels
+	10 grizzly bears
+	12 human outcasts
+202: Osnazstasoz, "Channelednuts", hillocks
+	Owner: The Lenses of Appearance, deathcap
+	Parent Civ: The Cobalt Relic, deathcap
+	136 deathcap
+	27 eagles
+	50 capybaras
+	10 black bears
+	5 deathcap outcasts
+203: Bujittamed, "Scrapespoon", hamlet
+	Owner: The Coalition of Senses, humans
+	Parent Civ: The Nation of Ivy, humans
+	51 humans
+	25 dogs
+	50 horses
+	3 chickens
+	3 blue peafowls
+	6 geese
+	3 guineafowls
+	21 human outcasts
+	2 human prisoners
+204: Utokatu, "Ringfly", dark pits
+	Owner: The Primitive Hatred, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: StÉsost Thiefstream, goblin
+	61 goblins
+	23 beak dogs
+205: Strelasbudo, "Primroar", hamlet
+	Owner: The Escorted League, humans
+	Parent Civ: The Realm of Riddling, humans
+	57 humans
+	25 dogs
+	50 one-humped camels
+	10 grizzly bears
+	50 two-humped camels
+	50 horses
+	2 ravens
+	2 mules
+	1 human visitor
+	8 human outcasts
+206: Gusnoasmrar, "Scribedlashed", hillocks
+	Owner: The Furious Paper, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	93 deathcap
+	25 peregrine falcons
+	50 rabbits
+	5 ravens
+	10 turkeys
+	2 human visitors
+	2 goblin visitors
+	1 elf visitor
+	1 deathcap visitor
+	12 deathcap outcasts
+207: Kifinor¢nira, "Styleswilts", forest retreat
+	Owner: The Whirling Plays, elves
+	Parent Civ: The Scaly Euphoria, elves
+	24 elves
+	7 peregrine falcons
+	7 grizzly bears
+	10 horses
+208: Plustruder, "Plustruder", hamlet
+	Owner: Blaybin, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	46 bat men
+	26 giant cave spiders
+	10 giant rats
+	26 cave crocodiles
+	50 elk birds
+	26 helmet snakes
+	10 giant moles
+	10 giant bats
+209: Nçnoora, "Glossclap", forest retreat
+	Owner: The Fresh Periwinkle, elves
+	Parent Civ: The Thin Grotto, elves
+	114 elves
+	27 peregrine falcons
+	2 mules
+	10 horses
+210: Onuñsbu, "Bogevil", dark pits
+	Owner: The Lies of Folding, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Ber Eeriescorpion, goblin
+	10 deathcap
+	58 goblins
+	1 skink man
+	27 beak dogs
+211: Efamifora, "Jumpfondled", forest retreat
+	Owner: The Glitter of Tails, elves
+	Parent Civ: The Scaly Euphoria, elves
+	32 elves
+	9 peregrine falcons
+	9 grizzly bears
+	10 horses
+212: Emanvispol, "Birdssabres", hamlet
+	Owner: The Glad League, humans
+	Parent Civ: The Union of Poems, humans
+	102 humans
+	24 dogs
+	2 llamas
+	5 blue peafowls
+	50 horses
+	6 ravens
+	2 reindeer
+	4 turkeys
+	5 guineafowls
+	7 geese
+213: Conibonaco, "Coastclout", forest retreat
+214: Uleol, "Opensport", fort
+	2 humans
+215: Ethroetru, "Bowearthen", town
+	Owner: The Group of Rings, humans
+	Parent Civ: The Realm of Riddling, humans
+	115 humans
+	29 elves
+	61 deathcap
+	2 bat men
+	51 dogs
+	50 two-humped camels
+	10 blue peafowls
+	10 turkeys
+	50 horses
+	2 elf visitors
+	2 bat man visitors
+	7 human visitors
+	1 elf outcast
+	13 human outcasts
+216: Ithbigiki, "Whisperstreats", hamlet
+	Owner: The Coalition of Morning, humans
+	Parent Civ: The Union of Poems, humans
+	1 deathcap
+	18 humans
+	23 dogs
+	10 grizzly bears
+	50 horses
+217: Enetise, "Boltedfins", forest retreat
+	Owner: The Quiescence of Dells, elves
+	Parent Civ: The Thin Grotto, elves
+	98 elves
+	2 humans
+	26 peregrine falcons
+	10 horses
+	2 donkeys
+218: Lasivshimdo, "Tulipdangled", hamlet
+	Owner: The Beige Group, humans
+	Parent Civ: The Realm of Riddling, humans
+	79 humans
+	25 dogs
+	50 horses
+	4 guineafowls
+	10 grizzly bears
+	3 blue peafowls
+	1 human visitor
+	20 human outcasts
+	1 human prisoner
+219: Destisbaze, "Shinrun", hamlet
+	Owner: The League of Blotting, humans
+	Parent Civ: The Union of Poems, humans
+	87 humans
+	26 dogs
+	50 horses
+	7 ravens
+	7 ducks
+	8 pigs
+220: Snospdaaslot, "Pasthex", dark pits
+	Owner: The Hateful Demon, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lord: Pani Whiskerrings, deathcap
+	13 deathcap
+	61 goblins
+	22 beak dogs
+221: Athethone, "Rocksincense", forest retreat
+	Owner: The Raven of Ignition, elves
+	Parent Civ: The Scaly Euphoria, elves
+	97 elves
+	10 one-humped camels
+	6 ravens
+	25 peregrine falcons
+	2 yaks
+	10 grizzly bears
+	10 horses
+222: Renuszom, "Frillfiends", dark pits
+	Owner: The Violent Horror, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Song Dungeonfurs, goblin
+	83 goblins
+	27 beak dogs
+223: Ciro§ithpa, "Slidzephyr", hamlet
+	Owner: The Competitive Band, humans
+	Parent Civ: The Fabulous Confederation, humans
+	86 humans
+	2 peregrine falcons
+	22 dogs
+	2 yaks
+	2 sheep
+	2 rabbits
+	50 horses
+	5 geese
+	6 pigs
+	5 guineafowls
+	6 blue peafowls
+224: Olokutsmob, "Crawlmenaces", dark pits
+	Owner: The Everlasting Torments, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lady: Azstrog Foughtmonstrous, rodent man
+	10 rodent men
+	76 goblins
+	27 beak dogs
+	1 human prisoner
+225: Pibgelu, "Chirphailed", hamlet
+	Owner: The Virtuous Society, humans
+	Parent Civ: The Union of Poems, humans
+	80 humans
+	24 dogs
+	50 horses
+	6 grizzly bears
+	4 guineafowls
+	2 sheep
+	2 cows
+	2 llamas
+	6 turkeys
+	5 ravens
+226: Rorkekopi, "Sneakedcovered", tower
+	Owner: The Mint Dabblers, humans
+	4 humans
+	2 elves
+	7 animated reptile men
+	18 animated elves
+	10 animated humans
+227: Thlobokoshlager, "Thlobokoshlager", hamlet
+	Owner: Klachrankis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	93 bat men
+	27 cave crocodiles
+	27 helmet snakes
+	50 elk birds
+	10 giant moles
+	27 giant cave spiders
+	10 giant bats
+	10 giant rats
+	27 peregrine falcons
+	10 naked mole dogs
+228: Ar¢covema, "Actedjungles", forest retreat
+	Owner: The Sprayed Glacier, elves
+	Parent Civ: The Scaly Euphoria, elves
+	67 elves
+	4 humans
+	19 peregrine falcons
+	10 horses
+	10 grizzly bears
+	10 one-humped camels
+	10 two-humped camels
+229: Kutsmobatngal, "Menaceentranced", dark pits
+	Owner: The Closed Terror, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: Estrur Strangefell, goblin
+	77 goblins
+	3 deathcap
+	23 beak dogs
+230: Dushigonam, "Galllarvae", fort
+	Owner: The Indigo Comet, deathcap
+	3 elves
+	2 deathcap visitors
+	2 deathcap outcasts
+231: Lodogokilbis, "Lodogokilbis", hamlet
+	Owner: Krikulger, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	113 bat men
+	24 cave crocodiles
+	24 giant cave toads
+	50 elk birds
+	10 naked mole dogs
+	24 giant cave spiders
+	10 giant rats
+	24 peregrine falcons
+	10 giant moles
+	10 giant bats
+232: Quemernadmi, "Glowcomet", hamlet
+	Owner: The Square Band, humans
+	Parent Civ: The Realm of Riddling, humans
+	102 humans
+	22 dogs
+	50 horses
+	2 black bears
+	2 peregrine falcons
+	50 two-humped camels
+	2 yaks
+	2 blue peafowls
+	10 grizzly bears
+	2 turkeys
+	50 one-humped camels
+	10 human outcasts
+233: Flalaklayker, "Flalaklayker", hamlet
+	Owner: Chafrayrsnin, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	93 bat men
+	27 giant cave spiders
+	50 elk birds
+	10 giant moles
+	27 helmet snakes
+	10 naked mole dogs
+	27 peregrine falcons
+	27 cave crocodiles
+	27 giant cave toads
+	10 giant rats
+234: ìstkutsmob, "Smallmenaced", dark pits
+	Owner: The Fair Menace, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lord: Atu Menacesilence, human
+	52 goblins
+	1 human
+	22 beak dogs
+235: Aniluth, "Auntmatched", hamlet
+	Owner: The Humorous Council, humans
+	Parent Civ: The Realm of Riddling, humans
+	51 humans
+	26 dogs
+	50 horses
+	2 chickens
+	10 grizzly bears
+	1 human visitor
+	15 human outcasts
+236: Ussamishes, "Humidfissure", hamlet
+	Owner: The Trampled Group, humans
+	Parent Civ: The Realm of Riddling, humans
+	72 humans
+	22 dogs
+	50 horses
+	10 grizzly bears
+	2 donkeys
+	2 two-humped camels
+	2 water buffalos
+	2 reindeer
+	2 black bears
+	2 mules
+	1 human visitor
+	3 human outcasts
+	1 human prisoner
+237: Dumatsavot, "Roughnessstances", hillocks
+	Owner: The Beige Bolt, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	61 deathcap
+	16 peregrine falcons
+	50 rabbits
+	10 ravens
+	2 deathcap visitors
+	17 deathcap outcasts
+238: Ewivafice, "Caughtdrank", forest retreat
+	Owner: The Fair Zephyr, elves
+	Parent Civ: The Butterfly of Balls, elves
+	20 elves
+	10 grizzly bears
+	10 horses
+239: Monstosbñb, "Planeshates", dark pits
+	Owner: The Dread of Reputations, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lady: StÉsost Evilthrew, goblin
+	67 goblins
+	26 beak dogs
+240: Orihathur, "Bridgemerchants", fort
+	Owner: The Thunder of Gods, humans
+	12 humans
+	2 elves
+	64 goblins
+241: Esemalim, "Freshcreed", hamlet
+	Owner: The Lucky Group, humans
+	Parent Civ: The Realm of Riddling, humans
+	65 humans
+	50 two-humped camels
+	5 grizzly bears
+	25 dogs
+	2 water buffalos
+	6 chinchillas
+	2 yaks
+	50 one-humped camels
+	50 horses
+	7 turkeys
+	5 human outcasts
+242: Setshiikar, "Youngankle", hamlet
+	Owner: The Council of Silver, humans
+	Parent Civ: The Union of Poems, humans
+	38 humans
+	26 dogs
+	50 horses
+	10 grizzly bears
+	2 geese
+	2 rabbits
+243: Kothvirkethi, "Quakeyouths", hillocks
+	Owner: The Roughness of Clutches, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	99 deathcap
+	24 peregrine falcons
+	50 rabbits
+	10 turkeys
+	10 ravens
+	2 deathcap visitors
+	10 deathcap outcasts
+244: Esstrodno, "Rewardscorpions", dark pits
+	Owner: The Lined Devil, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lady: Obe Mellowworshipped, elf
+	4 elves
+	57 goblins
+	25 beak dogs
+245: Lecbecobi, "Mergepoked", hamlet
+	Owner: The Ordered Society, humans
+	Parent Civ: The Fabulous Confederation, humans
+	36 humans
+	25 dogs
+	50 horses
+	5 guineafowls
+	6 geese
+	1 human visitor
+246: Quihulershi, "Sloppyshows", hamlet
+	Owner: The Organized Councils, humans
+	Parent Civ: The Fabulous Confederation, humans
+	51 humans
+	27 dogs
+	50 horses
+	4 guineafowls
+	2 blue peafowls
+	5 geese
+	3 ducks
+247: Lolamathilu, "Blossomembraces", forest retreat
+	Owner: The Slick Deceiver, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	administrator: ñsbu Fiendwraiths, elf
+	28 elves
+	2 horses
+	9 grizzly bears
+	1 deathcap prisoner
+248: Upiosp, "Priestaxe", hillocks
+	Owner: The Lancer of Crevices, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	1 bushmaster man
+	96 deathcap
+	25 peregrine falcons
+	50 rabbits
+	10 turkeys
+	6 ravens
+	10 deathcap outcasts
+249: Dethercok, "Dresschuck", hamlet
+	Owner: The Large Society, humans
+	Parent Civ: The Union of Poems, humans
+	27 humans
+	26 dogs
+	50 horses
+	8 black bears
+250: Srosader, "Srosader", hamlet
+	Owner: Stafalastlorbis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	75 bat men
+	23 helmet snakes
+	50 elk birds
+	10 naked mole dogs
+	23 cave crocodiles
+	10 giant rats
+	23 giant cave toads
+	23 giant cave spiders
+	10 giant bats
+	10 giant moles
+251: Picthamgib, "Spiralfolded", hamlet
+	Owner: The Council of Gloss, humans
+	Parent Civ: The Union of Poems, humans
+	86 humans
+	25 dogs
+	50 horses
+	10 grizzly bears
+	2 cavies
+	2 water buffalos
+	2 cows
+	2 turkeys
+	2 ravens
+252: Musdaadil, "Bearfragrance", hamlet
+	Owner: The Distinct Fellowship, humans
+	Parent Civ: The Fabulous Confederation, humans
+	82 humans
+	2 cats
+	2 sheep
+	6 pigs
+	22 dogs
+	50 horses
+	7 ducks
+	9 blue peafowls
+	2 goats
+	4 human outcasts
+253: Erdapapup, "Speechlessplanter", tower
+	Owner: The Red Wasps, humans
+	3 elves
+	6 goblins
+	1 deathcap
+	1 human
+	37 animated goblins
+254: Ririlirera, "Wisphairs", forest retreat
+	Owner: The Growls of Luring, elves
+	Parent Civ: The Massive Grove, elves
+	68 elves
+	10 horses
+	10 grizzly bears
+	2 donkeys
+255: Thaciewirä, "Fishcurls", forest retreat
+	Owner: The Pearl of Heather, elves
+	Parent Civ: The Scaly Euphoria, elves
+	61 elves
+	16 peregrine falcons
+	10 one-humped camels
+	10 horses
+	10 grizzly bears
+	10 two-humped camels
+	2 black bears
+256: Mizbothimeth, "Whimcrystals", hamlet
+	Owner: The Memory-Group of Bowels, humans
+	Parent Civ: The Realm of Riddling, humans
+	49 humans
+	24 dogs
+	50 horses
+	2 donkeys
+	50 two-humped camels
+	3 ducks
+	2 reindeer
+	50 one-humped camels
+	4 turkeys
+	2 mules
+	3 geese
+	4 blue peafowls
+	2 human visitors
+257: Strubin, "Strubin", hamlet
+	Owner: Thlubudleekus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	41 bat men
+	26 cave crocodiles
+	26 giant cave toads
+	50 elk birds
+	10 giant moles
+	10 giant rats
+	26 peregrine falcons
+	2 giant bats
+	26 helmet snakes
+258: Anlarnato, "Esteemnail", hamlet
+	Owner: The Domestic Councils, humans
+	Parent Civ: The Nation of Ivy, humans
+	79 humans
+	1 elf
+	1 bat man
+	23 dogs
+	50 horses
+	7 guineafowls
+	6 blue peafowls
+	8 geese
+	1 human visitor
+	5 human outcasts
+259: UmustÉsost, "Ditchticks", dark pits
+	Owner: The Merged Vice, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lady: Ago Monsterfill, human
+	58 goblins
+	4 humans
+	23 beak dogs
+260: Esua§u, "Cottageflier", hamlet
+	Owner: The League of Nestling, humans
+	Parent Civ: The Realm of Riddling, humans
+	73 humans
+	27 dogs
+	50 horses
+	10 grizzly bears
+	2 mules
+	50 one-humped camels
+	2 water buffalos
+	50 two-humped camels
+	2 rabbits
+	2 cavies
+	2 goats
+261: Slufuflalbus, "Slufuflalbus", hamlet
+	Owner: Sluker, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	89 bat men
+	26 giant cave spiders
+	50 elk birds
+	10 giant moles
+	26 giant cave toads
+	26 peregrine falcons
+	26 helmet snakes
+	10 naked mole dogs
+	10 giant rats
+	26 cave crocodiles
+	26 giant olms
+	10 giant bats
+262: Odadana, "Foggymuscle", forest retreat
+	Owner: The Familial Beans, elves
+	Parent Civ: The Scaly Euphoria, elves
+	117 elves
+	2 humans
+	30 peregrine falcons
+	10 horses
+	10 grizzly bears
+	3 elf visitors
+	1 human visitor
+	2 elf outcasts
+263: EsbÜx, "Rewardnightmares", dark pits
+	Owner: The Radiant Witch, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: Leru Smoothdesks, human
+	67 goblins
+	4 humans
+	22 beak dogs
+264: Atrapeklod, "Dashedonion", town
+	Owner: The Scraped Society, humans
+	Parent Civ: The Union of Poems, humans
+	1 elf
+	89 humans
+	136 goblins
+	48 dogs
+	50 horses
+	7 ravens
+	10 grizzly bears
+	10 ducks
+	8 turkeys
+	9 geese
+	2 human visitors
+265: Zomspodsta, "Fiendflanked", dark pits
+	Owner: The Fat Dungeon, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	lord: Estrur Beanhate, goblin
+	86 goblins
+	26 beak dogs
+266: Osnogurar, "Clanmaligned", dark pits
+	Owner: The Sad Monster, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: StÉsost Odorprofane, goblin
+	71 goblins
+	23 beak dogs
+267: Thenacathilçri, "Vaultshores", forest retreat
+	Owner: The Growth of Defenders, elves
+	Parent Civ: The Scaly Euphoria, elves
+	85 elves
+	3 deathcap
+	23 peregrine falcons
+	10 horses
+	2 ravens
+	2 grizzly bears
+	2 one-humped camels
+	10 black bears
+	2 two-humped camels
+268: Mukongosta, "Greasewitches", dark pits
+	Owner: The Riddled Tick, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	lady: Snang Helmsmalign, human
+	59 goblins
+	1 human
+	24 beak dogs
+	1 human prisoner
+269: Shlukulugraymber, "Shlukulugraymber", hamlet
+	Owner: Klotrankis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	57 bat men
+	24 helmet snakes
+	50 elk birds
+	10 giant rats
+	24 giant cave toads
+	10 naked mole dogs
+	24 giant olms
+	10 giant moles
+	24 cave crocodiles
+	24 giant cave spiders
+	24 peregrine falcons
+270: R¢niraamayi, "Wiltpearl", forest retreat
+	Owner: The Deceiver of Driving, goblins
+	Parent Civ: The Seductions of Enchantment, goblins
+	administrator: StÉsost Hushwicked, goblin
+	1 goblin
+	1 deathcap
+	6 elves
+	2 horses
+	2 turkeys
+	2 grizzly bears
+271: Umuxuspgas, "Ditchmalice", dark pits
+	Owner: The Torment of Apexes, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	72 goblins
+	4 deathcap
+	25 beak dogs
+272: Berunithim, "Playtome", hamlet
+	Owner: The Defensive Councils, humans
+	Parent Civ: The Nation of Ivy, humans
+	87 humans
+	2 cats
+	50 elephants
+	50 horses
+	4 guineafowls
+	2 peregrine falcons
+	2 cavies
+	2 cows
+	2 llamas
+	2 goats
+	6 blue peafowls
+	25 dogs
+	2 yaks
+	2 mules
+	2 alpacas
+	5 chickens
+	2 reindeer
+	2 sheep
+	7 geese
+273: Sukutol, "Beastyears", hamlet
+	Owner: The Ageless Group, humans
+	Parent Civ: The Union of Poems, humans
+	81 humans
+	27 dogs
+	2 goats
+	2 alpacas
+	2 reindeer
+	50 horses
+	2 black bears
+	2 turkeys
+	10 grizzly bears
+	2 cats
+	2 cavies
+	2 water buffalos
+	2 donkeys
+274: Tholaohu, "Valefainted", hamlet
+	Owner: The Coalition of Breakfast, humans
+	Parent Civ: The Realm of Riddling, humans
+	63 humans
+	24 dogs
+	50 one-humped camels
+	10 grizzly bears
+	2 peregrine falcons
+	50 two-humped camels
+	2 llamas
+	2 chickens
+	44 horses
+	3 human visitors
+	15 human outcasts
+275: Trukuglaylis, "Trukuglaylis", hamlet
+	Owner: Chibithlayngus, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	41 bat men
+	24 giant cave spiders
+	24 cave crocodiles
+	50 elk birds
+	10 naked mole dogs
+	10 giant bats
+	24 helmet snakes
+	10 giant rats
+	24 giant olms
+276: Stosbñbzurusp, "Haterites", dark pits
+	Owner: The Bearded Deceiver, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	lord: Snodub Wraithaged, goblin
+	52 goblins
+	1 deathcap
+	24 beak dogs
+277: Vilelaalu, "Phantomwaters", forest retreat
+	Owner: The Lark of Tattooing, elves
+	Parent Civ: The Massive Grove, elves
+	9 goblins
+	4 horses
+	4 grizzly bears
+278: Ngurebosa, "Controlleddungeon", dark pits
+	Owner: The Faithful Hate, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	67 goblins
+	25 beak dogs
+279: Konabe, "Linepaddle", hillocks
+	Owner: The Craft of Beaches, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	71 deathcap
+	18 peregrine falcons
+	50 rabbits
+	4 turkeys
+	10 ravens
+	1 deathcap visitor
+	10 deathcap outcasts
+280: M†rbokespir, "Kneadedmazes", hamlet
+	Owner: The Umbral Council, humans
+	Parent Civ: The Fabulous Confederation, humans
+	62 humans
+	27 dogs
+	2 sheep
+	2 water buffalos
+	2 cavies
+	50 horses
+	3 blue peafowls
+	5 guineafowls
+	4 pigs
+	2 cows
+	4 ducks
+281: AlÜthvumom, "Boltsavants", hillocks
+	Owner: The Crested Helms, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	64 deathcap
+	17 peregrine falcons
+	50 rabbits
+	3 turkeys
+	10 ravens
+	1 deathcap visitor
+	14 deathcap outcasts
+282: Cacamefecici, "Peltglittered", forest retreat
+	Owner: The Coastal Hides, elves
+	Parent Civ: The Massive Grove, elves
+	6 goblins
+	15 elves
+	10 horses
+	2 ravens
+	10 grizzly bears
+283: Kamvenrope, "Soappatterned", castle
+	Owner: The Councils of Blushing, humans
+	Parent Civ: The Realm of Riddling, humans
+	baron: Jalew Bronzefierce, human
+	17 humans
+284: Ospazdang, "Windyhorror", dark pits
+	Owner: The Disloyalty of Spies, goblins
+	Parent Civ: The Immorality of Reason, goblins
+	lord: Damsto Vicesensed, goblin
+	82 goblins
+	24 beak dogs
+285: Kugigis, "Kugigis", hamlet
+	Owner: Tukutrolder, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	73 bat men
+	23 helmet snakes
+	50 elk birds
+	10 naked mole dogs
+	23 cave crocodiles
+	23 giant cave spiders
+	10 giant moles
+	10 giant bats
+	23 giant olms
+	23 giant cave toads
+286: Zusloolngî, "Helmmonsters", fort
+	Owner: The Profane Banks, goblins
+	2 deathcap
+	4 elves
+	7 humans
+	2 rodent men
+	82 goblins
+287: Amaissok, "Starzeals", hamlet
+	Owner: The Gray Society, humans
+	Parent Civ: The Realm of Riddling, humans
+	57 humans
+	27 dogs
+	50 horses
+	2 guineafowls
+	2 blue peafowls
+	2 cavies
+	2 alpacas
+	2 ravens
+	2 sheep
+	2 cows
+	2 one-humped camels
+	10 grizzly bears
+	2 peregrine falcons
+	50 two-humped camels
+	2 chinchillas
+	2 ducks
+288: Tumaini, "Ravenstrap", hamlet
+	Owner: The Coalition of Climates, humans
+	Parent Civ: The Union of Poems, humans
+	71 humans
+	23 dogs
+	50 horses
+	2 turkeys
+	10 grizzly bears
+	2 ducks
+	2 peregrine falcons
+	2 pigs
+289: Oslungorug, "Coverchamber", hillocks
+	Owner: The Joyous Constructs, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	69 deathcap
+	18 peregrine falcons
+	50 rabbits
+	2 turkeys
+	10 ravens
+	1 deathcap visitor
+	8 deathcap outcasts
+290: Thabastreengis, "Thabastreengis", hamlet
+	Owner: Trogolrilbis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	61 bat men
+	27 giant cave toads
+	27 cave crocodiles
+	50 elk birds
+	10 giant rats
+	10 naked mole dogs
+	27 peregrine falcons
+	10 giant moles
+	27 giant cave spiders
+291: Chuthrongin, "Chuthrongin", hamlet
+	Owner: Tluchroris, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	69 bat men
+	22 giant cave toads
+	50 elk birds
+	10 giant bats
+	22 helmet snakes
+	10 naked mole dogs
+	22 giant olms
+	22 giant cave spiders
+	10 giant rats
+	10 giant moles
+	22 cave crocodiles
+292: Adilerthok, "Fragrantcrows", hamlet
+	Owner: The Spread League, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	35 humans
+	23 dogs
+	2 geese
+	10 grizzly bears
+	2 mules
+	50 horses
+293: Genamlecit, "Womengleam", hamlet
+	Owner: The Ponderous League, humans
+	Parent Civ: The Realm of Riddling, humans
+	81 humans
+	23 dogs
+	50 one-humped camels
+	4 grizzly bears
+	50 horses
+	6 geese
+	5 ducks
+	50 two-humped camels
+	6 turkeys
+	2 mules
+	6 human outcasts
+294: Thosbutbem, "Drilledflute", hillocks
+	Owner: The Earth of Dents, deathcap
+	Parent Civ: The Godly Papers, deathcap
+	59 deathcap
+	9 peregrine falcons
+	13 rabbits
+	4 ravens
+	2 turkeys
+295: Threnenem, "Ectofull", hamlet
+	Owner: The Mellow Council, humans
+	Parent Civ: The Realm of Riddling, humans
+	67 humans
+	23 dogs
+	50 two-humped camels
+	10 grizzly bears
+	50 horses
+	2 peregrine falcons
+	40 one-humped camels
+	2 chickens
+296: Thofodothrayrbis, "Thofodothrayrbis", hamlet
+	Owner: Protrolgis, bat men
+	Parent Civ: Fuludujlolgin, bat men
+	1 human
+	71 bat men
+	24 cave crocodiles
+	24 giant cave spiders
+	50 elk birds
+	10 naked mole dogs
+	10 giant bats
+	24 peregrine falcons
+	10 giant moles
+	10 giant rats
+	8 giant cave toads
+297: Nifihoma, "Buddedwalks", hamlet
+	Owner: The Society of Infamy, humans
+	Parent Civ: The Fabulous Confederation, humans
+	67 humans
+	1 elf
+	23 dogs
+	50 horses
+	4 ducks
+	2 peregrine falcons
+	2 reindeer
+	4 geese
+	6 blue peafowls
+	2 cats
+	4 pigs
+	1 human visitor
+	8 human outcasts
+298: Osnunsasal, "Ghoulbastions", dark pits
+	Owner: The Barbarity of Shells, goblins
+	Parent Civ: The Faithful Menace, goblins
+	lady: Osta Witchlured, goblin
+	65 goblins
+	23 beak dogs
+299: Sudembuh, "Helpedhop", hamlet
+	Owner: The Group of Sloshing, humans
+	Parent Civ: The Nation of Ivy, humans
+	60 humans
+	27 dogs
+	2 water buffalos
+	2 donkeys
+	50 horses
+	5 blue peafowls
+	6 chickens
+	2 cats
+	5 guineafowls
+	38 elephants
+	10 human outcasts
+300: Uraragun, "Malignedaxes", dark pits
+	Owner: The Fly of Rhymes, goblins
+	Parent Civ: The Nightmare of Insanity, goblins
+	65 goblins
+	13 deathcap
+	23 beak dogs
+301: Legucando, "Daublearned", hamlet
+	Owner: The Council of Persuaders, humans
+	Parent Civ: The Realm of Riddling, humans
+	70 humans
+	23 dogs
+	47 horses
+	2 pigs
+	2 cavies
+	2 donkeys
+	2 one-humped camels
+	4 grizzly bears
+	21 two-humped camels
+	2 turkeys
+	2 blue peafowls
+	2 cats
+	2 rabbits
+	2 geese
+	1 human visitor
+	8 human outcasts
+302: Zapaskimen, "Plannedlife", hamlet
+	Owner: The Banded Council, humans
+	Parent Civ: The Union of Poems, humans
+	73 humans
+	17 dogs
+	36 horses
+	6 grizzly bears
+	13 cows
+	3 cavies
+	3 turkeys
+	3 ducks
+303: StÉsostzutìsp, "Ticktunneled", dark pits
+	Owner: The Wild Hate, goblins
+	Parent Civ: The Coincidental Torment, goblins
+	65 goblins
+	12 beak dogs
+304: Staddatanig, "Watchfulcheese", hamlet
+	Owner: The Muscular League, humans
+	Parent Civ: The Fabulous Confederation, humans
+	77 humans
+	13 dogs
+	36 horses
+	2 turkeys
+	4 cats
+	2 pigs
+	2 blue peafowls
+	2 ducks
+	3 guineafowls
+	2 donkeys
+	4 geese
+	1 human outcast
+305: Sasirkem, "Releasedinch", hamlet
+	Owner: The Councils of Worth, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	49 humans
+	22 dogs
+	2 cavies
+	2 sheep
+	4 one-humped camels
+	8 two-humped camels
+	2 reindeer
+	2 ducks
+	2 alpacas
+	4 grizzly bears
+	29 horses
+	2 goats
+	2 cows
+	2 llamas
+	5 chickens
+	2 rabbits
+	2 yaks
+306: Onxostosbñb, "Smearedhates", fort
+	Owner: The Jackals of Listening, goblins
+	78 goblins
+307: Anirnathob, "Pagedwilt", camp
+	Owner: The Authority of Standing, humans
+	2 humans
+308: Jloseelgis, "Jloseelgis", camp
+	Owner: Pludusambis, bat men
+	5 bat men
+309: Ngotozngom, "Trusseddoomed", camp
+	Owner: The Trades of Ruthlessness, goblins
+	6 goblins
+310: Usezolak, "Twigsin", camp
+	Owner: The Unthinkable Roars, goblins
+	5 goblins
+311: Thefinrotec, "Beachardent", camp
+	Owner: The Crazed Inch-Liberation, humans
+	4 humans
+	1 bat man
+312: Drashlarsnis, "Drashlarsnis", camp
+	Owner: Sofojlulmer, bat men
+	3 bat men
+	2 humans
+313: Tomcaeve, "Sanctumflickered", camp
+	Owner: The Taupe Suitors, humans
+	10 humans
+314: SmaspestbÜx, "Gristlynightmares", camp
+	Owner: The Pinnacles of Malice, goblins
+	16 deathcap
+	1 human
+315: Shlikloger, "Shlikloger", camp
+	Owner: Kubushrayber, bat men
+	3 bat men
+	12 humans
+	5 deathcap
+316: Feciciula, "Glittergrowls", camp
+	Owner: The Spread Bride, elves
+	Parent Civ: The Butterfly of Balls, elves
+	1 elf
+	1 human
+	1 deathcap
+317: Smunsturogux, "Liefastened", camp
+	Owner: The Terrible Thunders, goblins
+	10 goblins
+318: Ngokangesmast, "Cursehairs", camp
+	Owner: The Greatest Nightmares, goblins
+	1 deathcap
+	2 humans
+	10 goblins
+319: Sribidishlangin, "Sribidishlangin", camp
+	Owner: Klatidis, bat men
+	5 bat men
+320: Lapipaco, "Dimplecoasts", camp
+	Owner: The Flaxen Society, humans
+	Parent Civ: The Union of Poems, humans
+	1 human
+321: Blagakakunkis, "Blagakakunkis", camp
+	Owner: Slalrulgus, bat men
+	5 bat men
+322: Siruubhuth, "Hoprusset", camp
+	Owner: The Respectful Balances, humans
+	5 humans
+323: Gelomgisep, "Soothelocks", camp
+	Owner: The Confident Group, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	1 goblin
+324: Wurlurit, "Stancespots", camp
+	Owner: The Group of Harvesters, humans
+	Parent Civ: The Confederacy of Autumn, humans
+	1 goblin
+325: Ithroscobi, "Tightnesspoker", camp
+	Owner: The Obeisant Dates, humans
+	3 humans
+	2 elves
+326: Onote, "Praisedtongue", camp
+	Owner: The Discoveries of Socketing, humans
+	7 humans
+327: Sedastkara, "Moistenheat", camp
+	Owner: The Reputed Books, humans
+	1 deathcap
+	5 humans
+	2 elves
+	2 bat men
+328: Gavalrope, "Chapelpatterned", camp
+	Owner: The Droopy Coincidences, humans
+	9 humans
+	6 elves
+329: Uquurperad, "Peakedvoices", camp
+	Owner: The Flaxen Hatchets, humans
+	13 humans
+	2 deathcap
+	1 elf
+	4 bat men
+330: Onurusna, "Rubcolor", camp
+	Owner: The White Rhymes, humans
+	10 humans
+331: SposbÜx, "Abyssnightmares", camp
+	Owner: The Spidery Hail, goblins
+	1 rodent man
+	5 goblins
+332: Thratpinjathbi, "Jugglergeese", camp
+	Owner: The Clean Crowns, humans
+	5 humans
+333: Tutlumer, "Tutlumer", camp
+	Owner: Thribrabus, rodent men
+	2 rodent men
+	4 humans
+	4 goblins
+334: Obtuxdang, "Cagehorrors", camp
+	Owner: The Emerald Sins, goblins
+	19 goblins
+335: Anirethlal, "Pageshowers", camp
+	Owner: The Bewildering Communions, humans
+	15 humans
+336: Ilumsedast, "Tubemoisten", camp
+	Owner: The Godly Salves, humans
+	20 humans
+337: Pankas, "Workcontrol", camp
+	Owner: The Passionate Roots, humans
+	4 humans
+	1 bat man
+338: Ngerxungugo, "Wickedchains", camp
+	Owner: The Ardent Hatred, goblins
+	10 goblins
+339: Flirsnus, "Flirsnus", camp
+	Owner: Krojaker, rodent men
+	2 rodent men
+	12 goblins
+	1 bat man
+340: Gangoxñsbu, "Loneevil", camp
+	Owner: The Beetles of Horror, goblins
+	20 goblins
+341: Emothpalath, "Equaldiamond", camp
+	Owner: The Grand Passions, humans
+	9 humans
+	1 reptile man
+342: Gonngerxung, "Plaitedwicked", camp
+	Owner: The Cruel Vandals, goblins
+	12 goblins
+	1 rodent man
+	2 humans
+343: Stofoboglumin, "Stofoboglumin", camp
+	Owner: Lrithleegus, rodent men
+	2 rodent men
+	2 humans
+	16 goblins
+344: Ithicafafi, "The Golden Gutters", lair
+	1 giant dingo
+345: Loz Snulmo, "The Scar of Infection", lair
+	1 hag
+346: Susmâsru, "The Leaky Crevices", lair
+	1 giant dingo
+347: Kangogozru, "Evenhell", lair
+	1 dire wolf
+348: Nakuthshedim, "Braidedshadows", lair
+	1 dire wolf
+349: Udaravuz, "The Rainy Mine", lair
+	2 giant alligators
+350: AsteshÑs Othsal Asrer, "Cudgelcaves the Sewers of Appearing", lair
+	1 alligator
+351: Zanor Enten, "The Heart of Distraction", lair
+	1 muckman
+352: Thimawami, "Siegedscarred", lair
+	1 manticore
+353: Enolurrãth, "The Grizzly Scars", lair
+	1 giant wolf
+354: SpÜsanu Ana Rusmo, "Councilnight the Hole of Echoing", lair
+	1 giant dingo
+355: Meslengogngo, "Sludgemines", lair
+	1 manticore
+356: Cedosanene, "Drenchechoes", lair
+	1 dire wolf
+357: A§usasmcith, "Flygutters", lair
+	1 alligator
+358: Rusmo Loz, "The Echo of Scars", lair
+	1 grizzly bear
+359: Rulshash Oggez Eges, "Mutedhells the Hole of Persuasion", lair
+	1 dire wolf
+360: Dunospana, "Chuckhole", lair
+	1 wolf
+361: Onxoslîmod Uspsast Stokko, "Smearedpit the Smoke of Boots", lair
+	1 manticore
+362: Sedurarak, "Emeraldshaft", lair
+	1 alligator
+363: Kenozçmari Icitefemeli, "Fiercedark the Famous Bristle", lair
+	1 muckman
+364: LithÇme Cipame, "The Nights of Recreation", lair
+	1 muckman
+365: Oddabora, "Dwellingmines", lair
+	1 dire wolf
+366: Setinunïre Ayusanene, "Warncaverns the Present Echoes", lair
+	1 dire wolf
+367: Belnomar, "The Pristine Abyss", lair
+	1 dire wolf
+368: Stñmîrusmo, "The Living Echoes", lair
+	1 muckman
+369: Teyogaretho, "Worldcave", lair
+	1 giant dingo
+370: Zatobot, "Stabbedcracks", lair
+	1 giant dingo
+371: Sharastothsal, "The Epidemic Sewers", lair
+	1 sasquatch
+372: Xestsuloz, "The Enchanted Scars", lair
+	1 dire wolf
+373: Amarusmo Ngogngo Kango, "Fenceecho the Mine of Evenness", lair
+	1 dire cave bear
+374: Semoranan, "Unionsnight", lair
+	1 dire cave bear
+375: Osluloz Osloxomo, "Coveredscar the Defensive Cave", lair
+	1 dire wolf
+376: Ngumostana, "Dutyholes", lair
+	1 giant wolf
+377: Ultagened, "Wiltdepth", lair
+	1 alligator
+378: Ushils†rek, "Iceechoed", lair
+	1 sasquatch
+379: Pujigalka, "The Brushed Deeps", lair
+	1 giant lion
+380: Nosmumado, "Sizzlegloom", lair
+	1 giant alligator
+381: Stranosmat âsru Et, "Bileheart the Crevice of Trifles", lair
+	1 alligator
+382: Dubloz Xosunâsru, "Fearscars the Spurting Crevices", lair
+	1 giant wolf
+383: Ethefanimo Alethaäna, "Wadepit the Watchful Deeps", lair
+	1 giant cougar
+384: Edosobot, "The Amazing Crack", lair
+	1 manticore
+385: Budzuuta Tethakathrab, "Soakedpits the Taciturn Lyric", lair
+	1 alligator
+386: Spîdgìzakon Kol Rengzu, "Ratshadows the Crack of Vipers", lair
+	1 giant dingo
+387: Desisoggez, "The Snarling Holes", lair
+	1 sasquatch
+388: Espr†emat Quabustom, "Hushedcracks the Granite Tar", lair
+	2 dire cave bears
+389: Surilsiga Ngethac Vicu, "Summitdepths the Cave of Snarling", lair
+	1 manticore
+390: Anan êth, "The Night of Shutting", lair
+	1 alligator
+391: Imamaenira Mucepare, "Highheart the Defective Match", lair
+	1 giant alligator
+392: Zanor Akgos, "The Heart of Clinches", lair
+	1 dire wolf
+393: Merecafafi Themiovere, "Floorgutters the Solitary Discoveries", lair
+	1 hag
+394: Urarkol, "Malignedcracks", lair
+	1 giant alligator
+395: Omeone Nawara Arani, "Skullbones the Twilight of Dust", lair
+	1 crone of shadow
+396: Omngoloz, "Kindlingscarred", lair
+	1 feral ogre
+397: AspÉd ôtda, "The Cavern of Finders", lair
+	1 giant dingo
+398: Fubag Zulshag, "The Sewer of Perishment", lair
+	1 sasquatch
+399: Jububekor, "Sabletwilights", lair
+	3 crones of shadow
+400: Slonumado, "Chantedgloomy", lair
+	1 manticore
+401: Ongkosmosmat, "Clamheart", lair
+	1 grizzly bear
+402: Xaddulsiga, "The Goldenrod Depths", lair
+	1 dire cave bear
+403: NÇthoomethu, "Meanhollows", lair
+	1 alligator
+404: Esmmafensast Nomar Bisan, "Insectscars the Abysses of Spring", lair
+	1 dire cave bear
+405: Fensast Xusta, "The Scar of Dirges", lair
+	1 dire cave bear
+406: Ngutgened, "Hobbleddepths", lair
+	1 grizzly bear
+407: àlengror, "Faintghosts", lair
+	1 dark freak
+408: IvamÇfaòo, "Forkhells", lair
+	1 alligator
+409: Meslusodor Esnust Nusnost, "Seasondeeps the Hollow of Reining", lair
+	1 sasquatch
+410: Monpuwog, "The Holy Gloom", lair
+	1 dire wolf
+411: Eyoenira, "Ageheart", lair
+	1 grizzly bear
+412: Yir¢mÇfaòo, "Dwellinghell", lair
+	1 hag
+413: Caáecäthutha, "Smouldermine", lair
+	1 alligator
+414: Ukoslîmod, "Leafypit", lair
+	1 alligator
+415: Wurbora Shoneth Enthep, "Stoodmines the Hell of Savants", lair
+	1 hag
+416: Ammenutesh, "Fleshycrevice", lair
+	1 dire cave bear
+417: RÜsh Anan, "The Death of Night", lair
+	2 bloated crones
+418: Asttuspos, "Boilabyss", lair
+	1 dire wolf
+419: Nimemurrãth, "The Lonely Scars", lair
+	1 dire cave bear
+420: Asicuthabe, "Quilldepths", lair
+	1 alligator
+421: Amaloz, "Fencedscarred", lair
+	1 giant alligator
+422: Of£ruwami Amethanunïre, "Cagescars the Windy Cavern", lair
+	1 manticore
+423: F°ra änira, "The Crack of Vegetating", lair
+	1 dire cave bear
+424: Kabshash, "Namedhell", lair
+	1 muckman
+425: Otadnunór Oshotstagshil, "Handcrevice the Vanished Fins", lair
+	1 giant alligator
+426: Kor Tezul, "The Cavern of Nooses", lair
+	1 giant alligator
+427: Rasmkol Esnust Okmo, "Princesscracked the Hollows of Crowding", lair
+	1 dire wolf
+428: Kulur Ago, "The Night of Gears", lair
+	3 hags
+429: Egaakon Gudo Omot, "Vulgarshadows the Creep of Fangs", lair
+	1 muckman
+430: Vathezavuz, "The Virginal Mine", lair
+	1 manticore
+431: AlÜthshash, "Boltshells", lair
+	1 alligator
+432: Isunsiga, "Basicdepth", lair
+	1 dire cave bear
+433: Ostarothsal MoruslÜluth, "Burysewer the Uncommon Flood", lair
+	1 giant alligator
+434: Kangogozru, "The Even Hell", lair
+	1 hag
+435: Thadothsal, "The Crowded Sewers", lair
+	1 sasquatch
+436: Omepfubag, "The Fat Sewer", lair
+	1 dire wolf
+437: Cishsedme, "Ashmurk", lair
+	1 dusk man
+438: Cirousan, "Slideheart", lair
+	1 dire cave bear
+439: Oxut Lodraz, "The Shafts of Dread", lair
+	1 giant alligator
+440: Smurmado, "Fondlegloomy", lair
+	1 hag
+441: Adasurrãth Ad Suton, "Passscars the Sun of Gut", lair
+	1 manticore
+442: Osman Tacnu, "The Shadow of Ghosts", lair
+	1 bloated crone
+443: Kul Ret, "The Hole of Hooves", lair
+	1 hag
+444: Ulutngogngo, "Wanemines", lair
+	1 alligator
+445: Vaciisa, "The Glacial Shaft", lair
+	1 manticore
+446: Etekul, "Rushhole", lair
+	1 sasquatch
+447: Oggez Thibam, "The Hole of Hushing", lair
+	1 dire cave bear
+448: Macameomethu, "Smithhollow", lair
+	1 manticore
+449: VaficemÇfaòo Sathus°cebela, "Drinkhells the Ominous Abbey", lair
+	1 manticore
+450: Aquiyarethi, "Fatedie", lair
+	1 ogress of evil
+451: Rakustostar, "Tombburied", lair
+	1 crone of shadow
+452: Cäthutha Afetho, "The Mine of Scum", lair
+	1 giant alligator
+453: Talefimari, "Trampleddark", lair
+	1 hag
+454: Tanemeli, "Smoothmurk", lair
+	1 troll
+455: Sasirslushusiga, "The Released Tick-Depths", lair
+	1 umber hulk
+456: Nadoggozru Astugened, "Slinkhells the Escorted Depth", lair
+	1 hag
+457: Tastloz, "The Ferocious Scars", lair
+	1 manticore
+458: ReksasÑs, "Sincave", lair
+	1 manticore
+459: Leshalg¢smer Ngal†k MulÜsh, "Mournumbra the Abyss of Confederacy", lair
+	1 alligator
+460: Umthasimo, "Frightechoes", lair
+	1 manticore
+461: Shedim Ngal†k, "The Shadow of Abysses", lair
+	1 crone of shadow
+462: Warospdonu Saquolomoth, "Phantomburies the Faint Tomb", lair
+	2 creatures of evil
+463: Zospu Zusla, "The Umbra of Moons", lair
+	1 manticore
+464: AlÜthg¢smer, "Boltedumbral", lair
+	1 alligator
+465: Gogol Donu, "The Crypts of Burying", lair
+	1 crone of shadow
+466: Anaòarufithi, "Deadgrave", lair
+	1 ogress of evil
+467: Osmruranu, "The Factional Night", lair
+	1 ice wolf
+468: Athinacafafi, "Lockgutters", lair
+	1 giant alligator
+469: Osorgu, "Deathgrave", lair
+	2 dusk monsters
+470: Lideemat Rono Zewoth, "Soundcrack the Gulf of Betraying", lair
+	1 troll
+471: Nulalïmifo, "Burialcrypt", lair
+	1 ogress of evil
+472: Shedim Tarem, "The Shadow of Fate", lair
+	1 dusk man
+473: Bekorsedme Cish Ura, "Twilightmurk the Ash of Death", lair
+	1 creature of evil
+474: Rakasanan, "Strangernight", lair
+	1 yeti
+475: Thebenawona ThilulithÇme, "Trustdank the Embraced Night", lair
+	1 yeti
+476: Teshkads†rek Faz°sarak, "Priceecho the Celebrated Shafts", lair
+	1 manticore
+477: Tathalicaretha, "Vanishedsewers", lair
+	1 yeti
+478: Apugomsos, "Cudgelumbras", shrine
+	1 mi-go
+479: Nusmuspuk Gorno Stutus, "Mostsmiled the Bristle of Apexes", lair
+	1 ettin
+480: Osmu Odlug, "The Dyes of Action", lair
+	1 cyclops
+481: Kespalath, "Beakdiamond", lair
+	1 vengeful mountain
+482: Rustuozran, "The Fated Shade", lair
+	1 crone of shadow
+483: RÜsh Anan, "The Death of Night", lair
+	1 crone of shadow
+484: Zakospegngun Ozran Anu, "Tomburn the Shade of Nights", lair
+	1 vile creature
+485: ObilithÇme Fereone, "Shadownights the Shady Bone", lair
+	1 dusk monster
+486: Iquilanunïre Tuthimeli, "Umbracaverns the Sable Murk", lair
+	1 crone of shadow
+487: Akon EbrÜ, "The Shadow of Murk", lair
+	1 creature of evil
+488: Mudorustu ObospebrÜ, "Bonefate the Sable Murk", lair
+	1 midnight horror
+489: AspÉd Usmdas, "The Cavern of Ash", lair
+	1 dusk man
+490: Osodngotol, "Bonesghosts", lair
+	1 ogress of evil
+491: Donulomoth, "Buriedtombs", lair
+	1 shadow troll
+492: Apaalino, "Paddleddawn", shrine
+	1 swamp titan
+493: Gitnukfesh, "The Mint Wings", shrine
+	1 mountain titan
+494: Ongslunongox Ugokbungmo, "Fordsaffron the Rainy Island", shrine
+	1 swamp titan
+495: Esmezorad, "The Sullen Tar", labyrinth
+	1 shoggoth
+
+Outdoor Animal Populations (Including Undead)
+	17192 sea serpents
+	36533 gigantic squids
+	17192 squid men
+	105955 muckmen
+	18702 sea otters
+	32235 giant nautiluses
+	10745 nautilus men
+	4981 giant harp seals
+	2344 harp seal men
+	6153 harp seals
+	6739 giant elephant seals
+	2637 elephant seal men
+	4981 elephant seals
+	36533 giant sperm whales
+	17192 sperm whale men
+	60172 sperm whales
+	997136 giant horseshoe crabs
+	19341 horseshoe crab men
+	911176 horseshoe crabs
+	842408 giant sponges
+	15043 sponge men
+	40831 giant orcas
+	17192 orca men
+	53725 orcas
+	36533 giant cuttlefish
+	19341 cuttlefish men
+	4395 giant leopard seals
+	1758 leopard seal men
+	2930 leopard seals
+	40831 giant crabs
+	17192 crab men
+	992838 crabs
+	40831 giant octopuses
+	17192 octopus men
+	128940 octopuses
+	5274 giant narwhals
+	2051 narwhal men
+	7032 narwhals
+	62321 bluefin tuna
+	23693 great barracudas
+	33300 halibut
+	46400 marlins
+	37120 swordfish
+	35264 ocean sunfish
+	46400 bluefish
+	24510 giant groupers
+	40832 opah
+	19980 cod
+	21332 milkfish
+	26640 conger eels
+	27972 sturgeons
+	20425 coelacanths
+	23772 stingrays
+	22876 manta rays
+	55680 common skates
+	44544 angelsharks
+	31552 hammerhead sharks
+	60172 blue sharks
+	22059 whitetip reef sharks
+	18791 blacktip reef sharks
+	16340 bull sharks
+	22059 tiger sharks
+	31552 longfin mako sharks
+	27840 shortfin mako sharks
+	30131 nurse sharks
+	17663 basking sharks
+	22876 whale sharks
+	27840 spotted wobbegongs
+	42688 spiny dogfish
+	32235 frill sharks
+	42688 great white sharks
+	22707 sea lampreys
+	8790 giant walruss
+	1465 walrus men
+	8204 walruses
+	14546 giant moon snails
+	5195 moon snail men
+	51576 giant albatrosses
+	21490 albatross men
+	34384 albatrosses
+	58023 giant ospreys
+	15043 osprey men
+	64785 ospreys
+	14650 giant puffins
+	2637 puffin men
+	9669 puffins
+	7911 giant penguins
+	1465 penguin men
+	7032 emperor penguins
+	6153 little penguins
+	4688 penguins
+	1416 polar bears
+	630 giant snowy owls
+	147 snowy owl men
+	25980 great horned owls
+	189 muskox men
+	15736 porcupines
+	4761 peregrine falcon men
+	541 giant peregrine falcons
+	535 giant polar bears
+	42 wendigo
+	2462 yetis
+	577 wolf men
+	515 dire wolves
+	6136 wolves
+	7171 giant wolves
+	15292 weasels
+	6137 giant ravens
+	1187 elk
+	1935 reindeer
+	4909 coyotes
+	2847 stoats
+	4535 eagles
+	425 polar bear men
+	207 dire cave bears
+	1080 ice wolves
+	1081 ostriches
+	2650 bobcats
+	183 ibexes
+	63 desert tortoises
+	8519 dingoes
+	3582 leopards
+	469 jaguars
+	1628 kangaroos
+	8643 deer
+	129 wolverines
+	2845 grizzly bears
+	604 black bears
+	4448 kestrels
+	10459 opossums
+	2242 cougars
+	2184 kiwis
+	884 unicorns
+	12427 echidnas
+	2223 grizzly bear men
+	8231 giant dingoes
+	10578 coatis
+	6023 giant flying squirrels
+	10898 giant chipmunks
+	8826 giant moose
+	9161 giant badgers
+	8147 giant deer
+	7717 giant monarch butterflies
+	8000 giant slugs
+	6674 giant bushtits
+	11942 giant barn owls
+	4937 giant rattlesnakes
+	3871 tick men
+	180 giant rhesus macaques
+	3503 dingo men
+	553 giant hedgehogs
+	1671 rhesus macaques
+	17 snowy owls
+	300 giant lynx
+	450 lynx men
+	1350 giant stoats
+	78 giant copperhead snakes
+	700 giant wolverines
+	2373 bushtit men
+	500 lynx
+	300 stoat men
+	2373 opossum men
+	2373 coati men
+	4340 wombat men
+	12998 wombats
+	42 copperhead snake men
+	66 copperhead snakes
+	9699 rattlesnakes
+	8136 giant skunks
+	16697 skunks
+	4110 giant bobcats
+	11737 giant porcupines
+	6725 adders
+	6780 giant wild boars
+	14642 wild boars
+	5554 sasquatches
+	10894 giant red squirrels
+	2712 red squirrel men
+	12735 giant gray squirrels
+	2334 rat men
+	689 manticores
+	800 hags
+	4668 giant lizards
+	1468 wolverine men
+	8102 badgers
+	5057 raccoons
+	7780 giant foxes
+	5835 giant fireflies
+	2334 monarch butterfly men
+	3890 roach men
+	6466 giant flies
+	12104 turkeys
+	8747 giant snails
+	3112 snail men
+	421 brown recluse spider men
+	3501 jumping spider men
+	19431 giant mosquitos
+	7002 giant thrips
+	7250 giant lice
+	3890 louse men
+	6504 giant grasshoppers
+	8475 giant emus
+	2719 emu men
+	13657 emus
+	10429 kakapo
+	18526 barn owls
+	10188 giant sparrows
+	3189 raven men
+	304191 ravens
+	3100 crow men
+	9492 giant kiwis
+	970 giant orioles
+	9492 giant cardinals
+	9492 giant bluejays
+	3439 worm men
+	12 fox men
+	16 moth men
+	60 giant raccoons
+	28 moose men
+	12 feral ogres
+	75 giant cockatiels
+	94 giant white storks
+	160 grackle men
+	28 giant bark scorpions
+	96 two-humped camel men
+	863 giant desert scorpions
+	101 nightmaires
+	16 sanguine dragons
+	16 wurms
+	3169 two-humped camels
+	321 giant desert tortoises
+	1570 swans
+	1675 alligators
+	1890 giant chinchillas
+	840 chinchilla men
+	945 hoary marmot men
+	2100 giant mountain goats
+	2625 giant hoary marmots
+	630 mountain goat men
+	1399 chupacabras
+	7 mantis men
+	7 kakapo men
+	16 honey badger men
+	14 giant jaguars
+	16 desert tortoise men
+	2337 one-humped camels
+	733 cougar men
+	2150 groundhogs
+	18 giant muskoxen
+	22 giant kestrels
+	5086 capybaras
+	196 rattlesnake men
+	700 giant capybaras
+	364 giant jumping spiders
+	756 giant eagles
+	280 wren men
+	432 alligator men
+	1014 giant alligators
+	363 adder men
+	2623 giant moths
+	3520 giant wrens
+	722 giant swans
+	4360 honey badgers
+	10 one-humped camel men
+	15 white stork men
+	2615 chinchillas
+	10611 peregrine falcons
+	26 pike
+	73 carp
+	68 geese
+	85 river otters
+	54 loons
+	73 beavers
+	95 common snapping turtles
+	7 elk men
+	60 giant buzzards
+	38 alligator snapping turtles
+	21 longnose gars
+	329 white storks
+	20 kingsnake men
+	108 giant kangaroos
+	40 hedgehog men
+	32 great horned owl men
+	36 magpie men
+	24 peach-faced lovebird men
+	24 rhesus macaque men
+	82 giant cougars
+	10 raccoon men
+	19 badger men
+	16 echidna men
+	215 giant grizzly bears
+	301 buzzard men
+	387 swan men
+	403 red-winged blackbird men
+	1050 weasel men
+	1050 lizard men
+	728 grasshopper men
+	6970 giant crows
+	1290 giant red-winged blackbirds
+	5 slug men
+	112 giant coyotes
+	91 giant adders
+	6448 kingsnakes
+	2193 yaks
+	2579 vultures
+	18 minks
+	1206 buzzards
+	599 rabbits
+	455 lion tamarin men
+	1440 giant tapirs
+	640 bushmaster men
+	1280 bushmasters
+	480 aye-aye men
+	960 aye-ayes
+	1035 giant sloth bears
+	1035 sloth bear men
+	1840 giant black mambas
+	805 black mamba men
+	2185 giant pangolins
+	2880 giant spider monkeys
+	3040 spider monkeys
+	1265 sloths
+	920 capuchin men
+	1035 giant ocelots
+	2070 giant king cobras
+	690 king cobra men
+	1265 giant anoles
+	575 anole men
+	3450 giant armadillos
+	805 armadillo men
+	2960 silvery gibbons
+	3920 orangutans
+	2000 gorillas
+	3760 bonobos
+	3120 chimpanzees
+	2000 mandrills
+	1150 giant tigers
+	575 elephant men
+	575 hornbill men
+	720 lorikeet men
+	1280 grey parrots
+	2415 giant parakeets
+	1150 parakeet men
+	2000 cassowaries
+	960 giant lion tamarins
+	1346 giant pythons
+	720 python men
+	1904 pythons
+	1040 giant bushmasters
+	880 giant aye-ayes
+	1840 giant sloths
+	5750 capuchins
+	2300 king cobras
+	1150 monitor lizard men
+	950 skunk men
+	10332 giant gray langurs
+	10847 gray langurs
+	2280 giant kingsnakes
+	1265 giant koalas
+	665 coyote men
+	6969 giant hamsters
+	1813 giant iguanas
+	1655 iguanas
+	4767 giant chameleons
+	1323 chameleon men
+	3187 giant skinks
+	4528 armadillos
+	2561 black-crested gibbons
+	2449 bilous
+	3120 black-handed gibbons
+	2452 white-handed gibbons
+	3600 siamangs
+	3520 giant mandrills
+	1791 tiger men
+	2255 tigers
+	1840 giant elephants
+	2990 elephants
+	1386 giant red pandas
+	570 red panda men
+	1884 moose
+	855 panda men
+	475 gigantic pandas
+	1615 foxes
+	285 black bear men
+	2150 thrips men
+	4967 giant ticks
+	12793 giant mantises
+	2415 giant masked lovebirds
+	1180 masked lovebird men
+	2510 giant hornbills
+	4046 giant great horned owls
+	935 giant peach-faced lovebirds
+	1600 giant grey parrots
+	1755 sparrow men
+	2755 giant kea
+	665 kea men
+	1840 giant cassowaries
+	440 oriole men
+	950 bluejay men
+	900 gila monsters
+	107 giant black bears
+	21 giant ibexes
+	63 giant hares
+	17 giant elk
+	45 groundhog men
+	40 kestrel men
+	285 horses
+	8 hare men
+	24 giant groundhogs
+	18 giant magpies
+	25 hoary marmots
+	18 mountain goats
+	61 kiwi men
+	1308 wild boar men
+	109 koalas
+	28 pandas
+	3134 giant beetles
+	127 giant opossums
+	109 giant wombats
+	2408 giant roaches
+	62 giant brown recluse spiders
+	127 kea
+	6 capybara men
+	550 giant gila monsters
+	275 cockatiel men
+	889 barghests
+	1675 giant vultures
+	935 giant one-humped camels
+	1112 giant leopard geckos
+	21 muskoxen
+	1425 giant anacondas
+	950 anaconda men
+	2280 anacondas
+	882 green tree frog men
+	1045 giant saltwater crocodiles
+	665 saltwater crocodile men
+	1045 saltwater crocodiles
+	1029 giant leopards
+	1196 jaguar men
+	3404 giant weasels
+	2394 giant green tree frogs
+	896 hamster men
+	1410 skink men
+	1900 giant honey badgers
+	1173 leopard men
+	933 firefly men
+	772 fly men
+	2755 water buffalos
+	810 eagle men
+	8 ibex men
+	7 kangaroo men
+	6 vulture men
+	19 giant two-humped camels
+	7 gila monster men
+	10 leopard gecko men
+	9 bark scorpion men
+	10 ostrich men
+	110 hippos
+	104 ducks
+	25 hares
+	19 giant echidnas
+	10 koala men
+	9 flying squirrel men
+	5 chipmunk men
+	6 gray squirrel men
+	9 deer men
+	26 giant kakapo
+	55 aardvark men
+	270 aardvarks
+	108 giant impalas
+	32 impala men
+	72 impalas
+	88 black mambas
+	170 giant jackals
+	140 giant monitor lizards
+	120 giant hyenas
+	60 hyena men
+	40 mongoose men
+	60 porcupine men
+	72 giraffe men
+	120 giraffes
+	290 rhinoceroses
+	100 giant gazelles
+	24 gazelle men
+	60 lion men
+	69 giant grackles
+	60 cardinal men
+	157 hyenas
+	584 giant cheetahs
+	646 lions
+	480 giant mongooses
+	522 mongooses
+	384 gigantic tortoises
+	894 giant giraffes
+	9 tapir men
+	22 tapirs
+	8 sloth bears
+	13 monitor lizards
+	6 iguana men
+	38 pileated gibbons
+	5 mandrill men
+	18 blue peafowls
+	26 hornbills
+	65 ocelot men
+	548 pangolins
+	63 pangolin men
+	63 sloth men
+	35 ocelots
+	10 grey parrot men
+	16 cassowary men
+	600 giant coatis
+	98 gray gibbons
+	342 giant lorikeets
+	288 jackals
+	160 giant tortoises
+	144 rhinoceros men
+	80 cheetah men
+	448 giant warthogs
+	160 warthog men
+	384 cavies
+	1091 giant lions
+	28 tigerfish
+	40 white-browed gibbons
+	76 gazelles
+	104 giant ostriches
+	895 cheetahs
+	1528 giant aardvarks
+	880 giant rhinoceroses
+	385 beetle men
+	357 gray langur men
+	962 warthogs
+	16 barn owl men
+	65 giant capuchins
+	16 giant axolotls
+	7 axolotl men
+	5 leech men
+	23 giant hippos
+	7 hippo men
+	15 giant otters
+	18 giant leeches
+	8 otter men
+	70 spider monkey men
+	65 mosquito men
+	16 bobcat men
+	5 jackal men
+	7 giant tortoise men
+	694127 squids
+	65457 sea nettle jellyfish
+	362304 mackerel
+	298193 flounders
+	410256 sole
+	401147 white-spotted puffers
+	356212 glasseye
+	915008 seahorses
+	547452 hake
+	364968 steelhead trout
+	629634 anchovies
+	390276 shads
+	975024 herrings
+	405210 spotted ratfish
+	612480 thornback rays
+	822208 bat rays
+	333519 brook lampreys
+	418248 hagfish
+	356212 clownfish
+	450926 salmon
+	921921 nautiluses
+	558740 cuttlefish
+	532420 damselflies
+	618495 toads
+	378867 pond turtles
+	359331 two-legged rhino lizards
+	3873905 acorn flies
+	6796260 flies
+	6540058 mosquitos
+	466282 dragonflies
+	428770 green tree frogs
+	113207 large roaches
+	482302 rats
+	83218 chameleons
+	2425 cockatiels
+	293249 sparrows
+	91376 peach-faced lovebirds
+	383249 wrens
+	172576 cardinals
+	14592 fairies
+	96022 pixies
+	17557 fluffy wamblers
+	225587 moths
+	72872 magpies
+	28379 grackles
+	298084 blue jays
+	161698 gray squirrels
+	216084 lizards
+	216113 fireflies
+	338346 monarch butterflies
+	414730 skinks
+	13660 chipmunks
+	176933 flying squirrels
+	308204 hamsters
+	195660 red squirrels
+	84750 fox squirrels
+	27634 brown recluse spiders
+	34269 mantises
+	190325 bushtits
+	231570 crows
+	23038 orioles
+	6749 bark scorpions
+	30750 red-winged blackbirds
+	432 sailfin mollies
+	1349 rainbow trout
+	1199 brown bullheads
+	972 perch
+	1335 char
+	1098 black bullheads
+	1148 yellow bullheads
+	34470 leopard geckos
+	13992 hedgehogs
+	25760 lion tamarins
+	164081 lungfish
+	47840 anoles
+	88836 moghoppers
+	131100 jumping spiders
+	46460 masked lovebirds
+	37747 lorikeets
+	34960 parakeets
+	1848 axolotls
+	1628 guppies
+	427 clown loaches
+	418 banded knifefish
+	Unnumbered oysters
+	Unnumbered mussels
+	Unnumbered moon snails
+	Unnumbered slugs
+	Unnumbered snails
+	Unnumbered beetles
+	Unnumbered thrips
+	Unnumbered lice
+	Unnumbered ticks
+	Unnumbered worms
+	Unnumbered leeches
+	Unnumbered bumblebees
+	Unnumbered honey bees
+	Unnumbered ants
+	Unnumbered termites
+
+Underground Animal Populations (Including Undead)
+	173651 gorlaks
+	138668 trolls
+	58277 giant cave spiders
+	639254 muckmen
+	43646 giant bats
+	115927 dralthas
+	71123 naked mole dogs
+	56739 giant cave swallows
+	164544 elk birds
+	158933 troglodytes
+	132560 giant moles
+	194425 pond grabbers
+	120458 cave crocodiles
+	116301 giant olms
+	123173 giant cave toads
+	71882 giant rats
+	13897 blind cave bears
+	35165 large rats
+	36677 helmet snakes
+	42782 gremlins
+	39211 drunians
+	21316 giant earthworms
+	99464 maneras
+	90719 blind cave ogres
+	88606 reachers
+	48115 voracious cave crawlers
+	71204 jabberers
+	185621 plump helmet men
+	1833163 crundles
+	31120 umber hulks
+	410615 floating guts
+	37253 molemarians
+	28700 cave floaters
+	63532 rutherers
+	23679 green devourers
+	95107 bugbats
+	94131 mud men
+	1483132 cave blobs
+	1549327 flesh balls
+	1105012 creeping eyes
+	73162 blood men
+	22066 cave dragons
+	290695 hungry heads
+	92230 magma men
+	96878 fire men
+	93494 fire imps
+	160203 magma crabs
+	Unnumbered waste fiends
+	Unnumbered pterosaur demons
+	Unnumbered soot devils
+	Unnumbered fiery abomination
+	Unnumbered skinless monsters
+	Unnumbered froglike abomination
+	Unnumbered lacewing fiends
+	Unnumbered sea green fiends
+	Unnumbered brutes of salt
+	Unnumbered slush wraiths
+	Unnumbered snow phantoms
+	Unnumbered tortoise fiends
+	Unnumbered iguana monsters
+	Unnumbered sauropod monsters
+	Unnumbered white demons
+	Unnumbered bristleworm devils
+	Unnumbered dark pink monsters
+	Unnumbered tendriled abomination
+	Unnumbered winged brutes
+	Unnumbered demons of salt
+	3034375 cave swallows
+	2926812 bats
+	2773265 cave spiders
+	2536341 olms
+	2876512 cap hoppers
+	3186746 cave fish
+	3083365 cave lobsters
+	1866498 purring maggots
+	1285386 creepy crawlers
+	1543469 fire snakes

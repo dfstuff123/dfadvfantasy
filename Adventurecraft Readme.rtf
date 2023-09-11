@@ -1,0 +1,590 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.17134}\viewkind4\uc1 
+\pard\sl276\slmult1\f0\fs24\lang9 To install this mod:\par
+1. Create a backup of the Raw folder that DF has. Just in case.\par
+2. Replace the unmodded Raw folder with the folder provided alongside this text file.\par
+2a: Alternatively, if you want to use graphics packs, replace the Objects sub-folder, while leaving the Graphics sub-folder untouched.\par
+3. Generate a new world and boom, happy adventuring.\par
+\par
+\b Notable features of the mod:\b0\par
+1. Extensive reaction expansions. Just about anything useful in adventure mode can be obtained somehow.\par
+2. A way to render most generated beast extracts extractable, and modify the material properties of organic generated beasts. Not only is it more rewarding to hunt megabeasts, but the same applies to titans and other such beasts. RCP edits are good for your health.\par
+3. Extensive rebalancing to combat. Not only can you joint-lock and neck-snap just about anything with limbs, but various attacks and weapons better fit the role they're expecting to fill, and many materials have been altered to make things like stone weapons and megabeast-bone crafts serve their purpose.\par
+4. Fleshing out the world and its inhabitants. A wider variety of great beasts to hunt, unnatural variants of certain monsters that stalk the night as a tier of threat below semi-megabeasts, tribes of subterranean animal people who've ascended to live on the surface, etc.\par
+5. Rudimentary magical interactions with a more primal focus, which show up intermittently in worldgen as secrets, but can also be acquired by seeking out certain beasts thematically connected to a specific ability.\par
+\par
+\b Important Pointers Before You Start:\b0\par
+1. Helves have been adapted into staves, and are used for adventure-mode weapon crafting in the same way helves are used for stone axes.\par
+2. Most of the plants I've made pickable in adventurer mode are not in season all year round, just as the plants already exploitable in adventurer mode can only be picked in certain seasons.\par
+3. Proper manly (or dwarvenly) adventurers don't use thread, cloth, bars, or sheets obtained from markets, keeps, or other worldgenned sources. Recipe bugs mean non-player-crafted versions will last for a crapload of uses.\par
+4. Metalworking makes use of the carpenter's workshop for the time being, as no other workshop can be crafted in adventure mode.\par
+\par
+\b Fun Material Tweaks:\b0\par
+* Different tiers of materials. Look for a + or ++ in the material name. In addition to all semi-megabeasts and megabeasts, various select animals have improvements too. This includes tougher skin/leather, raw/tanned scales, bone, tooth, nail, horn, and hoof.\par
+* Several stones have been buffed to not be vastly inferior to bone. Look for the material tier designation. Chert is second only to obsidian in sharpness.\par
+* Scales and chitin can be tanned. Scales are more or less superior to leather, while chitin is better still. To avoid oddities like chitin flasks, only leather is usable in Fortress Mode and world-gen.\par
+* The idea of making potions from megabeast and semi-megabeast hearts has been carried over, with some differences. Each type of beast's essence has a different effect, for you to experiment with (or be spoiled in the appendices). Not all of the beasts added to the mod have usable hearts. Or, you can the relevant megabeast heart (or equivalant for things that lack hearts) to unlock secrets of The Beyond...\par
+* Found out how to tweak generated creatures to allow extracting from their hearts as well. If the creature has a valid poison, it should be extractable from their heart. If they DON'T have a valid poison, you'll instead get a fallback "failed extract" that has no use.\par
+\par
+\b Creature Tweaks:\b0\par
+* Joint definitions have to moved to various body definitions instead of using the "humanoid joints" body token, allowing for things like quadrupeds and other abnormal creatures to have joints. Huge creatures generally are less vulnerable to joint-breaks though.\par
+* Neck-snapping. While mundane damage to the upper spine doesn't always have any effect, putting a joint lock on it definately will. Unless the creature is stupidly huge.\par
+* Venomous creatures yield a venom sac when butchered. Sadly there's still no way to apply poison to weapons and get it to work. Instead an alchemical reaction allows you to process the venom sac into a sample of venom, modified to act as a contact poison.\par
+* Joint edits have been applied to generated creatures. Normal joints tend to be more common than breakable necks.\par
+* Thread can be made from catgut. No, not just literal cat gut catgut. This proved simpler than adding harvestable sinews.\par
+* Because DF2015 broke cannibal adventurers, intelligent semi-megabeasts/megabeasts are currently non-sentient. To make up for this, they gain natural skills.\par
+\par
+\b New Creatures:\b0\par
+* At the suggestion of Jackie, messed around with making centaurs, and moreover made their body less of a "humanoid with 4 legs" thing used in vanilla. They show up in good biomes and can join civs. An evil critter, based on the kamaitachi, has also been added as another source of civ fodder for evil regions.\par
+* A couple added mythical creatures were added to make up for making centaurs real. Also added descriptions and spheres, to make their use in art more interesting.\par
+* Gargoyles as flying semi-megabeasts. They have a shell-like surface resembling stone instead of skin, making them biological creatures instead of yet another inorganic foe.\par
+* Did you know that tree monsters were a planned feature early in the first releases of DF, that were then dummied out before being deleted entirely? Added my own attempt at treants. Tough but not at bronze-colossus levels. Its wood will make for effective blunt weapons, but poor edged weapons. Think twice before you try lighting one on fire!\par
+* Two H.P. Lovecraft references via the mi-go and shoggoth. Mi-gos have a delightfully alien body structure, while shoggoths are acidic blobs. Hint: pulp all the things.\par
+* Eternal things. Basically chitinous worms that can grow rather large given time, faster than dragons but not quite as huge.\par
+* Manticores. Overgrown lions with bat wings and scorpion tails. All the Fun of both potion-yield megabeasts and venomous critters.\par
+* Four lesser beasts that can form lairs, as a step down from semi-megabeasts. These act like night creature hunters, making lairs in various places. Dire wolves, dire bears, feral ogres, and sanguine dragons are all based off of some existing creature in some way, with qualities to make them different challenges in combat.\par
+* Some raw-defined recreations of the classic pre-DF2010 demons. These are used as fallback for some things that may require demons to exist, and tend to be used instead of said generated demons where nessecary. Fiery abominations are recreations of spirits of fire, tweaked to float on a djinn-like cloud of cinders and made tougher than flame-bodied critters normally are (so punching one to death is a much tougher feat). Froglike abominations are a recreation of frog demons, given a more grotesque gorilla-like body and a nasty plague inflicted via bites and tongue-lashing. Tedriled abominations are the tentacle demons, reworked into a scaly form with its tentacles instead of arms, lashing out with acidic secretions that can also provoke a neurotoxic effect.\par
+\par
+\b Plant Tweaks:\b0\par
+* More plants can be picked in adventurer mode, with seasonal growths depending on the type. You can pick a couple of the berry-providing plants, thread-bearing plants, and extract-bearing plants.\par
+* Dwarven syrup is simply delicious. Gnomeblight remains only useful for melting gnomes. Golden salve has been given medicinal properties. Muck root, whip vine, and sliver barb have been given situationally-useful extracts.\par
+* In addition to more potent alchemical concoctions, more mundane medicine can be made from certain plant sources (best as the system permits, and noting that the game lacks what would normally be the best options for that). The effects are much more minor than what golden salve or processed muck root can do, but it can help in a pinch.\par
+* Brewable plants can be made into delicious booze. If it isn't brewable by picking the plant itself (assuming it's in season), try brewing fruit instead.\par
+* Bread is now a thing. The relevant plants can be ground into flour and used as such.\par
+* Bamboo, cattails, and cloudberries have been given useful growths. This works in adventure mode, but due to the plants being grass they can't be picked in fort mode.\par
+\par
+\b Civilization Tweaks:\b0\par
+* All of the main races are playable in Adventurer Mode, whether as civ members or as outsiders.\par
+* All civilizations have been given access to large daggers. This is because the damn thing shows up in every adventurer's inventory, even though they're normally unavailable to most civilizations.\par
+* Humans and goblins have been given slings and sewing needles, for the hell of it.\par
+* Kobold civ was tweaked some. Gave them sewing needles, cloaks, socks, slings, blowguns, bucklers, needles, and nest boxes (makes sense, they lay eggs). Utterances tag as been supplemented, not replaced, with the ability to speak. Still allows gibberish names while fixing a few potentially-lingering AI bugs. Also gave them access to leather and a chieftain position.\par
+* Goblins need food and water, so remember that.\par
+* Outsiders can start off with wooden weaponry, to encourage actually upgrading your gear.\par
+* Underground animal people have been given a surface-dwelling equivalent, allowing for occasional instances of them being playable as entity members, instead of outsiders. They spread out as tribes in small villages, potentially allying with or coming to blows with the major civilizations.\par
+\par
+\b New Uses For Existing Items (and changes):\b0\par
+* Mortars and pestles are used for plant processing and alchemy. A pair can be crafted from stone.\par
+* A few reactions use blunt small rocks for hammering instead of just knapping.\par
+* If you get ahold of full logs, a battle axe can be used to split it into usable branches pieces.\par
+* Stone axes have been changed to allow metal versions to show up in human and goblin sites.\par
+* Helves have been given the same weapon uses as staves in older versions of this mod, and renamed to staves to reflect this.\par
+\par
+\b New Items:\b0\par
+* Needles, required for sewing. In addition to wood you can carve them from bone, tooth, nail, hoof, or horn.\par
+* Clubs, as a crude mace-equivalent as suggested by Kallin.\par
+* Caesti and katars, unarmed weapons suggested and worked on by Jackie.\par
+* Simple lockbows, originally implemented in Kobold Kamp as suggested by Flint.\par
+* Spear-throwers and javelins, made with help from ZM5. Closer to actual hand-thrown javelins than the more realistic atlatl, but still allows use of a spear-thrower for gameplay reasons.\par
+* Slings and sling stones. Slings are made from leather or cloth, use the throwing skill at range, and make rather weak lashing weapons. Sling stones are obviously crafted from stone. More forceful than throwing small rocks by hand, but not sharp.\par
+* Gambesons, made from cloth. Obviously fragile unless using megabeast haircloth or silk.\par
+* Cooking pots, for making certain items, most notably for brewing.\par
+* Animal glue, which the recent combat changes have made useful.\par
+* Eight raw-defined instruments that can be crafted, supplementing the generated instruments that can't be crafted in adventure mode.\par
+\par
+\b Dismantling Items:\b0\par
+* Boulders and logs can be split into small rocks and pieces of wood, respectively.\par
+* Cloth can be unraveled if needed.\par
+* Cloth items can be cut apart for cloth, leather items can be cut apart, and metal items can be broken down for metal. Note that nothing's stopping you from being a lunatic and trying to dismantle the end result into itself, which will eventually waste it.\par
+\par
+\b Bugs and Issues:\b0\par
+* No gauntlets due to the gauntlet bug. The workaround I originally devised tends to break more things than it fixes.\par
+* Just like whips, civs will generate metal slings because derp. Outsiders will also have access to metal staves, clubs, and caesti, all of which were balanced around the assumption that they'd only ever be made out of much lighter materials.\par
+* No way to apply poison to weapons or ammo. Every mod I've seen uses the broken reaction from Wanderer's Friend. Crafting contact poison will have to suffice.\par
+* The amount of usable leather, bone, etc can be increased by lopping off limbs. For bone, there are reaction bugs and balance issues behind why Adventurecraft has set crafting to consume full stacks, instead of vanilla's use of single units for a stack.\par
+* Any plants you can pick in adventurer mode are nigh-infinite sources when they're in season. No amount of tweaking growth density has proven effective.\par
+* Goblin and kobold adventurers will find their home to be an immense pain in the ass to leave, as dark forts and caves block fast travel even if the inhabitants are friendly.\par
+* Nothing's stopping you from being a lunatic and trying to dismantle cloth, tanned hides, or metal bars. This will eventually waste it due to the odds not being 100%. \par
+* Thread, cloth, bars, and sheets obtained from towns instead of player-made are a nigh-endless source of crafting material, due to reactions set to only produce and use product dimensions of 1.\par
+* The addition of faked wood for outsider weapons adds an unusable material to the forge in fortress mode.\par
+\par
+\b Appendix A, New Reactions (No Workshop Involved):\b0\par
+\par
+* Tan a raw hide, raw scales, or raw chitin. Produces tanned leather/scale/chitin.\par
+* Dry and spin gut into catgut thread.\par
+* Spin hair or wool into thread.\par
+* Process thread-bearing plant into thread.\par
+* Weave cloth. Uses hair/wool, plant-based, or silk thread.\par
+* Make glue. Uses raw hide, raw scales, bone, skull, horn, or hoof. Requires a cooking item.\par
+* Repair cloth item. Uses cloth and thread, requires a needle.\par
+* Repair leather/scale/chitin item. Uses any of said materials plus thread, requires a needle.\par
+* Repair wood/bone/stone item. Uses animal glue, requires a sharp object.\par
+\par
+* Carve wooden sewing needle. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn needle. Uses any of said materials, requires a sharp object.\par
+* Carve wooden stave. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone stave. Uses bones, and requires a sharp object.\par
+* Carve bone/shell axe. Uses either material plus a stave, requires a sharp object.\par
+* Craft stone axe. Uses a sharp rock and a stave, requires a sharp object.\par
+* Craft stone mortar and pestle. Uses 2 blunt small rocks, and requires a third.\par
+* Craft stone cooking pot. Uses any small rock, and requires a blunt small rock.\par
+\par
+* Craft sling stones. Uses a blunt small rock, and requires a second.\par
+* Carve wooden arrows. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn arrows. Uses any of said materials plus a stave, and requires a sharp object.\par
+* Craft stone arrows. Uses any small rock and a stave, requires a sharp object and a blunt small rock.\par
+* Carve wooden bolts. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn bolts. Uses any of said materials plus a stave, and requires a sharp object.\par
+* Craft stone bolts. Uses any small rock and a stave, requires a sharp object and a blunt small rock.\par
+* Carve wooden javelins. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn javelins. Uses any of said materials plus a stave, and requires a sharp object.\par
+* Craft stone javelins. Uses any small rock and a stave, requires a sharp object and a blunt small rock.\par
+* Carve wooden darts. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn darts. Uses any of said materials, requires a sharp object.\par
+\par
+* Carve wooden dagger. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden spear. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden pike. Uses two wooden branches, and requires a sharp object.\par
+* Carve wooden club. Uses a wooden branch, and requires a sharp object.\par
+* Craft leather/scale whip. Uses leather/scale, and requires a sharp object.\par
+* Craft leather/scale/chitin caestus. Uses any of said materials, and requires a sharp object.\par
+* Craft wooden bow. Uses a stave and thread, requires a sharp object.\par
+* Craft simple wooden lockbow. Uses two branches and thread, requires a sharp object.\par
+* Carve wooden blowgun. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden spear-thrower. Uses a wooden branch, and requires a sharp object.\par
+* Craft leather/scale sling. Uses leather, and requires a sharp object.\par
+* Craft cloth sling. Uses cloth, and requires a sharp object.\par
+\par
+* Craft bone/shell/tooth/horn dagger. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn spear. Uses any of said materials plus a stave, requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn pike. Uses any of said materials plus two staves, requires a sharp object.\par
+* Carve bone/shell battle axe. Uses either material plus a stave, requires a sharp object.\par
+* Carve bone/shell great axe. Uses either material plus a stave, requires a sharp object.\par
+* Carve bone/shell/tooth/horn short sword. Uses any of said materials plus a stave, requires a sharp object.\par
+* Carve bone/shell/tooth/horn long sword. Uses any of said materials plus a stave, requires a sharp object.\par
+* Carve bone/shell/tooth/horn two-handed sword. Uses any of said materials plus a stave, requires a sharp object.\par
+* Carve bone club. Uses bones, and requires a sharp object.\par
+* Craft bone/tooth/nail/hoof/horn katar. Uses any of said materials, and requires a sharp object.\par
+* Craft bone bow. Uses bones and thread, requires a sharp object.\par
+* Craft simple bone lockbow. Uses bones, a stave, and thread, requires a sharp object.\par
+* Carve bone spear-thrower. Uses bones, and requires a sharp object.\par
+* Carve bone blowgun. Uses bones, and requires a sharp object.\par
+\par
+* Knap stone dagger. Uses any small rock, and requires a blunt small rock.\par
+* Craft stone spear. Uses a sharp rock and a stave. No need to cut the stave to size.\par
+* Craft stone pike. Uses a sharp rock and two staves. No need to cut the staves to size.\par
+* Craft stone battle axe. Uses a sharp rock and a stave, requires a sharp object.\par
+* Craft stone great axe. Uses a sharp rock and a stave, requires a sharp object.\par
+* Craft stone short sword. Uses a sharp rock and a stave, requires a sharp object.\par
+* Craft stone long sword. Uses a sharp rock and a stave, requires a sharp object.\par
+* Craft stone two-handed sword. Uses a sharp rock and a stave, requires a sharp object.\par
+* Craft stone mace. Uses any small rock and a stave, requires a blunt small rock and a sharp object.\par
+* Craft stone war hammer. Uses any small rock and a stave, requires a blunt small rock and a sharp object.\par
+* Craft stone maul. Uses any small rock and a stave, requires a blunt small rock and a sharp object.\par
+\par
+* Craft bone/shell buckler. Uses either material, and requires a sharp object.\par
+* Craft bone/shell shield. Uses either material, and requires a sharp object.\par
+* Craft bone/shell helm. Uses either material, and requires a sharp object.\par
+* Craft skull helm. Uses a skull, and requires a sharp object.\par
+* Craft bone/shell armor. Uses either material and requires a sharp object.\par
+* Craft bone/shell leggings. Uses either material, and requires a sharp object.\par
+* Craft bone greaves. Uses bones, and requires a sharp object.\par
+\par
+* Craft leather/scale/chitin buckler. Uses any of said materials, and requires a sharp object.\par
+* Craft leather/scale/chitin shield. Uses any of the said materials, and requires a sharp object.\par
+* Sew leather/scale/chitin cap. Uses any of said materials plus thread, requires a needle.\par
+* Sew leather/scale/chitin helm. Uses any of said materials plus thread, requires a needle.\par
+* Sew leather/scale/chitin armor. Uses any of said materials plus thread, requires a needle.\par
+* Sew leather/scale/chitin leggings. Uses any of said materials plus thread, requires a needle.\par
+* Sew leather/scale/chitin low boots. Uses any of said materials plus thread, requires a needle.\par
+* Sew leather/scale/chitin high boots. Uses any of said materials plus thread, requires a needle.\par
+\par
+* Sew leather/scale backpack. Uses leather/scale and thread, requires a needle.\par
+* Sew leather/scale waterskin. Uses leather/scale and thread, requires a needle.\par
+* Sew leather/scale quiver. Uses leather/scale and thread, requires a needle.\par
+* Sew leather/scale hood. Uses leather/scale and thread, requires a needle.\par
+* Sew leather/scale mask. Uses leather/scale and thread, requires a needle.\par
+* Sew leather/scale cloak. Uses leather/scale and thread, requires a needle.\par
+* Sew leather/scale tunic. Uses leather/scale and thread, requires a needle.\par
+* Make leather/scale loincloth. Uses leather/scale.\par
+* Sew leather/scale trousers. Uses leather/scale and thread, requires a needle.\par
+* Craft leather/scale footwraps. Uses leather, and requires a sharp object.\par
+* Sew leather/scale sandals. Uses leather/scale and thread, requires a needle.\par
+* Decorate object with leather/scale. Uses leather/scale and thread, requires a needle.\par
+\par
+* Sew cloth backpack. Uses cloth and thread, requires a needle.\par
+* Sew cloth quiver. Uses cloth and thread, requires a needle.\par
+* Sew cloth cap. Uses cloth and thread, requires a needle.\par
+* Sew cloth hood. Uses cloth and thread, requires a needle.\par
+* Sew cloth mask. Uses cloth and thread, requires a needle.\par
+* Sew cloth gambeson. Uses cloth and thread, requires a needle.\par
+* Sew cloth cloak. Uses cloth and thread, requires a needle.\par
+* Sew cloth tunic. Uses cloth and thread, requires a needle.\par
+* Make cloth loincloth. Uses cloth.\par
+* Sew cloth trousers. Uses cloth and thread, requires a needle.\par
+* Craft cloth footwraps. Uses cloth, and requires a sharp object.\par
+* Sew cloth socks. Uses cloth and thread, requires a needle.\par
+* Sew cloth sandals. Uses cloth and thread, requires a needle.\par
+* Decorate object with cloth. Uses cloth and thread, requires a needle.\par
+\par
+* Carve wooden buckler. Uses a wooden log, and requires a sharp object.\par
+* Carve wooden shield. Uses a wooden log, and requires a sharp object.\par
+* Carve wooden crutch. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden cup. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden minecart. Uses a wooden log, and requires a sharp object.\par
+* Carve wooden figurine. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden ring. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden earring. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden scepter. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden amulet. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden bracelet. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden crown. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden cabochan. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden mask. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden sandals. Uses a wooden branch, and requires a sharp object.\par
+* Carve wooden dice. Uses a wooden branch, and requires a sharp object.\par
+* Decorate object with wood. Uses a wooden branch, and requires a sharp object.\par
+\par
+* Carve bone crutch. Uses bones, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn goblet. Uses any of said materials, and requires a sharp object.\par
+* Carve skull goblet. Uses a skull, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn figurine. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn ring. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn earring. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn scepter. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn amulet. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn bracelet. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn crown. Uses any of said materials, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn cabochan. Uses any of said materials, and requires a sharp object.\par
+* Craft skull totem. Uses a skull, and requires a sharp object.\par
+* Carve bone/shell mask. Uses either of said materials, and requires a sharp object.\par
+* Craft skull mask. Uses a skull, and requires a sharp object.\par
+* Carve bone/shell/tooth/horn dice. Uses any of said materials, and requires a sharp object.\par
+* Decorate object with bone/shell/tooth/nail/hoof/horn. Uses said materials, requires a sharp object.\par
+\par
+* Craft stone mug. Uses a blunt small rock, and requires a second.\par
+* Craft stone figurine. Uses a blunt small rock, and requires a second.\par
+* Craft stone ring. Uses a blunt small rock, and requires a second.\par
+* Craft stone earring. Uses a blunt small rock, and requires a second.\par
+* Craft stone scepter. Uses a blunt small rock, and requires a second.\par
+* Craft stone amulet. Uses a blunt small rock, and requires a second.\par
+* Craft stone bracelet. Uses a blunt small rock, and requires a second.\par
+* Craft stone crown. Uses a blunt small rock, and requires a second.\par
+* Craft stone cabochan. Uses a blunt small rock, and requires a second.\par
+* Decorate object with stone. Uses a blunt small rock, and requires a second.\par
+\par
+* Split wooden log into branches. Also requires a sharp object. Ignore the absurdity.\par
+* Split large stone into small rocks. Also requires a blunt small rock.\par
+* Unravel cloth into thread.\par
+* Dismantle cloth item. Requires a sharp object.\par
+* Dismantle leather/scale/chitin item. Requires a sharp object.\par
+* Dismantle stone item. Requires a blunt small rock.\par
+* Dismantle metal item. Requires a blunt small rock.\par
+\par
+* Mill plant into flour. Uses valid plant, requires a mortar and pestle.\par
+* Bake bread. Uses flour, requires a cooking pot.\par
+* Brew alcohol from plant. Uses valid plant, requires a cooking pot and an empty waterskin.\par
+* Brew alcohol from fruit. Uses valid plant growth, requires a cooking pot and an empty waterskin.\par
+* Craft astringent tincture. Uses three leaves from berry-bearing plants, requires a mortar and pestle.\par
+* Extract from plant. Uses extractable plant, requires a mortar and pestle plus an empty waterskin.\par
+* Refine venom into toxin. Uses a venom sac, requires a mortar and pestle plus an empty waterskin.\par
+* Extract from (semi)megabeast heart, requires a mortar and pestle plus an empty waterskin.\par
+* Extract from generated creature heart, requires a mortar and pestle plus an empty waterskin.\par
+* Create magical essence from (semi)megabeast heart, shoggoth core, treant wood, or mountain bronze, Also uses a scroll, requires a mortar and pestle.\par
+\par
+* Press pulpable plant into paper. Uses a valid plant, requires a mortar and pestle.\par
+* Dry skin into parchment. Uses a raw hide, and requires a sharp object.\par
+* Carve wooden scroll rollers. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone scroll rollers. Uses bone, and requires a sharp object.\par
+* Assemble a scroll. Uses a sheet and a scroll roller.\par
+* Craft a quire. Uses a sheet.\par
+\par
+* Carve wooden bagpipe pipes. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn bagpipe pipes. Uses any of said materials, and requires a sharp object.\par
+* Sew leather/scale bagpipe bag. Uses leather/scale and thread, requires a needle.\par
+* Craft instrument strings. Uses string.\par
+* Carve wooden lyre body. Uses a wooden log, and requires a sharp object.\par
+* Carve bone/shell lyre body. Uses either material and requires a sharp object.\par
+* Carve wooden guitar body. Uses a wooden log, and requires a sharp object.\par
+* Carve skull guitar body. Uses a skull, and requires a sharp object.\par
+* Carve wooden guitar neck. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone guitar neck. Uses bone, and requires a sharp object.\par
+* Carve wooden harp body. Uses a wooden log, and requires a sharp object.\par
+* Carve wooden drum body. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone drum body. Uses bone, and requires a sharp object.\par
+* Craft leather/scale drum head. Uses leather/scale.\par
+\par
+* Carve wooden simple flute. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone simple flute. Uses bone, and requires a sharp object.\par
+* Carve wooden instrument musical horn. Uses a wooden branch, and requires a sharp object.\par
+* Carve bone/tooth/nail/hoof/horn musical horn. Uses any of said materials, and requires a sharp object.\par
+* Carve wooden bell. Uses a wooden log, and requires a sharp object.\par
+* Assemble bagpipes. Requires a bagpipe bag and instrument pipes.\par
+* Assemble lyre. Requires a lyre body and strings.\par
+* Assemble guitar. Requires a guitar body, a guitar neck, and strings.\par
+* Assemble harp. Requires a harp body and strings.\par
+* Assemble drum. Requires a drum body and drum head.\par
+\par
+\b Appendix B, List of Forging Reactions (at Carpenter's Workshop):\par
+\b0\par
+* Craft makeshift forge. Uses 10 small rocks.\par
+* Repair metal item. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal axe. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal mortar and pestle. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal cooking pot. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+\par
+* Craft metal sling bullets. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal arrows. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal bolts. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal javelins. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal darts. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+\par
+* Craft metal dagger. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal spear. Uses metal, a stave, and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal pike. Uses metal, a stave, and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal battle axe. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal great axe. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal short sword. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal long sword. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal two-handed sword. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal mace. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal war hammer. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal maul. Uses metal, a stave, and a log, requires a makeshift forge, a sharp object, and a blunt small rock.\par
+* Craft metal caestus. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal katar. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+\par
+* Craft metal buckler. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal shield. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal helmet. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal cap. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal breastplate. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal mail shirt. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal greaves. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal mail leggings. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal low boots. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal high boots. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+\par
+* Craft metal throne. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal table. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal chest. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal cabinet. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal door. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal barrel. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal bucket. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal sarcophagus. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal hatch cover. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal grate. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal bin. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal stepladder. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal bookcase. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal splint. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal pedestal. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal animal trap. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+\par
+* Craft metal crutch. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal goblet. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal minecart. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal figurine. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal ring. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal earring. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal scepter. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal amulet. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal bracelet. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal crown. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal cabochan. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Craft metal mask. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+* Decorate object with metal. Uses metal and a log, requires a makeshift forge and a blunt small rock.\par
+\par
+\b Appendix C, List of More Useful Stones:\b0\par
+\par
+* Andesite\par
+* Basalt\par
+* Chert (in-between other sharp stones and obsidian)\par
+* Dacite\par
+* Diorite\par
+* Native aluminum (same as aluminum)\par
+* Native copper (same as copper)\par
+* Native gold (same as gold)\par
+* Native platinum (same as platinum)\par
+* Native silver (same as silver)\par
+* Obsidian (deliciously sharp and deadly)\par
+* Quartzite\par
+* Phyllite\par
+* Raw adamantine (same as adamantine)\par
+* Rhyolite\par
+* Shale\par
+* Slade (good luck obtaining that one!)\par
+* Slate\par
+\par
+\b Appendix D, List of Monsters With Improved Body Materials:\b0\par
+\par
+Tier 1:\par
+\par
+* Alligator (and variants, alligator men are currently unusable)\par
+* Anaconda (and variants, anaconda men are currently unusable)\par
+* Armadillo (and variants, armadillo men are currently unusable)\par
+* Black bear (and variants, black bear men are currently unusable)\par
+* Blind cave bear\par
+* Blind cave ogre (currently unusable)\par
+* Cave crocodile\par
+* Cave dragon\par
+* Coelacanth\par
+* Elephant (and variants, elephant men are currently unusable)\par
+* Giant cave spider\par
+* Giant desert scorpion (re-added due to Toady removing them ;w;)\par
+* Giant Mantis (normal version is a non-butcherable vermin, mantis men are currently unusable)\par
+* Gigantic squid (normal version is a non-butcherable vermin, squid men are currently unusable)\par
+* Great white shark\par
+* Grizzly bear (and variants, grizzly bear men are currently unusable)\par
+* Hippo (and variants, hippo men are currently unusable)\par
+* Ogre\par
+* Ocra (and variants, orca men are currently unusable)\par
+* Polar bear (and variants, polar bear men are currently unusable)\par
+* Rhinoceros (and variants, rhinoceros men are currently unusable)\par
+* Saltwater crocodile (and variants, saltwater crocodile men are currently unusable)\par
+* Sea monster\par
+* Sea serpent\par
+* Troll\par
+* Voracious cave crawler\par
+* Walrus (and variants, walrus men are currently unusable)\par
+* Wild boar (and variants, wild boar men are currently unusable)\par
+* Cyclops\par
+* Ettin\par
+* Giant\par
+* Minotaur\par
+* Gargoyle\par
+* Mi-go\par
+* Dire bear\par
+* Feral ogre\par
+* Lesser dragon\par
+\par
+Tier 2:\par
+* Dragon\par
+* Hydra\par
+* Roc\par
+* Eternal thing\par
+* Manticore\par
+* Treant (wood)\par
+\par
+\b Appendix E, List of Monsters That Yield Venom Sacs:\b0\par
+\par
+* Giant adder (normal version is a too small to butcher, mantis men are currently unusable)\par
+* Giant bark scorpion (normal version is a non-butcherable vermin, mantis men are currently unusable)\par
+* Black mamba (and variants, black mamba men are currently unusable)\par
+* Giant brown recluse spider (normal version is a non-butcherable vermin, mantis men are currently unusable)\par
+* Bushmaster (and variants, bushmaster men are currently unusable)\par
+* Giant copperhead snake (normal version is a too small to butcher, mantis men are currently unusable)\par
+* Giant desert scorpion\par
+* Giant cave spider\par
+* Gila monsters (and variants, gila monster men are currently unusable)\par
+* Helmet snake\par
+* King cobra (and variants, king cobra men are currently unusable)\par
+* Platypus (and variants, platypus men are currently unusable)\par
+* Rattlesnake (and variants, rattlesnake men are currently unusable)\par
+* Serpent man (currently unusable)\par
+* Manticore\par
+\par
+\b Appendix F, List of Plant and Misc Craftable Extracts:\b0\par
+\par
+Notable Plant Extracts:\par
+* Astringent tincture. Generally if it yields berries, its leaves are likely usable for alchemy. Very minor reduction in bleeding, infection, and some impact on open wounds.\par
+* Dwarven syrup. Delicious but does nothing.\par
+* Gnomeblight. Still only deadly to gnomes.\par
+* Golden salve. Stops bleeding and other ailments, potent non-nerve healing.\par
+* Marshmend, from muck root. Stops bleeding and eases pain.\par
+* Whiplash, from whip vine. Boost agility and speed some, side effects of dizzness and nausea.\par
+* Barbed haze, from sliver barb. Assorted stat boost, pentalties, and other Fun.\par
+\par
+Megabeast and Semi-megabeast Hearts:\par
+* Aetherbreath, from mi-gos. Grants immunity to suffocation.\par
+* Draconic fury, from dragons. Boosts willpower, inspires martial trances.\par
+* Giant's might, from giants. Boosts strength.\par
+* Insight, from ettins. Boosts assorted mental stats.\par
+* Relentlessness, from minotaurs. Grants immunity to stunning, exertion, and pain.\par
+* Renewel, from hydras. Powerful, but brief, regeneration with regrowth of limbs.\par
+* Stoneskin, from gargoyles. Hardens you against attacks.\par
+* Swiftness, from rocs. Boost agility, increases speed somewhat.\par
+* True seeing, from cyclopes. Grants extravision and creature-sensing.\par
+* Eternity, from eternal things. Grants a skill-boosting buff.\par
+* Trickery, from manticores. Sharply boosts various social stats.\par
+\par
+Other:\par
+* Failed extract. If a genrated titan/demon/etc doesn't have a valid poison (or has poison blood instead), this will be the result. Does nothing.\par
+* Shoggoth slime, readily obtained from shoggoths (obviously). Causes localized pain, blistering, bleeding, and necrosis. Drinking it is exactly as stupid an idea as you'd expect it to be.\par
+* Cursed dragonblood, from sanguine dragons. Dangerous to drink, but has some minor situational benefits.\par
+\par
+\b Appendix G, List of Plants Made Harvestable in The Mod:\par
+\b0\par
+* Alfalfa, available most of summer into early winter. Edible raw.\par
+* Arrow bamboo, available all year. Source of branches.\par
+* Asparagus, available only early in spring. Edible raw.\par
+* Barley, available all summer and autumn. Source of flour and alcohol.\par
+* Beet, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Bloated tuber, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Blood amaranth, available most of summer into early winter. Edible, source of flour/alcohol.\par
+* Buckwheat, available most of summer into early winter. Source of flour and alcohol.\par
+* Cabbage, available midspring into midsummer. Edible raw.\par
+* Carrot, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Cassava, available midspring into midsummer. Source of alcohol.\par
+* Cattail, available later spring into early summer. Source of flour, thread, and paper.\par
+* Cave wheat, available all summer and autumn. Source of flour and alcohol.\par
+* Celery, available midspring into midsummer. Edible raw.\par
+* Chicory, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Cloudberry, available in winter. Edible raw, source of alcohol.\par
+* Cotton, available most of summer into early winter. Source of thread and paper.\par
+* Finger millet, available all summer and autumn. Source of flour and alcohol.\par
+* Fisher berry, available most of summer. Edible raw, source of alcohol.\par
+* Flax, available most of summer into early winter. Source of thread, paper, and flour.\par
+* Fonio, available all summer and autumn. Source of flour and alcohol.\par
+* Foxtail millet, available all summer and autumn. Source of flour and alcohol.\par
+* Garden cress, available midspring into midsummer. Edible raw.\par
+* Golden bamboo, available all year. Source of branches.\par
+* Hard wheat, available all summer and autumn. Source of flour and alcohol.\par
+* Hedge bamboo, available all year. Source of branches.\par
+* Hemp, available all summer and autumn. Source of thread, paper, and flour.\par
+* Jute, available most of summer into early winter. Source of thread and paper.\par
+* Kaniwa, available most of summer into early winter. Source of flour and alcohol.\par
+* Kenaf, available most of summer into early winter. Source of thread and paper.\par
+* Kobold bulb, available midautumn and all winter. Source of extract.\par
+* Leek, available midspring into midsummer. Edible raw.\par
+* Lettuce, available midspring into midsummer. Edible raw.\par
+* Long yam, available midspring into midsummer. Edible raw.\par
+* Longland grass, available all summer and autumn. Source of flour and alcohol.\par
+* Maize, available most of summer into early winter. Source of flour and alcohol.\par
+* Muck root, available midspring into midsummer. Edible raw, source of extract and alcohol.\par
+* Oat, available all summer and autumn. Source of flour and alcohol.\par
+* Papyrus sedge, available most of summer into early winter. Source of paper.\par
+* Parsnip, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Pearl millet, available all summer and autumn. Source of flour and alcohol.\par
+* Pendant amaranth, available most of summer into early winter. Source of flour and alcohol.\par
+* Pig tail, available most of summer-early winter. Source of thread, paper, flour, and alcohol.\par
+* Prickle berry, available most of summer. Edible raw, source of alcohol.\par
+* Plump helmet, available all year. Edible raw, source of alcohol.\par
+* Potato, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Purple amaranth, available most of summer into early winter. Source of flour and alcohol.\par
+* Quinoa, available most of summer into early winter. Source of flour and alcohol.\par
+* Radish, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Ramie, available most of summer into early winter. Source of thread and paper.\par
+* Rat weed, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Rhubarb, available midspring into midsummer. Edible raw.\par
+* Rice, available most of summer into early winter. Source of flour and alcohol.\par
+* Rope reed, available most of summer-early winter. Source of thread, paper, and alcohol.\par
+* Rye, available all summer and autumn. Source of flour and alcohol.\par
+* Single-grain wheat, available all summer and autumn. Source of flour and alcohol.\par
+* Sliver barb, available all winter. Source of extract and alcohol.\par
+* Soft wheat, available all summer and autumn. Source of flour and alcohol.\par
+* Sorghum, available most of summer into early winter. Source of flour and alcohol.\par
+* Spelt, available all summer and autumn. Source of flour and alcohol.\par
+* Sun berry, available most of summer. Edible raw, source of alcohol.\par
+* Sweet pod, available midspring into midsummer. Source of exract and alcohol.\par
+* Sweet potato, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Teff, available all summer and autumn. Source of flour and alcohol.\par
+* Turnip, available midspring into midsummer. Edible raw, source of alcohol.\par
+* Two-grain wheat, available all summer and autumn. Source of flour and alcohol.\par
+* Whip vine, available midspring into midsummer. Source of flour, extract, and alcohol.\par
+* White millet, available all summer and autumn. Source of flour and alcohol.\par
+* Valley herb, available most of spring. Source of extract.\par
+\par
+\b Appendix H, List of Obtainable Magic:\par
+\b0\par
+* Animal magic, opposed to nature magic. Transforms the user into a random giant animal when used. Associated with animals, chaos, and hunting. Can be obtained from minotaurs.\par
+* Blight magic, opposed to healing magic. Inflicts a debilitating, sickening plague on a target creature when used. Fellow blight mages, healing mages, and those currently immunized by healing magic cannot be targeted with it. Can cause victims to go berserk and spread the sickness if they survive long enough. Associated with blight, disease, and misery. Can be obtained from shoggoths.\par
+* Clairvoyance magic, opposed to infernal magic. Grants extravision and creature-sensing to a targeted creature when used, along with boosting agility and sensory-type mental attributes. Associated with inspiration, light, and wisdom. Can be obtained from eternal things and cyclopes.\par
+* Fire magic, opposed to wind. Flings a fireball at a target creature when used, fellow fire mages cannot be targeted with it. Associated with fire, the sun, and volcanoes. Can be obtained from dragons.\par
+* Healing magic, opposed to blight magic. Mends bleeding and tissue damage on a target creature when used. Also temporarily immunizes the target against blight magic. Associated with healing, mercy, and rebirth. Can be obtained from hydras.\par
+* Infernal magic, opposed to clairvoyance magic. Summons a random demonic creature when used, which will always be one of the raw-defined demons instead of a generated one, which will attack any living thing except the caster. Inflicts stigmata and personality changes on the user, repeated use will build up side effects until blood loss becomes lethal, and each use has a chance of rendering the caster permanently mute. Associated with darkness, nightmares, and revenge. Can be obtained from mi-gos.\par
+* Nature magic, opposed to animal magic. Summons a random natural predatory animal when used. Associated with nature, plants, and trees. Can be obtained from treants and manticores.\par
+* Protective magic, opposed to war magic. Grants high damage resistance to a target creature when used. Associated with courage, discipline, and longevity. Can be obtained from gargoyles and bronze colossi.\par
+* War magic, opposed to protective magic. Inflicts a berserk rage on the caster when used, with appropriate status buffs. Associated with strength, victory, and war. Can be obtained from giants and ettins.\par
+* Wind magic, opposed to fire magic. Sends multiple target creatures flying away with high force when used, requires targets to be fairly close. Associated with storms, thunder, and wind. Can be obtained from rocs.\f1\fs22\par
+}
+ 
